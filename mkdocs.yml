@@ -12,6 +12,6 @@ theme:
 nav:
   - Home: index.md
   - Hello: whoami.md
-  - Subnetting: subnetting.md
+  - Subnet tings: subnetting.md
 
 
