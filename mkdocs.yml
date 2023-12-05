@@ -3,11 +3,21 @@ site_name: Luke Richardson aka Lukeoson
 site_url: https://hello.lukeoson.com
 repo_url: https://github.com/lukeoson/lukeoson-mkdocs
 repo_name: lukeoson/lukeoson-mkdocs
-copyright: Copyright &copy; 2023 Lloret
-
-
-
-
+copyright: Copyright &copy; 2023 Lukeoson
 
 theme:
   name: material
+
+# Navigation 
+nav:
+  - Home: index.md
+  - About: about.md
+  - Summary: summary.md
+  - Topology: topology.md
+  - RFI: rfi.md
+  - Tech Sub: tech-sub.md
+  - BoM: bom.md
+  - Milestones: milestones.md
+  - Documents: documents.md
+  - Config: config.md
+  - Contact: contact.md
