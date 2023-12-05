@@ -12,4 +12,6 @@ theme:
 nav:
   - Home: index.md
   - Hello: whoami.md
+  - Subnetting: subnetting.md
+
 
