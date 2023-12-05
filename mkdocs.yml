@@ -11,13 +11,5 @@ theme:
 # Navigation 
 nav:
   - Home: index.md
-  - About: about.md
-  - Summary: summary.md
-  - Topology: topology.md
-  - RFI: rfi.md
-  - Tech Sub: tech-sub.md
-  - BoM: bom.md
-  - Milestones: milestones.md
-  - Documents: documents.md
-  - Config: config.md
-  - Contact: contact.md
+  - Hello: who-am-i.md
+
