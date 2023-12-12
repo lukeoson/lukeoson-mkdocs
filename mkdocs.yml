@@ -5,13 +5,74 @@ repo_url: https://github.com/lukeoson/lukeoson-mkdocs
 repo_name: lukeoson/lukeoson-mkdocs
 copyright: Copyright &copy; 2023 Lukeoson
 
+
+# Using the Material theme
 theme:
   name: material
+  icon:
+    annotation: material/chevron-right-circle
+    repo: fontawesome/brands/github
+  name: material
+  favicon: assets/logos/favicon.ico
+  logo: assets/logos/lloret-letters-logo.webp 
+  features:
+    - navigation.tabs
+    - navigation.footer
+    - header.autohide
+    - navigation.sections
+    - search.highlight
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.path
+    - search.suggest
+    - search.share
+
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Lloret-Labs
+      name: Lloret Labs GitHub
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/LloretGroup
+      name: Lloret Group Twitter
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/lloret-control-systems
+      name: Lloret Control Systems LinkedIn
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/watch?v=bhhagWXO5V0&list=PLu0ZfvM3i6VmMR85jaX5Enh5D32-p_d9k
+  generator: false 
+  homepage: https://lloret.co.uk
 
 # Navigation 
 nav:
   - Home: index.md
   - Hello: whoami.md
   - Subnet Tings: subnetting.md
+  - Reference Docs: documents.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - md_in_html
+  - admonition
+  - attr_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
 
 
+plugins:
+  - glightbox
+  - search
+  - include-markdown
+  - table-reader 
+
+extra_css:
+  - stylesheets/extra.css
