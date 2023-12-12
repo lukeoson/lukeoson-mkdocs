@@ -14,7 +14,7 @@ theme:
     repo: fontawesome/brands/github
   name: material
   favicon: assets/logos/favicon.ico
-  logo: assets/logos/lloret-letters-logo.webp 
+  #logo: assets/logos/lloret-letters-logo.webp 
   features:
     - navigation.tabs
     - navigation.footer
