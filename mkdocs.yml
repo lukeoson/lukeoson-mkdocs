@@ -53,6 +53,7 @@ nav:
   - Subnet Tings: subnetting.md
   - Reference Docs: documents.md
   - Contact: contact.md
+  - Trace: trace.md
 
 markdown_extensions:
   - md_in_html
