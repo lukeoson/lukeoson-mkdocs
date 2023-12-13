@@ -52,8 +52,8 @@ nav:
   - Hello: whoami.md
   - Subnet Tings: subnetting.md
   - Reference Docs: documents.md
-  - Contact: contact.md
   - Trace: trace.md
+  - Contact: contact.md
 
 markdown_extensions:
   - md_in_html
@@ -77,3 +77,6 @@ plugins:
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - /javascripts/linkedin.js
