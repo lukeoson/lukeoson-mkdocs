@@ -51,9 +51,11 @@ nav:
   - Home: index.md
   - Hello: whoami.md
   - Subnet Tings: subnetting.md
+  - OSI Model: osi.md
   - Reference Docs: documents.md
   - Trace: trace.md
   - Contact: contact.md
+
 
 markdown_extensions:
   - md_in_html
