@@ -50,15 +50,18 @@ extra:
 nav:
   - Home: index.md
   - Hello: whoami.md
-  - Subnet Tings: subnetting.md
+  - Subnet Tings 👊: subnetting.md
   - OSI Model: osi.md
   - Packet Life: packet-life.md
   - Subnet 101: subnet101.md
+  - Power ✌️: power2.md
   - Hex: hex.md
   - IPv4: IPv4.md
+  - CIDR: cidr.md
   - IPv6: IPv6.md
-  - Reference Docs: documents.md
+  - Reference Docs 📚: documents.md
   - Trace: trace.md
+  - Bad: broadcast.md
   - Contact: contact.md
 
 

@@ -1,28 +1,35 @@
 
 !!! note
-    **Do not be alarmed.** Most people use a subnet calculator in the real world.
+    🔕 **Do not be alarmed.** Most people use a subnet calculator in the real world. 😌
 
-    - [x] But it is handy to know the basic theory.
+    - [x] Here is my go to [Visual Subnet Calc](https://www.davidc.net/sites/default/subnets/subnets.html?network=).
+
+    - [x] But it is handy to know the basic theory. ␆
 
 ### Knowledge Pyramid
 
-- **Numerical Systems**
-    - [x] **Binary**: Base-2, uses 0 and 1.
-    - [x] **Hexadecimal**: Base-16, uses 0-9 and A-F.
-    - [x] **Decimal**: Base-10, uses 0-9.
+#### Numerical Systems
+ - [x] **Binary**: Base-2, uses 0 and 1.
+ - [x] **Hexadecimal**: Base-16, uses 0-9 and A-F.
+ - [x] **Decimal**: Base-10, uses 0-9.
 
-- **IP Classes**
-    - [x] **Class A**: Large networks, 0-126.
-    - [x] **Class B**: Medium networks, 128-191.
-    - [x] **Class C**: Small networks, 192-223.
-    - [x] **Class D**: Multicast groups, 224-239.
-    - [x] **Class E**: Experimental use, 240-255.
+---
 
-- **Subnets**
-    - [x] **Subnet Masks**: Define network/host portions.
-    - [x] **VLSM (Variable Length Subnet Mask)**: Flexible subnet sizing.
-    - [x] **SUM (Supernetting)**: Combine smaller networks.
+#### IP Classes
+- [x] **Class A**: Large networks, 0-126.
+- [x] **Class B**: Medium networks, 128-191.
+- [x] **Class C**: Small networks, 192-223.
+- [x] **Class D**: Multicast groups, 224-239.
+- [x] **Class E**: Experimental use, 240-255.
 
+---
+
+#### Subnets
+- [x] **Subnet Masks**: Define network/host portions.
+- [x] **VLSM (Variable Length Subnet Mask)**: Flexible subnet sizing.
+- [x] **SUM (Supernetting)**: Combine smaller networks.
+
+---
 
 ### Binary to Decimal
 
@@ -46,49 +53,62 @@
 | 11111110    | 254            |
 | 11111111    | 255            |
 
+### Network 
+
+| Octet Number | Binary Format   | Decimal Equivalent |
+|--------------|-----------------|--------------------|
+| 1st Octet    | 11000000        | 192                |
+| 2nd Octet    | 10101000        | 168                |
+| 3rd Octet    | 00000001        | 1                  |
+| 4th Octet    | 00000000        | 0                  |
+
+### Broadcast
+
+| Octet Number | Binary Format   | Decimal Equivalent |
+|--------------|-----------------|--------------------|
+| 1st Octet    | 11000000        | 192                |
+| 2nd Octet    | 10101000        | 168                |
+| 3rd Octet    | 00000001        | 1                  |
+| 4th Octet    | 11111111        | 255                |
+
+### Potential Gateway (could be any address/es in host range)
+
+| Octet Number | Binary Format   | Decimal Equivalent |
+|--------------|-----------------|--------------------|
+| 1st Octet    | 11000000        | 192                |
+| 2nd Octet    | 10101000        | 168                |
+| 3rd Octet    | 00000001        | 1                  |
+| 4th Octet    | 00000001        | 1                  |
+
+
 ### All Zeros and All Ones
 
 **Network Address (All Host Bits Off - 0s):**
 
-- When all the host bits are set to 0, the address represents the network address. 
+- [x] When all the host bits are set to 0, the address represents the network address. 
 
-- This address is not assignable to individual devices but is used to identify the network or subnet itself. 
+- [x] This address is not assignable to individual devices but is used to identify the network or subnet itself. 
 
-- In a subnet 192.168.1.0/24, the address 192.168.1.0 is the network address, where the last octet (1.**0**) has all host bits off.
+- [x] In a subnet 192.168.1.0/24, the address 192.168.1.0 is the network address, where the last octet (1.**0**) has all host bits off.
 **
 
 **Broadcast Address (All Host Bits On - 1s):**
 
-- When all the host bits are set to 1, the address becomes the broadcast address for that subnet. 
-- This address is used to send data to all devices on the subnet simultaneously. 
-- It's like a shout-out to everyone on that network. 
-- In the same subnet 192.168.1.0/24, the broadcast address would be 192.168.1.255, where the last octet (1.**255**) has all host bits on.
+- [x] When all the host bits are set to 1, the address becomes the broadcast address for that subnet. 
+- [x] This address is used to send data to all devices on the subnet simultaneously. 
+- [x] It's like a shout-out to everyone on that network. 
+- [x] In the same subnet 192.168.1.0/24, the broadcast address would be 192.168.1.255, where the last octet (1.**255**) has all host bits on.
 
 | Host Bits Status | Address Type      | Description                                                |
 |------------------|-------------------|------------------------------------------------------------|
 | All 0s           | Network Address   | The address used to identify the subnet itself.            |
 | All 1s           | Broadcast Address | The address used to send data to all hosts on the subnet.  |
 
+![image](assets/images/pdf/Cheat Sheets - PacketLife.net/IPv4_Subnetting.pdf)
 
 ### Why Minimize Broadcast Packets?
 
-1. **Network Congestion**: Broadcast packets are sent to all devices on a network segment, regardless of whether they're the intended recipient. This means every device has to process these packets, even if they're irrelevant. On a busy network, this can lead to a lot of unnecessary data traffic, congesting the network.
-
-2. **Resource Drain**: Each device on the network must process and determine the relevance of broadcast packets. This can be a drain on resources, especially on devices that might already be running heavy tasks. It's like getting a bunch of irrelevant group emails; you have to check each one, just in case.
-
-3. **Reduced Performance**: High levels of broadcast traffic can slow down the overall network performance. Devices spend time and processing power handling these broadcasts, which could be better spent on actual data transmission relevant to their tasks.
-
-4. **Security Concerns**: Broadcasts can be a security risk. They can potentially be used for malicious activities like broadcast storms or as a method to discover devices on a network by an attacker.
-
-### The Goal
-
-The goal in network design and management is, therefore, to keep broadcast traffic as minimal as possible. This can be achieved by:
-
-- **Using Subnets**: Dividing a large network into smaller subnets can localize broadcast traffic, preventing it from spanning the entire network.
-- **Switches over Hubs**: Switches are smarter than hubs and can reduce unnecessary broadcast traffic by sending packets only to the intended recipient.
-- **VLANs (Virtual LANs)**: VLANs can further segment a network, isolating broadcast domains and improving overall network performance and security.
-
-In essence, minimizing broadcast packets helps maintain a smoother, faster, and more secure network. It's like keeping public announcements in a big building to only the floors that need to hear them, rather than blasting them everywhere! 
+Minimizing broadcast packets helps maintain a smoother, faster, and more secure network. It's like keeping public announcements in a big building to only the floors that need to hear them, rather than blasting them everywhere! 
 
 
 
