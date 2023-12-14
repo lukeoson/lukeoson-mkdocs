@@ -1,3 +1,6 @@
+
+
+
 | Stage            | Description                                       |
 |------------------|---------------------------------------------------|
 | 1. Generation    | Data is generated or requested by an application. |
@@ -10,6 +13,8 @@
 | 8. Delivery      | Data is delivered to the destination app.        |
 
 # Packet Journey Through the OSI Model
+
+![osi-model](assets/images/The 7 Layers of OSI.png.webp){align=center}
 
 ```plaintext
   +-----------------------------------+
