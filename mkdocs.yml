@@ -54,6 +54,8 @@ nav:
   - OSI Model: osi.md
   - Subnet 101: subnet101.md
   - Hex: hex.md
+  - IPv4: IPv4.md
+  - IPv6: IPv6.md
   - Reference Docs: documents.md
   - Trace: trace.md
   - Contact: contact.md
@@ -65,13 +67,17 @@ markdown_extensions:
   - attr_list
   - pymdownx.tasklist:
       custom_checkbox: true
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
-
+    
 
 plugins:
   - glightbox
