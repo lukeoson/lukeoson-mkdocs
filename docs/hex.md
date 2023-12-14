@@ -1,17 +1,19 @@
 
 ### What is Hexadecimal?
 
-- **Made of 16 Symbols**: Hexadecimal uses a set of 16 unique symbols to represent values. These symbols include 0-9 and the letters A-F.
+- Made of 16 Symbols
 
-- **More User-Friendly Than Binary**: While binary represents data with only two symbols (0 and 1), hexadecimal's use of 16 symbols makes it more compact and user-friendly for representing large binary values.
+- More User-Friendly Than Binary
 
-- **Base-16 Numbering System**: Hexadecimal is a base-16 system. This means that each digit in a hexadecimal number represents a power of 16, in contrast to the base-10 system we use in everyday life.
+- Base-16 Numbering System: Hexadecimal is a base-16 system. Power of 16.
 
-- **Binary is Base-2**: In comparison, binary is a base-2 system, where each digit represents a power of 2. This makes binary the fundamental language of computers, but it can be lengthy and complex for human interpretation.
+- Binary is Base-2: Binary is a base-2 system. Power of 2.
 
-- **Decimal is Base-10**: The decimal system, which is the most familiar numbering system for daily use, is a base-10 system. It uses ten symbols (0-9) and each digit represents a power of 10.
+- Decimal is Base-10: Power of 10. 10 Digits! Caveman Counting. 
 
 ### Convert Binary to Hexadecimal
+
+- Nibbles: 4 bits = 1 nibble
 
 | Decimal | Hexadecimal | Binary     |
 |---------|-------------|------------|

@@ -7,21 +7,21 @@
 ### Knowledge Pyramid
 
 - **Numerical Systems**
-  - Binary
-  - Hexadecimal
-  - Decimal
+    - [x] **Binary**: Base-2, uses 0 and 1.
+    - [x] **Hexadecimal**: Base-16, uses 0-9 and A-F.
+    - [x] **Decimal**: Base-10, uses 0-9.
 
-- **IP Addressing**
-  - IP Classes
+- **IP Classes**
+    - [x] **Class A**: Large networks, 0-126.
+    - [x] **Class B**: Medium networks, 128-191.
+    - [x] **Class C**: Small networks, 192-223.
+    - [x] **Class D**: Multicast groups, 224-239.
+    - [x] **Class E**: Experimental use, 240-255.
 
-- **Network Division**
-  - Subnets
-
-- **Advanced IP Addressing Techniques**
-  - VLSM (Variable Length Subnet Mask)
-
-- **Network Aggregation**
-  - SUM (Supernetting)
+- **Subnets**
+    - [x] **Subnet Masks**: Define network/host portions.
+    - [x] **VLSM (Variable Length Subnet Mask)**: Flexible subnet sizing.
+    - [x] **SUM (Supernetting)**: Combine smaller networks.
 
 
 ### Binary to Decimal
@@ -51,7 +51,9 @@
 **Network Address (All Host Bits Off - 0s):**
 
 - When all the host bits are set to 0, the address represents the network address. 
+
 - This address is not assignable to individual devices but is used to identify the network or subnet itself. 
+
 - In a subnet 192.168.1.0/24, the address 192.168.1.0 is the network address, where the last octet (1.**0**) has all host bits off.
 **
 
@@ -87,3 +89,13 @@ The goal in network design and management is, therefore, to keep broadcast traff
 - **VLANs (Virtual LANs)**: VLANs can further segment a network, isolating broadcast domains and improving overall network performance and security.
 
 In essence, minimizing broadcast packets helps maintain a smoother, faster, and more secure network. It's like keeping public announcements in a big building to only the floors that need to hear them, rather than blasting them everywhere! 
+
+
+
+
+
+
+
+
+
+
