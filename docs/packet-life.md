@@ -1,4 +1,6 @@
+# The Life of a Packet
 
+## A unholy flow of complexity to deliver a Payload - Simplified
 
 
 | Stage            | Description                                       |
@@ -12,7 +14,7 @@
 | 7. Decapsulation | Packets are decapsulated to retrieve data.       |
 | 8. Delivery      | Data is delivered to the destination app.        |
 
-# Packet Journey Through the OSI Model
+## Data Journey Through the OSI Model
 
 ![osi-model](assets/images/The 7 Layers of OSI.png.webp){align=center}
 

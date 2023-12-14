@@ -13,6 +13,8 @@
  - [x] **Hexadecimal**: Base-16, uses 0-9 and A-F.
  - [x] **Decimal**: Base-10, uses 0-9.
 
+    ![10 fingers](assets/images/DALLE-10-fingers.png)
+
 ---
 
 #### IP Classes
