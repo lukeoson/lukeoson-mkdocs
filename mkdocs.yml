@@ -1,5 +1,5 @@
 # Site Settings
-site_name: Luke Richardson aka Lukeoson
+site_name: Lukeoson Labs
 site_url: https://blah.lukeoson.com/
 repo_url: https://github.com/lukeoson/lukeoson-mkdocs
 repo_name: lukeoson/lukeoson-mkdocs
@@ -53,6 +53,7 @@ nav:
   - Subnet Tings: subnetting.md
   - OSI Model: osi.md
   - Subnet 101: subnet101.md
+  - Hex: hex.md
   - Reference Docs: documents.md
   - Trace: trace.md
   - Contact: contact.md
