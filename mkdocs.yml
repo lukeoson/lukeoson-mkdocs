@@ -52,6 +52,7 @@ nav:
   - Hello: whoami.md
   - Subnet Tings: subnetting.md
   - OSI Model: osi.md
+  - Packet Life: packet-life.md
   - Subnet 101: subnet101.md
   - Hex: hex.md
   - IPv4: IPv4.md

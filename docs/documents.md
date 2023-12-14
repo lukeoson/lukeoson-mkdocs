@@ -8,3 +8,5 @@
 - [x] A common [Book](https://www.amazon.co.uk/IP-Subnetting-Zero-Paul-Browning-ebook/dp/B07KV7N8WS) and associated [YouTube](https://www.youtube.com/embed/KiceJJrkq7s?si=yCwKZfUHkmnmZ_zD)
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/KiceJJrkq7s?si=yCwKZfUHkmnmZ_zD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+ - [x] Packet Life's [Subnetting Practice](http://packetlife.net/media/library/15/IPv4_Subnetting.pdf) PDF. 🩵
