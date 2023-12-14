@@ -9,6 +9,8 @@
 
     **It is a reference model.** Ultimately, the TCP/IP model is the more practical model for today's networks, but the OSI model is still used to describe network layers and protocols. The **US DoD invented the TCP/IP model** in the 1970s, and it was used to build the internet. The OSI model was created in the 1980s by the International Organization for Standardization (ISO), and it was designed to be an abstract model for describing network protocols, not a practical model for building networks.
 
+### From Binary to Magic     
+
 | Layer Number | Layer Name      | Function                                                                 | Examples                              |
 |--------------|-----------------|--------------------------------------------------------------------------|---------------------------------------|
 | 7            | Application     | Provides network services directly to applications                       | HTTP, FTP, SMTP                       |
