@@ -1,6 +1,4 @@
-### Knowledge Pyramid
-
-#### Numerical Systems
+# Numerical Systems
  - [x] **Binary**: Base-2, uses 0 and 1.
 
     ![binary](assets/images/DALLE-binary.png)
