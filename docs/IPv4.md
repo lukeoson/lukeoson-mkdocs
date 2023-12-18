@@ -41,6 +41,15 @@
 | 3rd Octet    | 00000001        | 1                  |
 | 4th Octet    | 00000010        | 2                  |
 
+### Bits & Bytes of 192.168.1.2
+
+| Component | Description                                    | Details                                        |
+|-----------|------------------------------------------------|------------------------------------------------|
+| Octet     | An IPv4 address is divided into 4 octets.      | Each octet consists of 8 bits.                 |
+| Bit       | The basic unit of data in an IP address.       | There are 32 bits in total (8 bits per octet). |
+| Byte      | Equivalent to one octet.                       | Each byte (or octet) ranges from 0 to 255.     |
+| Example   | For the IP address 192.168.1.2:                | - 192 is the first octet (byte).<br>- 168 is the second octet (byte).<br>- 1 is the third octet (byte).<br>- 2 is the fourth octet (byte). |
+
 - [x] 10.70.3.100
 
 | Octet Number | Binary Format   | Decimal Equivalent |
@@ -50,25 +59,5 @@
 | 3rd Octet    | 00000011        | 3                  |
 | 4th Octet    | 01100100        | 100                |
 
-## Badly Formatted Mermaid Diagram 
 
-
-```mermaid
-graph LR
-    A[IPv4 Address] --> B[Octet 1]
-    A --> C[Octet 2]
-    A --> D[Octet 3]
-    A --> E[Octet 4]
-
-    B --> B1[8 bits<br>Binary: 00001010<br>Decimal: 10]
-    C --> C1[8 bits<br>Binary: 01000110<br>Decimal: 70]
-    D --> D1[8 bits<br>Binary: 00000011<br>Decimal: 3]
-    E --> E1[8 bits<br>Binary: 01100100<br>Decimal: 100]
-
-    style A fill:#f9f,stroke:#333,stroke-width:4px
-    style B fill:#ccf,stroke:#f66,stroke-width:2px
-    style C fill:#ccf,stroke:#f66,stroke-width:2px
-    style D fill:#ccf,stroke:#f66,stroke-width:2px
-    style E fill:#ccf,stroke:#f66,stroke-width:2px
-```
 
