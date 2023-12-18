@@ -59,6 +59,7 @@ nav:
   - IPv4: IPv4.md
   - CIDR: cidr.md
   - IPv6: IPv6.md
+  - Example: example.md
   - Reference Docs 📚: documents.md
   - Trace: trace.md
   - Bad: broadcast.md

@@ -4,7 +4,7 @@
 
 - [x] The [Open Systems Interconnect Model](https://www.iso.org/ics/35.100/x/) from the [International Organization for Standardization](International Organization for Standardization)
 
-!!! note
+??? note "French software engineer Hubert Zimmermann"
     The OSI model was first defined in raw form in Washington, D.C., in February 1978 by French software engineer Hubert Zimmermann, and the refined but still draft standard was published by the ISO in 1980.
 
     **It is a reference model.** Ultimately, the TCP/IP model is the more practical model for today's networks, but the OSI model is still used to describe network layers and protocols. The **US DoD invented the TCP/IP model** in the 1970s, and it was used to build the internet. The OSI model was created in the 1980s by the International Organization for Standardization (ISO), and it was designed to be an abstract model for describing network protocols, not a practical model for building networks.

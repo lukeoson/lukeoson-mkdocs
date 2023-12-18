@@ -1,5 +1,5 @@
 
-??? note "If in doubt - use a Calculator"
+??? note "No Worries"
 
     🔕 **Do not be alarmed.** Most people use a subnet calculator in the real world. 😌
 
@@ -55,6 +55,7 @@
 | Bit Position | 7 | 6 | 5 | 4 | 3 | 2 | 1 | 0 |
 |--------------|---|---|---|---|---|---|---|---|
 | Binary Value | 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+
 
 | Binary Bits | Decimal Number |
 |-------------|----------------|
