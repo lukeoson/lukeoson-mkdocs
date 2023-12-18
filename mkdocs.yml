@@ -66,6 +66,8 @@ nav:
 
 
 markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.details
   - md_in_html
   - admonition
   - attr_list

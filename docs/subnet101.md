@@ -1,5 +1,6 @@
 
-!!! note
+??? note "If in doubt - use a Calculator"
+
     🔕 **Do not be alarmed.** Most people use a subnet calculator in the real world. 😌
 
     - [x] Here is my go to [Visual Subnet Calc](https://www.davidc.net/sites/default/subnets/subnets.html?network=).
