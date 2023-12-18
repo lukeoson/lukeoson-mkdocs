@@ -1,7 +1,7 @@
 
 ## Lloret Staff Block
 
-- [x] Let's consider a specific subnet: 10.70.3.0/16.
+- [x] Let's consider the Lloret Staff IP Pool of 10.70.3.0/16.
 
 ??? "What is the mask in decimal?"
 
