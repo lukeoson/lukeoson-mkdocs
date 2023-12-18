@@ -1,8 +1,16 @@
 
 - [x] 32 binary bits - 4 octets - 8 bits per octet.
+
+---
+
 - [x] Computers only read bits. They just see 32 bits. 
+
+---
+
 - [X] IPv4 addresses are assigned by IANA (Internet Assigned Numbers Authority).
+
     - They allocate routable IP addresses to ISPs (Internet Service Providers).
+
     - ISPs assign routable IP addresses to customers.
 
 ---
@@ -11,6 +19,10 @@
 
 ---
 
+## Each Byte has a value between 0 and 255
+
+- [x] 2 the Power of 8
+
 | Octet Number | Binary Format   | Decimal Equivalent |
 |--------------|-----------------|--------------------|
 | 1st Octet    | 00000000        | 0 - 255            |
@@ -18,12 +30,18 @@
 | 3rd Octet    | 00000000        | 0 - 255            |
 | 4th Octet    | 00000000        | 0 - 255            |
 
+## Example IPv4 Addresses:
+
+- [x] 192.168.1.2
+
 | Octet Number | Binary Format   | Decimal Equivalent |
 |--------------|-----------------|--------------------|
 | 1st Octet    | 11000000        | 192                |
 | 2nd Octet    | 10101000        | 168                |
 | 3rd Octet    | 00000001        | 1                  |
 | 4th Octet    | 00000010        | 2                  |
+
+- [x] 10.70.3.100
 
 | Octet Number | Binary Format   | Decimal Equivalent |
 |--------------|-----------------|--------------------|

@@ -41,7 +41,7 @@
 
 ---
 
-
+## Bits specified by Class
 
 | Class | Leading Bits   | Range of First Octet |
 |-------|----------------|----------------------|
@@ -55,7 +55,8 @@
 
 ---
 
-#### Subnets
+## Subnets
+
 - [x] **Subnet Masks**: Define network/host portions.
 - [x] **VLSM (Variable Length Subnet Mask)**: Flexible subnet sizing.
 - [x] **SUM (Supernetting)**: Combine smaller networks.
@@ -64,10 +65,19 @@
 
 ### Binary to Decimal
 
+??? note "Zero-based Indexing"
+
+    In most programming languages, arrays and sequences start at index 0. This convention carries over to how we count positions in a binary number. It aligns with the way memory addresses and offsets are calculated in computer systems.
+
+#### An Octets Decimal Values
+
 | Bit Position | 7 | 6 | 5 | 4 | 3 | 2 | 1 | 0 |
 |--------------|---|---|---|---|---|---|---|---|
 | Binary Value | 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
 
+#### 2 the Power of 8
+
+- [x] 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 = **256**
 
 | Binary Bits | Decimal Number |
 |-------------|----------------|
