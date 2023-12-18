@@ -46,7 +46,7 @@
 
 ---
 
-## Subnets
+## Subnets - Classy Cider 🍻
 
 - [x] **Subnet Masks**: Define network/host portions.
 - [x] **VLSM (Variable Length Subnet Mask)**: Flexible subnet sizing.

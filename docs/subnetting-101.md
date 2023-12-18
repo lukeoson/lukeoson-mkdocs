@@ -12,7 +12,7 @@
 
     In most programming languages, arrays and sequences start at index 0. This convention carries over to how we count positions in a binary number. It aligns with the way memory addresses and offsets are calculated in computer systems.
 
-#### An Octets Decimal Values
+#### An Octets Decimal Values ♫
 
 | Bit Position | 7 | 6 | 5 | 4 | 3 | 2 | 1 | 0 |
 |--------------|---|---|---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | 4th Octet    | 00000001        | 1                  |
 
 
-### All Zeros and All Ones
+## All Zeros and All Ones
 
 **Network Address (All Host Bits Off - 0s):**
 

@@ -56,8 +56,8 @@ nav:
   - Numerics: numerics.md
   - IPv4: IPv4.md
   - Classy: classy.md
-  - Subnet 101: subnetting-101.md
   - CIDR: cidr.md
+  - Subnet 101: subnetting-101.md
   - Power ✌️: power2.md
   - Hex: hex.md
   - IPv6: IPv6.md
