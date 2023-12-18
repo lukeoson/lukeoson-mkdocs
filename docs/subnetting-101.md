@@ -14,6 +14,8 @@
 
 #### An Octets Decimal Values ♫
 
+- [x] 🐣 Get this in your head and much of the rest just falls into place. 
+
 | Bit Position | 7 | 6 | 5 | 4 | 3 | 2 | 1 | 0 |
 |--------------|---|---|---|---|---|---|---|---|
 | Binary Value | 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 |

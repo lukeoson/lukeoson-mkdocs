@@ -58,10 +58,10 @@ nav:
   - Classy: classy.md
   - CIDR: cidr.md
   - Subnet 101: subnetting-101.md
+  - Example: example.md
   - Power ✌️: power2.md
   - Hex: hex.md
   - IPv6: IPv6.md
-  - Example: example.md
   - Reference Docs 📚: documents.md
   - Trace: trace.md
   - Bad: broadcast.md
