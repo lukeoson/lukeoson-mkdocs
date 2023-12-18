@@ -72,3 +72,10 @@ graph LR
     style D fill:#ccf,stroke:#f66,stroke-width:2px
     style E fill:#ccf,stroke:#f66,stroke-width:2px
 ```
+
+| Octet Position | Subnet Mask Example | Network Bits (1's) | Host Bits (0's) |
+|----------------|---------------------|--------------------|-----------------|
+| 1st Octet      | 255                 | 11111111           | 00000000        |
+| 2nd Octet      | 255                 | 11111111           | 00000000        |
+| 3rd Octet      | 192                 | 11000000           | 00111111        |
+| 4th Octet      | 0                   | 00000000           | 11111111        |
