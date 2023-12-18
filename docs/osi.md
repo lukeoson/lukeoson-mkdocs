@@ -33,3 +33,16 @@
 | 2            | Internet     | Determines the best path through the network            | IP (IPv4, IPv6), ICMP                   |
 | 1            | Network Access (or Link) | Deals with the physical aspects of data transmission  | Ethernet, Wi-Fi, ARP                    |
 
+### In case you were wondering...
+
+| Protocol | OSI Layer      | Description                                                                 |
+|----------|----------------|-----------------------------------------------------------------------------|
+| BACnet   | Application    | Provides rules for data representation and communication.                  |
+|          | Network        | BACnet/IP uses IP for networking.                                           |
+|          | Physical/Data Link | Uses Ethernet, ARCNET, or MSTP for physical communication.           |
+| Modbus   | Application    | Defines its own data model and functions at this layer.                     |
+|          | Transport      | In Modbus TCP/IP, TCP is used for transport.                                |
+|          | Network        | Modbus TCP/IP uses IP.                                                      |
+|          | Physical/Data Link | In Modbus Serial (RTU or ASCII), operates over RS-232 or RS-485 lines. |
+
+

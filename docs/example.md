@@ -97,8 +97,6 @@
 
 ---
 
-Absolutely, Lukeoson. Here's the example for a Class A subnet with a /12 CIDR notation:
-
 ## Example Class A Subnet
 
 - [x] Let's start with a Class A network stealing 4 bits from Hosts.
