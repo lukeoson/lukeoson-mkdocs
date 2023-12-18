@@ -21,6 +21,8 @@
 
 ## Slash the Decimals. Decimate to Slash.  
 
+> We call slash notation "CIDR notation" because it's a key component of Classless Inter-Domain Routing (CIDR), which is a method for allocating IP addresses and routing decisions. The slash notation is a concise way to represent an IP address and its associated routing prefix.
+
 | Decimal Subnet Mask     | Binary Subnet Mask       | CIDR Notation |
 |-------------------------|---------------------------|---------------|
 | 255.255.255.255         | 11111111.11111111.11111111.11111111 | /32           |

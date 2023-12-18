@@ -38,7 +38,11 @@
 | 11111110    | 254            |
 | 11111111    | 255            |
 
+## Basic Example
+
 ### Network 
+
+- [x] 192.168.1.0 is the Network Address.
 
 | Octet Number | Binary Format   | Decimal Equivalent |
 |--------------|-----------------|--------------------|
@@ -49,6 +53,8 @@
 
 ### Broadcast
 
+- [x] 192.168.1.255 is a Broadcast Address.
+
 | Octet Number | Binary Format   | Decimal Equivalent |
 |--------------|-----------------|--------------------|
 | 1st Octet    | 11000000        | 192                |
@@ -56,7 +62,12 @@
 | 3rd Octet    | 00000001        | 1                  |
 | 4th Octet    | 11111111        | 255                |
 
-### Potential Gateway (could be any address/es in host range)
+### Potential Gateway 
+
+- [x] 192.168.1.1 could be the Gateway Address.
+
+??? note
+    - Could be any address/es in host range.
 
 | Octet Number | Binary Format   | Decimal Equivalent |
 |--------------|-----------------|--------------------|
@@ -68,21 +79,37 @@
 
 ## All Zeros and All Ones
 
-**Network Address (All Host Bits Off - 0s):**
+### Network Address --> All Host Bits **OFF**:
 
 - [x] When all the host bits are set to 0, the address represents the network address. 
 
+---
+
 - [x] This address is not assignable to individual devices but is used to identify the network or subnet itself. 
 
-- [x] In a subnet 192.168.1.0/24, the address 192.168.1.0 is the network address, where the last octet (1.**0**) has all host bits off.
-**
+---
 
-**Broadcast Address (All Host Bits On - 1s):**
+- [x] In a subnet 192.168.1.0/24, the address 192.168.1.0 is the network address, where the last octet (1.**0**) has all host bits off.
+
+---
+
+### Broadcast Address --> All Host Bits **ON**:
 
 - [x] When all the host bits are set to 1, the address becomes the broadcast address for that subnet. 
+
+---
+
 - [x] This address is used to send data to all devices on the subnet simultaneously. 
+
+---
+
 - [x] It's like a shout-out to everyone on that network. 
+
+---
+
 - [x] In the same subnet 192.168.1.0/24, the broadcast address would be 192.168.1.255, where the last octet (1.**255**) has all host bits on.
+
+---
 
 | Host Bits Status | Address Type      | Description                                                |
 |------------------|-------------------|------------------------------------------------------------|
