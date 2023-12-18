@@ -44,3 +44,8 @@
 | 192.0.0.0               | /2            |
 | 128.0.0.0               | /1            |
 | 0.0.0.0                 | /0 (Default)  |
+
+
+### Why Minimize Broadcast Packets?
+
+Minimizing broadcast packets helps maintain a smoother, faster, and more secure network. It's like keeping public announcements in a big building to only the floors that need to hear them, rather than blasting them everywhere! 

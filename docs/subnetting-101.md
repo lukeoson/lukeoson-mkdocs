@@ -79,6 +79,11 @@
 
 ## All Zeros and All Ones
 
+| Host Bits Status | Address Type      | Description                                                |
+|------------------|-------------------|------------------------------------------------------------|
+| All 0s           | Network Address   | The address used to identify the subnet itself.            |
+| All 1s           | Broadcast Address | The address used to send data to all hosts on the subnet.  |
+
 ### Network Address --> All Host Bits **OFF**:
 
 - [x] When all the host bits are set to 0, the address represents the network address. 
@@ -111,16 +116,11 @@
 
 ---
 
-| Host Bits Status | Address Type      | Description                                                |
-|------------------|-------------------|------------------------------------------------------------|
-| All 0s           | Network Address   | The address used to identify the subnet itself.            |
-| All 1s           | Broadcast Address | The address used to send data to all hosts on the subnet.  |
+## Cheat Sheet
 
 ![image](assets/images/pdf/Cheat Sheets - PacketLife.net/IPv4_Subnetting.pdf)
 
-### Why Minimize Broadcast Packets?
 
-Minimizing broadcast packets helps maintain a smoother, faster, and more secure network. It's like keeping public announcements in a big building to only the floors that need to hear them, rather than blasting them everywhere! 
 
 
 
