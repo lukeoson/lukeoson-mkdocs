@@ -1,45 +1,25 @@
-#### Transition to CIDR:
+??? info "Classless Inter-Domain Routing" 
+    CIDR stands for "Classless Inter-Domain Routing." It's a method used for allocating IP addresses and routing Internet Protocol packets. CIDR replaced the older system based on classes A, B, and C in the 1990s.
+
+---
 
  - [x] CIDR was introduced in the early 1990s to overcome the limitations of classful addressing.
+
+ ---
+
  - [x] CIDR allows for variable-length subnet masks, meaning that organizations can request an appropriate number of addresses, rather than being limited to predefined class sizes.
+
+ ---
+
  - [x] CIDR introduced the notion of a "prefix length," expressed as "/X," where X indicates the number of bits in the subnet mask. For example, /24 represents a 24-bit subnet mask (equivalent to Class C), and /16 represents a 16-bit subnet mask (equivalent to Class B).
+
+ ---
+
  - [x] CIDR also introduced aggregation, allowing multiple IP prefixes to be summarized into a single, larger prefix. This reduced the size of routing tables on the Internet backbone.
 
- | Decimal Subnet Mask     | CIDR Notation |
-|-------------------------|---------------|
-| 255.255.255.255         | /32           |
-| 255.255.255.254         | /31           |
-| 255.255.255.252         | /30           |
-| 255.255.255.248         | /29           |
-| 255.255.255.240         | /28           |
-| 255.255.255.224         | /27           |
-| 255.255.255.192         | /26           |
-| 255.255.255.128         | /25           |
-| 255.255.255.0           | /24           |
-| 255.255.254.0           | /23           |
-| 255.255.252.0           | /22           |
-| 255.255.248.0           | /21           |
-| 255.255.240.0           | /20           |
-| 255.255.224.0           | /19           |
-| 255.255.192.0           | /18           |
-| 255.255.128.0           | /17           |
-| 255.255.0.0             | /16           |
-| 255.254.0.0             | /15           |
-| 255.252.0.0             | /14           |
-| 255.248.0.0             | /13           |
-| 255.240.0.0             | /12           |
-| 255.224.0.0             | /11           |
-| 255.192.0.0             | /10           |
-| 255.128.0.0             | /9            |
-| 255.0.0.0               | /8            |
-| 254.0.0.0               | /7            |
-| 252.0.0.0               | /6            |
-| 248.0.0.0               | /5            |
-| 240.0.0.0               | /4            |
-| 224.0.0.0               | /3            |
-| 192.0.0.0               | /2            |
-| 128.0.0.0               | /1            |
-| 0.0.0.0                 | /0 (Default)  |
+ ---
+
+## Slash the Decimals. Decimate to Slash.  
 
 | Decimal Subnet Mask     | Binary Subnet Mask       | CIDR Notation |
 |-------------------------|---------------------------|---------------|
