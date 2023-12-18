@@ -1,3 +1,12 @@
+??? note "No Worries"
+
+    🔕 **Do not be alarmed.** Most people use a subnet calculator in the real world. 😌
+
+    - [x] Here is my go to [Visual Subnet Calc](https://www.davidc.net/sites/default/subnets/subnets.html?network=).
+
+    - [x] But it is handy to know the basic theory. ␆
+
+
 #### IP Classes
 - [x] **Class A**: Large networks, 0-126.
 - [x] **Class B**: Medium networks, 128-191.
