@@ -11,5 +11,9 @@
 
     ![10 fingers](assets/images/DALLE-10-fingers.png)
 
+| Bit Position | 7 | 6 | 5 | 4 | 3 | 2 | 1 | 0 |
+|--------------|---|---|---|---|---|---|---|---|
+| Binary Value | 128 | 64 | 32 | 16 | 8 | 4 | 2 | 1 |
+
 ---
 
