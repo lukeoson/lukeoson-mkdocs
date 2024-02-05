@@ -1,0 +1,9 @@
+# Wildcards
+
+| Aspect                  | Wildcard Mask                          | Subnet Mask                          |
+|-------------------------|---------------------------------------|-------------------------------------|
+| Purpose                 | Used in Access Control Lists (ACLs) to specify which IP addresses to permit or deny access to. | Used in IP addressing to divide a network into subnetworks and determine the network and host portions of an IP address. |
+| Format                  | Inverse of subnet mask. It marks the bits that are to be matched with the corresponding bits in an IP address. | Binary mask with 1s indicating the network portion and 0s indicating the host portion. |
+| Representation          | Typically represented with the "wildcard bits" keyword in ACLs, followed by a series of four octets with values between 0 and 255 separated by dots. Example: `0.0.0.255` | Represented using the same dotted decimal format as IP addresses, with a varying number of bits set to 1. Example: `255.255.255.0` |
+| Usage Example           | To permit access to IP addresses within a specific range, specify the wildcard mask in an ACL entry. Example: `permit 192.168.1.0 0.0.0.255` allows all addresses in the `192.168.1.0/24` subnet. | To define network boundaries within an IP address range, apply the subnet mask to the IP addresses. Example: `192.168.1.0/24` represents a subnet with a subnet mask of `255.255.255.0`. |
+| Network Calculation     | To calculate the network ID from an IP address, perform a bitwise AND operation with the IP address and the wildcard mask. | To calculate the network ID from an IP address, perform a bitwise AND operation with the IP address and the subnet mask. |

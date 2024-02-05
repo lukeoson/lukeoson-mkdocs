@@ -33,10 +33,10 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Lloret-Labs
+      link: https://github.com/lukeoson
       name: Lloret Labs GitHub
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/LloretGroup
+      link: https://twitter.com/lukeoson
       name: Lloret Group Twitter
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/lloret-control-systems
@@ -49,26 +49,34 @@ extra:
 # Navigation 
 nav:
   - Home: index.md
-  - Hello: whoami.md
-  - Subnet Tings 👊: subnetting.md
-  - OSI Model: osi.md
-  - Packet Life: packet-life.md
-  - Numerics: numerics.md
-  - IPv4: IPv4.md
-  - Classy: classy.md
-  - CIDR: cidr.md
-  - Subnet 101: subnetting-101.md
-  - Example: example.md
-  - Lloret Nets: lloret-nets.md
-  - Wild: wild.md
-  - Super Lloret: super-lloret.md 
-  - Power ✌️: power2.md
-  - Hex: hex.md
-  - IPv6: IPv6.md
-  - Reference Docs 📚: documents.md
-  - Trace: trace.md
-  - Bad: broadcast.md
+  - Subnetting:
+    - Subnetting: Subnetting/index.md
+    - Hello: Subnetting/whoami.md
+    - Subnet Things: Subnetting/subnetting.md
+    - OSI Model: Subnetting/osi.md
+    - Packet Life: Subnetting/packet-life.md
+    - Numerics: Subnetting/numerics.md
+    - IPv4: Subnetting/IPv4.md
+    - Classy: Subnetting/classy.md
+    - CIDR: Subnetting/cidr.md
+    - Subnet 101: Subnetting/subnetting-101.md
+    - Example: Subnetting/example.md
+    - Lloret Nets: Subnetting/lloret-nets.md
+    - Wild: Subnetting/wild.md
+    - Super Lloret: Subnetting/super-lloret.md
+    - Power: Subnetting/power2.md
+    - Hex: Subnetting/hex.md
+    - IPv6: Subnetting/IPv6.md
+    - Reference Docs: Subnetting/documents.md
+    - Trace: Subnetting/trace.md
+    - Bad: Subnetting/broadcast.md
+  - Allied Telesis:
+    - Allied Telesis: Allied-Telesis/index.md
+    - Documents: Allied-Telesis/documents.md
+    - Drawings: Allied-Telesis/drawings.md
+    - Training: Allied-Telesis/training.md
   - Contact: contact.md
+
 
 
 markdown_extensions:
@@ -89,6 +97,9 @@ markdown_extensions:
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
     
 
 plugins:
