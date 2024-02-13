@@ -1,0 +1,84 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="bg-image">
+    <div class="content">
+        <!-- Logo at the top of the content block -->
+        <a href="https://lloret.co.uk">
+            <img src="{{ 'assets/images/lukeoson/home-page.webp' | url }}" alt="Lloret Logo" class="lloret-logo"/>
+        </a>
+        <h2>Welcome to Lukeoson Labs</h2>
+        <!-- Example of making the paragraph a clickable link -->
+            <p>
+                “It takes aeons of evolution and perpetual starvation" ... Work in progress
+            </p>
+    </div>
+</div>
+{% endblock %}
+
+{% block styles %}
+{{ super() }}
+<style>
+
+    /* Ensure html and body take full height */
+    html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    /* Full page background image and center content */
+    .bg-image {
+        background: url('') no-repeat center center fixed;
+        background-size: cover;
+        display: flex;
+        align-items: center; /* Center vertically */
+        justify-content: center; /* Center horizontally */
+        position: fixed; /* Fixed position to take the full viewport */
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        z-index: -1; /* Ensure it stays behind content */
+    }
+
+    /* Content styling */
+    .content {
+        position: relative; /* Ensure content is above background */
+        z-index: 1;
+        max-width: 600px;
+        padding: 20px;
+        background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+        border-radius: 10px;
+        color: #fff; /* Set text color */
+        text-align: center; /* Center text */
+    }
+
+    /* Button styling */
+    .btn-get-started {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 18px;
+        color: #fff;
+        background-color: #1C3E59;
+        border: none;
+        border-radius: 5px;
+        text-decoration: none;
+        margin-top: 20px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+    .btn-get-started:hover {
+        background-color: #1C3E59;
+    }
+
+    /* Hide side navigation (adjust selector as needed) */
+    .md-sidebar--primary {
+        display: none;
+    }
+
+    /* Ensure main content takes full width if sidebar is hidden */
+    .md-content {
+        width: 100%;
+    }
+</style>
+{% endblock %}

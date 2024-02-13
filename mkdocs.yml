@@ -1,85 +1,149 @@
 # Site Settings
-site_name: Lukeoson Labs
+site_name: Luke Richardson | aka Lukeoson
 site_url: https://blah.lukeoson.com/
 repo_url: https://github.com/lukeoson/lukeoson-mkdocs
 repo_name: lukeoson/lukeoson-mkdocs
 copyright: Copyright &copy; 2023 Lukeoson
 
+# Navigation 
+nav:
+
+# Homepage
+  - Home: index.md
+
+# Resume
+  - Hire Me: 
+    - Luke's Resume: Hire-Me/index.md
+
+# Blog
+  - Blog:
+    - Blog: blog/index.md
+
+# Infrastructure as Code
+  - Infrastructure as Code: 
+    - IaC/index.md
+    - GIT:
+      - IaC/Git/index.md
+    - MKDOCS:
+      - IaC/Mkdocs/index.md
+  
+# Foundational Concepts  
+  - Network Rudiments: 
+    - Network-Rudiments/index.md
+    - Subnetting:
+      - Network-Rudiments/Subnetting/index.md
+      - Hello: Network-Rudiments/Subnetting/whoami.md
+      - Subnet Things: Network-Rudiments/Subnetting/subnetting.md
+      - OSI Model: Network-Rudiments/Subnetting/osi.md
+      - Packet Life: Network-Rudiments/Subnetting/packet-life.md
+      - Numerics: Network-Rudiments/Subnetting/numerics.md
+      - IPv4: Network-Rudiments/Subnetting/IPv4.md
+      - Classy: Network-Rudiments/Subnetting/classy.md
+      - CIDR: Network-Rudiments/Subnetting/cidr.md
+      - Subnet 101: Network-Rudiments/Subnetting/subnetting-101.md
+      - Example: Network-Rudiments/Subnetting/example.md
+      - Lloret Nets: Network-Rudiments/Subnetting/lloret-nets.md
+      - Wild: Network-Rudiments/Subnetting/wild.md
+      - Super Lloret: Network-Rudiments/Subnetting/super-lloret.md
+      - Power: Network-Rudiments/Subnetting/power2.md
+      - Hex: Network-Rudiments/Subnetting/hex.md
+      - IPv6: Network-Rudiments/Subnetting/IPv6.md
+      - Reference Docs: Network-Rudiments/Subnetting/documents.md
+      - Trace: Network-Rudiments/Subnetting/trace.md
+      - Bad: Network-Rudiments/Subnetting/broadcast.md
+    - DNS:
+      - Network-Rudiments/DNS/index.md
+      - Placeholder: Network-Rudiments/DNS/placeholder.md
+    - NAC:
+      - Network-Rudiments/NAC/index.md
+      - Placeholder: Network-Rudiments/NAC/placeholder.md
+  
+# Vendor Specific 
+  - Vendor Solutions:
+    - Vendors/index.md
+    - Allied Telesis: 
+      - Vendors/Allied-Telesis/index.md
+      - Documents: Vendors/Allied-Telesis/documents.md
+      - Drawings: Vendors/Allied-Telesis/drawings.md
+      - Training: Vendors/Allied-Telesis/training.md
+  
+# Contact
+  - Contact: 
+    - Contact: Contact/index.md
+
 
 # Using the Material theme
 theme:
+  custom_dir: docs/overrides
   name: material
   icon:
     annotation: material/chevron-right-circle
     repo: fontawesome/brands/github
   name: material
-  favicon: assets/logos/favicon.ico
-  #logo: assets/logos/lloret-letters-logo.webp 
+  favicon: assets/images/favicon/favicon.ico
+  logo: assets/images/lukeoson/share_white_24dp.svg
   features:
+    # MISC
+    - header.autohide
+    - toc.follow #nav item
+
+    # Navigation 
+    - navigation.indexes
     - navigation.tabs
     - navigation.footer
-    - header.autohide
-    - navigation.sections
-    - search.highlight
+    #- navigation.sections
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
+    #- navigation.instant.preview
     - navigation.tracking
     - navigation.path
+    - navigation.top
+
+    #search
     - search.suggest
     - search.share
+    - search.highlight
+
+    #content
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
 
 
 extra:
+  status:
+    new: Recently added
+    deprecated: Deprecated
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/lukeoson
-      name: Lloret Labs GitHub
-    - icon: fontawesome/brands/twitter
+      name: Lukeoson Labs GitHub
+    - icon: fontawesome/brands/x-twitter
       link: https://twitter.com/lukeoson
-      name: Lloret Group Twitter
+      name: Lukeoson Twitter
+    - icon: fontawesome/brands/twitter
+      link: https://bsky.app/profile/lukeoson.bsky.social
+      name: Lukeoson Bluesky
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/company/lloret-control-systems
-      name: Lloret Control Systems LinkedIn
+      link: https://www.linkedin.com/company/luke-richardson
+      name: Lukeoson LinkedIn
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/watch?v=bhhagWXO5V0&list=PLu0ZfvM3i6VmMR85jaX5Enh5D32-p_d9k
+      link: https://www.youtube.com/channel/UCXlJsPms5KOc9VLmTjtbYWA
   generator: false 
-  homepage: https://lloret.co.uk
-
-# Navigation 
-nav:
-  - Home: index.md
-  - Subnetting:
-    - Subnetting: Subnetting/index.md
-    - Hello: Subnetting/whoami.md
-    - Subnet Things: Subnetting/subnetting.md
-    - OSI Model: Subnetting/osi.md
-    - Packet Life: Subnetting/packet-life.md
-    - Numerics: Subnetting/numerics.md
-    - IPv4: Subnetting/IPv4.md
-    - Classy: Subnetting/classy.md
-    - CIDR: Subnetting/cidr.md
-    - Subnet 101: Subnetting/subnetting-101.md
-    - Example: Subnetting/example.md
-    - Lloret Nets: Subnetting/lloret-nets.md
-    - Wild: Subnetting/wild.md
-    - Super Lloret: Subnetting/super-lloret.md
-    - Power: Subnetting/power2.md
-    - Hex: Subnetting/hex.md
-    - IPv6: Subnetting/IPv6.md
-    - Reference Docs: Subnetting/documents.md
-    - Trace: Subnetting/trace.md
-    - Bad: Subnetting/broadcast.md
-  - Allied Telesis:
-    - Allied Telesis: Allied-Telesis/index.md
-    - Documents: Allied-Telesis/documents.md
-    - Drawings: Allied-Telesis/drawings.md
-    - Training: Allied-Telesis/training.md
-  - Contact: contact.md
-
-
+  homepage: https://lukeoson.github.io
+  # Jinja2
+  project: Lukeoson Dabs
+  
 
 markdown_extensions:
+  - tables
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.details
   - md_in_html
@@ -100,16 +164,31 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+
+
     
 
 plugins:
+  - table-reader:
+  - meta:
+      enabled: true
+  - macros:
+      include_yaml:
+        - nav.yml
+  - tags:
+      tags_file: tags.md
   - glightbox
   - search
   - include-markdown
-  - table-reader 
+  - blog:
+      blog_dir: blog
+      blog_toc: true
+      post_date_format: full
+      post_excerpt: optional 
 
 extra_css:
   - stylesheets/extra.css
 
 extra_javascript:
-  - /javascripts/linkedin.js
+  - /javascripts/extra.js
