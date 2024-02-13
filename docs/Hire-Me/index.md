@@ -51,12 +51,33 @@ status: new
 
     ---
 
-    | Where | When | What |
-    | :----: | :----: | :----: 
-    | [Lloret Control Systems](https://www.lloret.co.uk/) | 2023 - Present | Network Architect 
-    | [WeWork](https://www.wework.com/) | 2019 - 2023 | Network Architect - Global 
-    | [Redstone - Now Onnec](https://www.onnecgroup.com/) | 2017 - 2018 | Network Engineer & TPM
-    | [Dimension Data - NTT](https://www.dimensiondata.com/en-gb/) | 2012 - 2017 | PM to Network Engineer 
+    ```mermaid
+    gantt
+    dateFormat  YYYY
+    title Luke's Career Path
+
+    section Dimension Data
+    Project Management & Network Engineer :done, 2012, 2017
+
+    section Redstone
+    Network Engineer :done, 2017, 2018
+
+    section Sabbatical
+    Peace & Quiet :done, 2018, 2019
+
+    section WeWork
+    Network Architect - Global :done, 2019, 2023
+
+    section Lloret Control Systems
+    Network Architect :active, 2023, 2025
+    ```
+
+    | Where| When | What| Why
+    | :-- | :-- | :-- | :-- |
+    | [Lloret](https://www.lloret.co.uk/) | 2023 - Present | Network Architect | Rediscover my Roots
+    | [WeWork](https://www.wework.com/) | 2019 - 2023 | Network Architect - Global | Build Complex Systems at Scale
+    | [Redstone](https://www.onnecgroup.com/) | 2017 - 2018 | Network Engineer & TPM | Prove Myself
+    | [Dimension Data](https://www.dimensiondata.com/en-gb/) | 2012 - 2017 | PM to Network Engineer | Learn the Ropes
 
     ---
 
@@ -70,13 +91,72 @@ status: new
 
     ---
 
-    | Where | When | What |
-    | :---: | :---: | :---: 
-    | [University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | Politics BA - 2:1
-    | [Bishop Stopford](https://www.bishopstopford.com/) | 1997 - 2005 | x4 A-levels Grade A
-    | [YouTube](https://www.youtube.com/channel/UCRIOI_3REG9zIDM0Fp9Xiyg) | 2008 - 2023 | > 10,000 hours
+    | Where | When | What | Why |
+    | :--- | :--- | :--- | :--- |
+    | [YouTube](https://www.youtube.com/channel/UCRIOI_3REG9zIDM0Fp9Xiyg) | 2008 - 2023 | > 10,000 hours | Life long learner
+    | [University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | Politics BA - 2:1 | I should have known better 
+    | [Bishop Stopford](https://www.bishopstopford.com/) | 1997 - 2005 | x4 A-levels Grade A | The year they let you retake exams!
 
     ---
+
+    ```mermaid
+    gantt
+    dateFormat  YYYY
+    title Luke's Learning Path 
+
+    section You Tube 
+    Stay Curious :active, 2019, 2025
+
+    section CCNA 
+    Cisco Route & Switch :done, 2019, 2022
+    
+    section JNCIA-Junos 
+    Juniper Networks Certified Associate - Junos :active, 2020, 2025
+
+    section JNCIA-DevOps 
+    Juniper Networks Certified Associate - DevOps :active, 2020, 2025
+
+    section JNCIA-Secuirty 
+    Juniper Networks Certified Associate - Security :active, 2020, 2025
+
+    section JNCIA-Mist 
+    Juniper Networks Certified Associate - Mist :active, 2020, 2025
+
+    section Juniper Associate x 4 
+    Juniper JNCIA x 4 :active, 2021, 2025 
+
+    section JNCIS-DevOps 
+    Juniper Networks Certified Specialist - DevOps :active, 2021, 2025 
+
+    section JNCIS-ENT 
+    Juniper Networks Certified Specialist - ENT :active, 2023, 2025 
+
+    section JNCIS-Mist 
+    Juniper Networks Certified Specialist - Mist :active, 2023, 2025 
+
+    section Juniper Specialist x3 
+    Juniper JNCIS x 3 :active, 2023, 2025 
+
+    section Juniper Innovator
+    Juniper Networks Innovator :done, 2023, 2024  
+
+    section GitLab Associate 
+    GitLab Certified Git Associate :active, 2021, 2025 
+
+    section AWS Certified Cloud
+    AWS Certified Cloud :active, 2021, 2025 
+
+    section Okta Professional 
+    Okta Certified Professional :done, 2021, 2024 
+
+    section GitHub
+    GitHub Foundations :active, 2023, 2025
+
+    section Lost to Time
+    Multiple others not stored in Credly :done, 2020, 2025
+    ```
+
+    - :material-certificate-outline: [Verify on Acclaim / Credly](https://www.credly.com/users/luke-richardson.dca3c027) 
 
 </div>
 
@@ -188,7 +268,7 @@ status: new
 
     ---
 
-    *Describe how Luke has successfully delivered business impact:*
+    ***Describe how Luke has successfully delivered business impact:***
 
     > "Luke is exceptionally good at identifying technology business opportunities and delivering on them. Luke's   management of IPFabric and Netbox have been stellar."   
     
@@ -196,7 +276,7 @@ status: new
 
     ---
 
-    *Describe how Luke could work to further elevate their business impact:*
+    ***Describe how Luke could work to further elevate their business impact:***
 
     > "Luke should continue his excellent progress at building relationships with other stakeholders around Wework."   
     
@@ -204,17 +284,18 @@ status: new
 
     ---
 
-    *Categorize this individual’s proficiency across each impact driver: *
+    ***Categorize this individual’s proficiency across each impact driver:***
 
     - [x] *Luke Takes Actions & Delivers.......* :material-battery-charging-90: **Core Strength**
     - [x] *Luke Adapts Seamlessly................* :material-battery-charging-90: **Core Strength**
     - [x] *Luke Thinks Critically.....................* :material-battery-charging-100: **Exceptional Skill**
-    - [x] *Luke Communicate Effectively......* :material-battery-charging-90: **Core Strength**
+    - [x] *Luke Communicates Effectively......* :material-battery-charging-90: **Core Strength**
     - [x] *Luke Builds Relationships..............* :material-battery-charging-90: **Core Strength**
     - [x] *Luke's Subject Matter Expertise....* :material-battery-charging-100: **Exceptional Skill**
     - [x] *Rate Luke's business impact.........* :material-battery-charging-100: **High** 
 
 </div>
 
+---
 
-<iframe style="height:300px; width:300px;" src="https://lukeoson.github.io"></iframe>
+> Thanks for taking the time to read my resume. [Please get in touch](mailto:hello@lukeoson.com). 🎉
