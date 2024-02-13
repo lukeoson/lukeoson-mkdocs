@@ -188,7 +188,7 @@ status: new
 
     ---
 
-    #### Describe how Luke has successfully delivered business impact:
+    *Describe how Luke has successfully delivered business impact:*
 
     > "Luke is exceptionally good at identifying technology business opportunities and delivering on them. Luke's   management of IPFabric and Netbox have been stellar."   
     
@@ -196,7 +196,7 @@ status: new
 
     ---
 
-    #### Describe how Luke could work to further elevate their business impact:
+    *Describe how Luke could work to further elevate their business impact:*
 
     > "Luke should continue his excellent progress at building relationships with other stakeholders around Wework."   
     
@@ -204,7 +204,7 @@ status: new
 
     ---
 
-    #### Categorize this individual’s proficiency across each impact driver: 
+    *Categorize this individual’s proficiency across each impact driver: *
 
     - [x] *Luke Takes Actions & Delivers.......* :material-battery-charging-90: **Core Strength**
     - [x] *Luke Adapts Seamlessly................* :material-battery-charging-90: **Core Strength**
