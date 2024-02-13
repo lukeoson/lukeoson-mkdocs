@@ -74,6 +74,7 @@ status: new
 
     | Where| When | What| Why
     | :-- | :-- | :-- | :-- |
+    | Available for Hire | 2024 - :material-infinity: | Network Automation | Bring it all together
     | [Lloret](https://www.lloret.co.uk/) | 2023 - Present | Network Architect | Rediscover my Roots
     | [WeWork](https://www.wework.com/) | 2019 - 2023 | Network Architect - Global | Build Complex Systems at Scale
     | [Redstone](https://www.onnecgroup.com/) | 2017 - 2018 | Network Engineer & TPM | Prove Myself
@@ -98,6 +99,8 @@ status: new
     | [Bishop Stopford](https://www.bishopstopford.com/) | 1997 - 2005 | x4 A-levels Grade A | The year they let you retake exams!
 
     ---
+
+    This chart shows a timeline of Luke's Professional Certifications and upcoming expiry.
 
     ```mermaid
     gantt
@@ -152,11 +155,14 @@ status: new
     section GitHub
     GitHub Foundations :active, 2023, 2025
 
+    section Allied Telesis 
+    Allied Telesis Professional ENT :active, 2023, 2025
+
     section Lost to Time
     Multiple others not stored in Credly :done, 2020, 2025
     ```
 
-    - :material-certificate-outline: [Verify on Acclaim / Credly](https://www.credly.com/users/luke-richardson.dca3c027) 
+    - :material-certificate-outline: [Verify via Credly](https://www.credly.com/users/luke-richardson.dca3c027) and check [Luke's Blog](../blog/index.md) for current learning objectives.
 
 </div>
 
@@ -170,7 +176,8 @@ status: new
     1. ![Smart Goals Poster](../assets/images/lukeoson/smart-goals-poster.png)
 
     ---
-    ### Lloret Control Systems
+    __Lloret Control Systems__
+
     - [x] Greenfield Architecture of Cisco, Meraki, Aruba, & Allied Telesis. 
 
         :material-arrow-right:_At Lloret, i'm regretfully unfulfilled with the industry segment. I'm looking for something more inspiring that embraces the paradigm shift toward Infrastructure as Code._  
@@ -182,7 +189,8 @@ status: new
         >:material-alpha-t-box: Delivered in strict adherence to defined timeline.  
 
     ---
-    ### WeWork
+    __WeWork__
+
     - [x] Key contributor to the global Network Architecture.
 
         :material-arrow-right:_Circa 750 Branches spanning >100 Countries with x4 Data Centres in x3 Continents._
@@ -284,15 +292,15 @@ status: new
 
     ---
 
-    ***Categorize this individual’s proficiency across each impact driver:***
+    ***Categorize Luke's proficiency across each impact driver:***
 
-    - [x] *Luke Takes Actions & Delivers.......* :material-battery-charging-90: **Core Strength**
-    - [x] *Luke Adapts Seamlessly................* :material-battery-charging-90: **Core Strength**
-    - [x] *Luke Thinks Critically.....................* :material-battery-charging-100: **Exceptional Skill**
-    - [x] *Luke Communicates Effectively......* :material-battery-charging-90: **Core Strength**
-    - [x] *Luke Builds Relationships..............* :material-battery-charging-90: **Core Strength**
-    - [x] *Luke's Subject Matter Expertise....* :material-battery-charging-100: **Exceptional Skill**
-    - [x] *Rate Luke's business impact.........* :material-battery-charging-100: **High** 
+    - [x] *Luke Takes Actions & Delivers `>>>>>>>>>>>>>>`* :material-battery-charging-90: **Core Strength**
+    - [x] *Luke Adapts Seamlessly ``>>>>>>>>>>>>>>>>>>`* :material-battery-charging-90: **Core Strength**
+    - [x] *Luke Thinks Critically `>>>>>>>>>>>>>>>>>>>>>>>>>>`* :material-battery-charging-100: **Exceptional Skill**
+    - [x] *Luke Communicates Effectively `>>>>>>>>>>>>>`* :material-battery-charging-90: **Core Strength**
+    - [x] *Luke Builds Relationships `>>>>>>>>>>>>>>>>>>`* :material-battery-charging-90: **Core Strength**
+    - [x] *Luke's Subject Matter Expertise `>>>>>>>>>>>>>>>>>`* :material-battery-charging-100: **Exceptional Skill**
+    - [x] *Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* :material-battery-charging-100: **High** 
 
 </div>
 
