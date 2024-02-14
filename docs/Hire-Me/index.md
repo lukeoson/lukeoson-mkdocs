@@ -300,7 +300,8 @@ status: new
     - [x] *Luke Communicates Effectively `>>>>>>>>>>>>>`* :material-battery-charging-90: **Core Strength**
     - [x] *Luke Builds Relationships `>>>>>>>>>>>>>>>>>>`* :material-battery-charging-90: **Core Strength**
     - [x] *Luke's Subject Matter Expertise `>>>>>>>>>>>>>>>>>`* :material-battery-charging-100: **Exceptional Skill**
-    - [x] *Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* :material-battery-charging-100: **High** 
+    - [x] *Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* :material-battery-charging-100: **High**
+    - [x] *Rate Luke's cultural impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* :material-battery-charging-100: **Maximum**
 
 </div>
 
