@@ -9,7 +9,7 @@ icon: material/badge-account-horizontal-outline
 
     ---
 
-    ![luke-face](../assets/images/luke-face.jpeg){ width=165px align=right } 
+    ![luke-face](../assets/images/luke-face.jpeg){ width=150px align=right } 
     :material-lan: Network Architect  
     :material-email-outline: [Hello@Lukeoson.com](mailto:Luke.richardson@lloret.co.uk)      
     :material-linkedin: [Linkedin](https://www.linkedin.com/in/luke-richardson/)   
@@ -21,16 +21,42 @@ icon: material/badge-account-horizontal-outline
 
 </div>
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/meet-luke-richardson/meet-with-luke?hide_gdpr_banner=1" style="min-width:320px;height:700px;"></div>
+## Meet with Luke
+
+<div class="grid cards" markdown>
+
+-   :material-calendar:{ .lg .middle } Please don't hesitate to book time with my [Calendly](https://calendly.com/meet-luke-richardson).
+
+    ---
+
+    - [x] Just want to chat? *I'm always happy to meet people and discuss Technology.* 
+
+    - [x] Scheduling an interview? *Awesome. Thanks. Evenings are best.*
+
+    - [x] Arranging a paid consulting call? *My rate is $500 per hour for Network Assurance.*  
+
+    - [x] Need a speaker for your event? *I'm ready. Please reach out!*  
+
+    - [x] Want to discuss a potential collaboration? *I'm always open to new opportunities.*  
+    
+    - [ ] Want to talk about climbing? Don't be silly. *See you at the crag!*  
+    
+    - [ ] Anything regarding my current employment at Lloret? *[Please contact me directly](mailto:lr@lloret.co.uk).*  
+
+    - [ ] Getting deep and meaningful? *You will need to agree that...* 
+        
+                    "Nothing is certain and everything is possible" 🤯
+   
+
+    ---
+
+    <!-- Calendly inline widget begin -->
+    <div class="calendly-inline-widget" data-url="https://calendly.com/meet-luke-richardson/meet-with-luke?hide_gdpr_banner=1"  style="min-width:320px;height:700px;"></div>
+
+
+
+
+
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
 
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/lukeos', text: 'Schedule time with Luke', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
-<!-- Calendly badge widget end -->
-
- {{ context(page) | pretty }}
 

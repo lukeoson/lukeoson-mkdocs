@@ -24,7 +24,7 @@ status: new
 
     ---
 
-    ![luke-face](../assets/images/luke-face.jpeg){ width=195px align=right } 
+    ![luke-face](../assets/images/luke-face.jpeg){ width=175px align=right } 
     :material-lan: Network Architect  
     :material-email-outline: [Hello@Lukeoson.com](mailto:Luke.richardson@lloret.co.uk)      
     :material-linkedin: [Linkedin](https://www.linkedin.com/in/luke-richardson/)   
@@ -258,7 +258,7 @@ status: new
     │   └── Rock Climbing
     ├── Politics
     │   ├── Influential-People
-    │   └── Power-Structures # Non polarizing! Curiosity devoid of emotion. 
+    │   └── Power-Structures 
     └── Technology
         ├── Infrastructure as Code
         └── Network Engineering
@@ -295,13 +295,13 @@ status: new
     ***Categorize Luke's proficiency across each impact driver:***
 
     - [x] *Luke Takes Actions & Delivers `>>>>>>>>>>>>>>`* :material-battery-charging-90: **Core Strength**
-    - [x] *Luke Adapts Seamlessly ``>>>>>>>>>>>>>>>>>>`* :material-battery-charging-90: **Core Strength**
+    - [x] *Luke Adapts Seamlessly `>>>>>>>>>>>>>>>>>>`* :material-battery-charging-90: **Core Strength**
     - [x] *Luke Thinks Critically `>>>>>>>>>>>>>>>>>>>>>>>>>>`* :material-battery-charging-100: **Exceptional Skill**
     - [x] *Luke Communicates Effectively `>>>>>>>>>>>>>`* :material-battery-charging-90: **Core Strength**
     - [x] *Luke Builds Relationships `>>>>>>>>>>>>>>>>>>`* :material-battery-charging-90: **Core Strength**
     - [x] *Luke's Subject Matter Expertise `>>>>>>>>>>>>>>>>>`* :material-battery-charging-100: **Exceptional Skill**
-    - [x] *Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* :material-battery-charging-100: **High**
-    - [x] *Rate Luke's cultural impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* :material-battery-charging-100: **Maximum**
+    - [x] *Rate Luke's business impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* :material-battery-charging-90: **High**
+    - [x] *Rate Luke's cultural impact `>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>`* :material-battery-charging-100: **Maximum**
 
 </div>
 
