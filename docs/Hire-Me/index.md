@@ -24,12 +24,12 @@ status: new
 
     ---
 
-    ![luke-face](../assets/images/luke-face.jpeg){ width=175px align=right } 
+    ![luke-face](../assets/images/lukeoson/lukeoson-ring.png){ width=195px align=right } 
     :material-lan: Network Architect  
     :material-email-outline: [Hello@Lukeoson.com](mailto:Luke.richardson@lloret.co.uk)      
     :material-linkedin: [Linkedin](https://www.linkedin.com/in/luke-richardson/)   
     :material-cellphone: [+447376209455](tel:+447376209455)    
-    :material-github: [lukeoson](https://github.com/lukeoson/lukeoson.github.io)   
+    :material-github: [lukeoson](https://github.com/lukeoson)   
     :material-certificate-outline: [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)  
     :material-calendar: Please don't hesitate to book time with my [Calendly](https://calendly.com/meet-luke-richardson). 
 
