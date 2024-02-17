@@ -45,13 +45,15 @@ icon: material/badge-account-horizontal-outline
 
     - [ ] Getting deep and meaningful? *You will need to agree that...* 
         
-                    "Nothing is certain and everything is possible" 🤯
+    !!! quote "... NOTHING is CERTAIN and EVERYTHING is POSSIBLE. 🎉"
    
-
     ---
 
+    !!! info ":material-timer-outline:{ .heart } I don't pay for Zoom anymore. If you select to Zoom it's 40mins on free tier."
+        
+
     <!-- Calendly inline widget begin -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/meet-luke-richardson/meet-with-luke?hide_gdpr_banner=1"  style="min-width:320px;height:700px;"></div>
+    <div class="calendly-inline-widget" data-url="https://calendly.com/meet-luke-richardson/meet-with-luke?hide_gdpr_banner=1"  style="min-width:320px;height:900px;"></div>
 
 
 
