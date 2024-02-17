@@ -74,13 +74,13 @@ nav:
 
 # Using the Material theme
 theme:
+  favicon: assets/favicon/favicon-spaceman.png
   custom_dir: docs/overrides
   name: material
   icon:
     annotation: material/chevron-right-circle
     repo: fontawesome/brands/github
   name: material
-  favicon: assets/images/favicon.png
   logo: assets/images/lukeoson/share_white_24dp.svg
   palette: 
     # Palette toggle for automatic mode
