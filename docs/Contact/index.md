@@ -49,16 +49,10 @@ icon: material/badge-account-horizontal-outline
    
     ---
 
-    !!! info ":material-timer-outline:{ .heart } I don't pay for Zoom anymore. If you select to Zoom it's 40mins on free tier."
-        
+    :material-timer-outline:{ .heart } I cancelled my subscription. If you choose to [:simple-zoom:{ .lg .middle } ](https://us05web.zoom.us/j/3208768436?pwd=WURQdjZ2blR6cUFxTFZlK2J1YkQrdz09) it's 40mins on free tier.
 
-    <!-- Calendly inline widget begin -->
-    <div class="calendly-inline-widget" data-url="https://calendly.com/meet-luke-richardson/meet-with-luke?hide_gdpr_banner=1"  style="min-width:320px;height:900px;"></div>
+    <div class="calendly-inline-widget" data-url="https://calendly.com/meet-luke-richardson/meet-with-luke?hide_gdpr_banner=1"  style="min-width:320px;height:900px;"></div>         
 
-
-
-
+</div>
 
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-
-
