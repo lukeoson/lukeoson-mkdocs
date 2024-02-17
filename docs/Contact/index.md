@@ -49,9 +49,17 @@ icon: material/badge-account-horizontal-outline
    
     ---
 
-    :material-timer-outline:{ .heart } I cancelled my subscription. If you choose to [:simple-zoom:{ .lg .middle } ](https://us05web.zoom.us/j/3208768436?pwd=WURQdjZ2blR6cUFxTFZlK2J1YkQrdz09) it's 40mins on free tier.
+    ### Instant Meeting
 
-    <div class="calendly-inline-widget" data-url="https://calendly.com/meet-luke-richardson/meet-with-luke?hide_gdpr_banner=1"  style="min-width:320px;height:900px;"></div>         
+    - [x] [Zoom Meeting with Luke NOW](https://us05web.zoom.us/j/3208768436?pwd=WURQdjZ2blR6cUFxTFZlK2J1YkQrdz09) > 320 876 8436
+
+    - [x] [Google Meeting with Luke NOW](https://meet.google.com/calling/) > Reach me at lukeoson@gmail.com or 07376 209455
+
+    ### Schedule Meeting
+
+    !!! bug ":material-timer-outline:{ .heart } I cancelled my subscription. If you choose to [Zoom](https://us05web.zoom.us/j/3208768436?pwd=WURQdjZ2blR6cUFxTFZlK2J1YkQrdz09) it's 40mins on free tier."
+
+    <div class="calendly-inline-widget" data-url="https://calendly.com/meet-luke-richardson/meet-with-luke?hide_gdpr_banner=1"  style="min-width:300px;height:890px;"></div>         
 
 </div>
 
