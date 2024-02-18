@@ -9,7 +9,7 @@ icon: material/badge-account-horizontal-outline
 
     ---
 
-    ![luke-face](../assets/images/lukeoson/lukeoson-ring.png){ width=165px align=right } 
+    ![luke-face](../assets/favicon/lukeoson-spaceman.png){ width=165px align=right } 
     :material-lan: Network Architect  
     :material-email-outline: [Hello@Lukeoson.com](mailto:Luke.richardson@lloret.co.uk)      
     :material-linkedin: [Linkedin](https://www.linkedin.com/in/luke-richardson/)   

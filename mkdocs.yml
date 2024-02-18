@@ -74,7 +74,7 @@ nav:
 
 # Using the Material theme
 theme:
-  favicon: assets/favicon/favicon-spaceman.png
+  favicon: assets/favicon/lukeoson-badge.png
   custom_dir: docs/overrides
   name: material
   icon:

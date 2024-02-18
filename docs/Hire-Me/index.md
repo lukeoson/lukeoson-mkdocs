@@ -10,7 +10,7 @@ status: new
 
 <div class="grid cards" markdown>
 
--   :material-contacts-outline:{ .lg .middle } [__Luke Richardson__](https://www.linkedin.com/in/luke-richardson/) is currently employed as Network Architect in London.  
+-   :material-contacts-outline:{ .lg .middle } [__Luke Richardson__](https://www.linkedin.com/in/luke-richardson/) is currently employed as a Network Architect in London.  
 
     ---
 
@@ -166,11 +166,11 @@ status: new
 
 </div>
 
-## Carreer Achievements
+## Career Achievements
 
 <div class="grid cards" markdown>
 
-- :material-star-shooting:{ .lg .middle } [__Luke's Career__](https://www.credly.com/users/luke-richardson.dca3c027) story is of accending rigour & complexity (1) [Smartly Summarised](https://en.wikipedia.org/wiki/SMART_criteria)
+- :material-star-shooting:{ .lg .middle } [__Luke's Career__](https://www.credly.com/users/luke-richardson.dca3c027) story is of ascending rigour & complexity (1) [Smartly Summarised](https://en.wikipedia.org/wiki/SMART_criteria)
 { .annotate}
 
     1. ![Smart Goals Poster](../assets/images/lukeoson/smart-goals-poster.png)

@@ -41,7 +41,7 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). Currently employed as 
 
     [:material-certificate-outline: Luke's Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
 
-    [:material-microsoft-word: Resume Word Download](luke-richardson-resume.pdf)
+    [:material-microsoft-word: Resume Word Download](/assets/link-docs/~$ke Richardson's Resume 2024.docx)
 
     [:material-file-pdf-box: Resume PDF Download](luke-richardson-resume.pdf)
 
