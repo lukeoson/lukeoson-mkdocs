@@ -81,7 +81,7 @@ theme:
     annotation: material/chevron-right-circle
     repo: fontawesome/brands/github
   name: material
-  logo: assets/images/lukeoson/share_white_24dp.svg
+  logo: assets/site-meta/lukeoson-labs-logo.svg
   palette: 
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
