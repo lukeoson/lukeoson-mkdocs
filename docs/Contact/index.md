@@ -9,19 +9,22 @@ icon: material/badge-account-horizontal-outline
 
     ---
 
-    ![luke-face](../assets/favicon/lukeoson-spaceman.png){ width=165px align=right } 
-    :material-lan: Network Architect  
-    :material-email-outline: [Hello@Lukeoson.com](mailto:Luke.richardson@lloret.co.uk)      
-    :material-linkedin: [Linkedin](https://www.linkedin.com/in/luke-richardson/)   
-    :material-cellphone: [+447376209455](tel:+447376209455)    
-    :material-github: [lukeoson](https://github.com/lukeoson/lukeoson.github.io)   
-    :material-certificate-outline: [Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
+    {{ profile_spaceman }}  
+    {{ job_title }}  
+    {{ email }}  
+    {{ linkedin }}  
+    {{ mobile }}  
+    {{ github }}  
+    {{ credly }}  
+    {{ calendly }}  
 
     ---
 
 </div>
 
 ## Meet with Luke
+
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
 <div class="grid cards" markdown>
 
@@ -59,8 +62,11 @@ icon: material/badge-account-horizontal-outline
 
     !!! bug ":material-timer-outline:{ .heart } I cancelled my subscription. If you choose to [Zoom](https://us05web.zoom.us/j/3208768436?pwd=WURQdjZ2blR6cUFxTFZlK2J1YkQrdz09) it's 40mins on free tier."
 
-    <div class="calendly-inline-widget" data-url="https://calendly.com/meet-luke-richardson/meet-with-luke?hide_gdpr_banner=1"  style="min-width:300px;height:890px;"></div>         
+    <div class="calendly-inline-widget" data-url="https://calendly.com/meet-luke-richardson?hide_gdpr_banner=1"  style="min-width:300px;height:520px;"></div>   
+
+      
 
 </div>
 
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+
+

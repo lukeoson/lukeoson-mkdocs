@@ -1,7 +1,7 @@
 # Site Settings
 site_name: Luke Richardson | aka Lukeoson
 site_url: https://lukeoson.com/
-repo_url: https://github.com/lukeoson/lukeoson-mkdocs
+repo_url: https://github.com/lukeoson/
 repo_name: lukeoson/lukeoson-mkdocs
 copyright: Copyright &copy; 2023 Lukeoson
 
@@ -154,8 +154,8 @@ extra:
   homepage: https://lukeoson.github.io
   # Jinja2
   project: Lukeoson Dabs
-  
 
+# Markdown Extensions
 markdown_extensions:
   - tables
   - pymdownx.highlight:

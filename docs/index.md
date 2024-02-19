@@ -37,13 +37,13 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). Currently employed as 
 
     [:material-email: Luke's Mail](mailto:hello@lukeoson.com)
 
-    [:material-github: Luke's GitHub](https://lukeoson.gituhb.io)
+    [:material-github: Luke's GitHub](https://hello.lukeoson.com)
 
-    [:material-certificate-outline: Luke's Acclaim](https://www.credly.com/users/luke-richardson.dca3c027)
+    [:material-certificate-outline: Luke's Acclaim](https://www.credly.com/users/lukeoson)
 
-    [:material-microsoft-word: Resume Word Download](/assets/link-docs/~$ke Richardson's Resume 2024.docx)
+    [:material-microsoft-word: Resume Word Download](assets/lukeoson-brand-profile/profile-docs/Luke Richardson Resume 2024.docx)
 
-    [:material-file-pdf-box: Resume PDF Download](luke-richardson-resume.pdf)
+    [:material-file-pdf-box: Resume PDF Download](assets/lukeoson-brand-profile/profile-docs/Luke Richardson Resume 2024.pdf)
 
     [:material-calendar: Book a Meeting](https://calendly.com/meet-luke-richardson)
 
