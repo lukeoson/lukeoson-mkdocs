@@ -1,9 +1,9 @@
 # Site Settings
-site_name: Luke Richardson | aka Lukeoson
-site_url: https://lukeoson.com/
-repo_url: https://github.com/lukeoson/
-repo_name: lukeoson/lukeoson-mkdocs
-copyright: Copyright &copy; 2023 Lukeoson
+site_name: !ENV SITE_NAME
+site_url: !ENV SITE_URL
+repo_url: !ENV REPO_URL
+repo_name: !ENV REPO_NAME
+copyright: !ENV COPYRIGHT
 
 # Navigation 
 nav:
@@ -76,7 +76,7 @@ nav:
 theme:
   favicon: assets/favicon/lukeoson-badge.png
   custom_dir: docs/overrides
-  name: material
+  name: !ENV THEME_NAME
   icon:
     annotation: material/chevron-right-circle
     repo: fontawesome/brands/github
@@ -151,7 +151,7 @@ extra:
     - icon: fontawesome/brands/youtube
       link: https://www.youtube.com/channel/UCXlJsPms5KOc9VLmTjtbYWA
   generator: false 
-  homepage: https://lukeoson.github.io
+  homepage: !ENV HOMEPAGE
   # Jinja2
   project: Lukeoson Dabs
 
