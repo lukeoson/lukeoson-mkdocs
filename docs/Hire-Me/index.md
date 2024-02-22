@@ -173,7 +173,7 @@ status: new
 - :material-star-shooting:{ .lg .middle } [__Luke's Career__](https://www.credly.com/users/luke-richardson.dca3c027) story is of ascending rigour & complexity (1) [Smartly Summarised](https://en.wikipedia.org/wiki/SMART_criteria)
 { .annotate}
 
-    1. ![Smart Goals Poster](../assets/images/lukeoson/smart-goals-poster.png)
+    1. ![Smart Goals Poster](smart-goals-poster.png)
 
     ---
     __Lloret Control Systems__
