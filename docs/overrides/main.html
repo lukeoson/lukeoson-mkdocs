@@ -1,6 +1,20 @@
 {% extends "base.html" %}
 
+<!-- Announcement bar -->
 {% block announce %}
-  <!-- Add announcement here, including arbitrary HTML -->
   This site is under development. It is a total mess currently. It really should not be public.
+  For updates follow <strong>@lukeoson</strong> on
+  <a rel="me" href="https://www.linkedin.com/in/luke-richardson/">
+    <span class="twemoji linkedin">
+      {% include ".icons/fontawesome/brands/linkedin.svg" %}
+    </span>
+    <strong>LinkedIn</strong>
+  </a>
+  and
+  <a href="https://twitter.com/lukeoson">
+    <span class="twemoji twitter">
+      {% include ".icons/fontawesome/brands/twitter.svg" %}
+    </span>
+    <strong>x Twitter</strong>
+  </a>
 {% endblock %}
