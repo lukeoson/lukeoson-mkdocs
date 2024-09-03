@@ -14,12 +14,20 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). Currently employed as 
 
 ---
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.9474921642217!2d-0.13534059999999998!3d51.519386399999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b25e0f0f0dd%3A0xffc06a936b93fee5!2sLukeOS%20Labs%20Ltd!5e0!3m2!1sen!2s!4v1624557160453!5m2!1sen!2s" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>  
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.9474921642217!2d-0.13534059999999998!3d51.519386399999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b25e0f0f0dd%3A0xffc06a936b93fee5!2sLukeOS%20Labs%20Ltd!5e0!3m2!1sen!2s!4v1624557160453!5m2!1sen!2s" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe> 
+
+---
 
 :material-checkbox-marked-outline: Here you will find my [Resume](Hire-Me/index.md), my new [Blog](blog/index.md), and some [Network](IaC/index.md) related content. 
 
-!!! info ":material-music-note:{ .heart } I'm open to new and compelling opportunities in the Network Automation realm:material-music-note:{ .heart }"
+!!! info ":material-music-note:{ .heart } I'm open to new and compelling opportunities in the Network Community. :material-music-note:{ .heart }"
     If you have a role that you think I might be interested in, please [get in touch](mailto:hello@lukeoson.com). You have my thanks and appreciation.
+
+    - Option 1: Network Architecture & Automated IaC
+    - Option 2: Technical Program / Project / Product Management
+    - Option 3: Network Automation Evangelist
+    - Option 4: Leadership & Team Management 
+    - Option 5: Live & Breathe the Startup Dream
 
 ---
 
