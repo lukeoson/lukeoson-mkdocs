@@ -7,6 +7,11 @@ description: >
     .
 categories:
   - Blog
+tags:
+  - science 
+  - biology 
+  - dna 
+  - evolution 
 
 ---
 
@@ -34,7 +39,7 @@ Life is complex molecular structures and pathways.
 
 ## Read Aloud
 
-![Life-As-No-One-Knows-It--The-Physics-of-Life's-Emergence-1-recording.m4a](../docs/assets/audio/Life-As-No-One-Knows-It--The-Physics-of-Life's-Emergence-1-recording.m4a)
+
 
 ## Summary 
 

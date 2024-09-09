@@ -18,6 +18,10 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
 ---
 
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/m7xnao?" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+
+---
+
 :material-checkbox-marked-outline: Here you will find my [Resume](Hire-Me/index.md), my new [Blog](blog/index.md), and some [Network](IaC/index.md) related content. 
 
 !!! info ":material-music-note:{ .heart } I'm open to new and compelling opportunities in the Network Community. :material-music-note:{ .heart }"
