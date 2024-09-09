@@ -21,7 +21,7 @@ tags:
 
 ## Gist
 
-Life is complex molecular structures and pathways. 
+> Life is complex molecular structures and pathways. 
 
 ## Terms & Concepts
 
@@ -39,7 +39,10 @@ Life is complex molecular structures and pathways.
 
 ## Read Aloud
 
-
+<audio controls>
+  <source src="/assets/audio/Life-As-No-One-Knows-It.m4a" type="audio/mp4">
+  Your browser does not support the audio element.
+</audio>
 
 ## Summary 
 
@@ -67,7 +70,7 @@ Life is complex molecular structures and pathways.
 
 ## Whiteboard
 
-![Life As No One Knows It- The Physics of Life's Emergence](../assets/audio/lifeasnooneknowsit-whiteboard.jpeg)
+![Life As No One Knows It- The Physics of Life's Emergence](/assets/audio/lifeasnooneknowsit-whiteboard.jpeg)
 
 
 ## Review Status
