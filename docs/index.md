@@ -8,9 +8,9 @@ hide:
 #level:
 ---
 
-# :material-party-popper: Welcome to Lukeoson Labs
+# :material-party-popper: Luke Richardson is available for hire!
 
-I'm [Luke](https://www.linkedin.com/in/luke-richardson/). Currently employed as a [Network Architect](https://en.wikipedia.org/wiki/Network_architecture#:~:text=Network%20architecture%20is%20the%20design,well%20as%20communication%20protocols%20used.) in London.
+I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Architect](https://en.wikipedia.org/wiki/Network_architecture#:~:text=Network%20architecture%20is%20the%20design,well%20as%20communication%20protocols%20used.) pursuing Technical Management opportunities in London. 
 
 ---
 
@@ -23,8 +23,8 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). Currently employed as 
 !!! info ":material-music-note:{ .heart } I'm open to new and compelling opportunities in the Network Community. :material-music-note:{ .heart }"
     If you have a role I might be interested in, please [get in touch](mailto:hello@lukeoson.com). You have my thanks and appreciation.
 
-    - Option 1: Network Architecture & Automated IaC
-    - Option 2: Technical Program / Project / Product Management
+    - Option 1: **Technical Program / Project / Product Management**
+    - Option 2: Network Architecture & Automated IaC
     - Option 3: Network Automation Evangelist
     - Option 4: Leadership & Team Management 
     - Option 5: Live & Breathe the Startup Dream
@@ -53,7 +53,7 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). Currently employed as 
 
     [:material-file-pdf-box: Resume PDF Download](assets/lukeoson-brand-profile/profile-docs/Luke Richardson Resume 2024.pdf)
 
-    [:material-calendar: Book a Meeting](https://calendly.com/meet-luke-richardson)
+    [:material-calendar: Book a Meeting or Interview](https://fantastical.app/luke-richardson)
 
     ---
 

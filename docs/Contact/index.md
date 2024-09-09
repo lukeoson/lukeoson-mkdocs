@@ -16,7 +16,7 @@ icon: material/badge-account-horizontal-outline
     {{ mobile }}  
     {{ github }}  
     {{ credly }}  
-    {{ calendly }}  
+    {{ fantastical }}  
 
     ---
 
