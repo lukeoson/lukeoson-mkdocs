@@ -5,13 +5,14 @@ authors:
 post_excerpt: .
 description: >
     .
-categories:
-  - Blog
+#categories:
+#  - science
 tags:
   - science 
   - biology 
   - dna 
   - evolution 
+readtime: 5
 
 ---
 
@@ -25,17 +26,18 @@ tags:
 
 ## Terms & Concepts
 
-- RNA: Ribonucleic Acid
-- DNA: Deoxyribonucleic Acid
-- Nucleotides - Building blocks of DNA
-    - Phosphate group
-    - Sugar molecule (deoxyribose) 
-    - Nitrogenous base 
-- Nitrogenous bases - **Adenine, Thymine, Guanine, Cytosine** - (rungs of ladder in helix)
-    - A pairs with T & G pairs with C
-- Backbone - sugar and phosphate molecules - (side of ladder in helix) 
-    - Does not carry genetic information
-- Assembly Theory: Complexity - How to identify Life!
+!!! info "Helpful Context & Definitions"
+    - RNA: Ribonucleic Acid
+    - DNA: Deoxyribonucleic Acid
+    - Nucleotides - Building blocks of DNA
+        - Phosphate group
+        - Sugar molecule (deoxyribose) 
+        - Nitrogenous base 
+    - Nitrogenous bases - **Adenine, Thymine, Guanine, Cytosine** - (rungs of ladder in helix)
+        - A pairs with T & G pairs with C
+    - Backbone - sugar and phosphate molecules - (side of ladder in helix) 
+        - Does not carry genetic information
+    - Assembly Theory: Complexity - How to identify Life!
 
 ## Read Aloud
 

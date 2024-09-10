@@ -14,7 +14,7 @@ status: new
 
     ---
 
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.9474921642217!2d-0.13534059999999998!3d51.519386399999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b25e0f0f0dd%3A0xffc06a936b93fee5!2sLukeOS%20Labs%20Ltd!5e0!3m2!1sen!2s!4v1624557160453!5m2!1sen!2s" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9930.841589429248!2d-0.1326323!3d51.  5185289!3m2!1i1024!2i768!4f13.    1!3m3!1m2!1s0x48761b009c344f4f%3A0xc3a8829a41d799ea!2sLuke%20Richardson!5e0!3m2!1sen!2suk!4v1725916073228!5m2!1sen! 2suk" width="100%" height="100%" style="border:0;" allowfullscreen=""    loading="lazy"referrerpolicy="no-referrer-when-downgrade"></iframe>
 
     ---
 
@@ -31,23 +31,17 @@ status: new
     {{ mobile }}  
     {{ github }}  
     {{ credly }}  
-    {{ calendly }}  
+    {{ fantastical }}  
 
     ---
 
 </div>
 
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/lukeos', text: 'Schedule time with Luke', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
-<!-- Calendly badge widget end -->
-
 ## Employment History 
 
 <div class="grid cards" markdown>
 
-- :material-history:{ .lg .middle } [__Luke's Employment__](https://www.credly.com/users/luke-richardson.dca3c027) in the Technology Industry includes WeWork & Dimension Data.  
+- :material-history:{ .lg .middle } [__Luke's Employment__](https://www.linkedin.com/in/luke-richardson/) in the Technology Industry includes WeWork & Dimension Data.  
 
     ---
 
@@ -162,7 +156,7 @@ status: new
     Multiple others not stored in Credly :done, 2020, 2025
     ```
 
-    - :material-certificate-outline: [Verify via Credly](https://www.credly.com/users/luke-richardson.dca3c027) and check [Luke's Blog](../blog/index.md) for current learning objectives.
+    - :material-certificate-outline: [Verify via Credly](https://www.credly.com/users/lukeoson) and check [Luke's Blog](../blog/index.md) for current learning objectives.
 
 </div>
 
@@ -170,7 +164,7 @@ status: new
 
 <div class="grid cards" markdown>
 
-- :material-star-shooting:{ .lg .middle } [__Luke's Career__](https://www.credly.com/users/luke-richardson.dca3c027) story is of ascending rigour & complexity (1) [Smartly Summarised](https://en.wikipedia.org/wiki/SMART_criteria)
+- :material-star-shooting:{ .lg .middle } [__Luke's Career__](https://www.credly.com/users/lukeoson) story is of ascending rigour & complexity (1) [Smartly Summarised](https://en.wikipedia.org/wiki/SMART_criteria)
 { .annotate}
 
     1. ![Smart Goals Poster](smart-goals-poster.png)

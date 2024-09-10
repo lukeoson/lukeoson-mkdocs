@@ -3,3 +3,5 @@
 - prod
 - issue
 - bug
+- Self-Help
+- Psychology

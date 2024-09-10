@@ -28,7 +28,7 @@ icon: material/badge-account-horizontal-outline
 
 <div class="grid cards" markdown>
 
--   :material-calendar:{ .lg .middle } Please don't hesitate to book time with my [Calendly](https://calendly.com/meet-luke-richardson).
+-   :material-calendar:{ .lg .middle } Book a meeting or interview with my [Fantasical](https://fantastical.app/luke-richardson). Thank you. 
 
     ---
 
@@ -60,12 +60,14 @@ icon: material/badge-account-horizontal-outline
 
     ### Schedule Meeting
 
+    - [x] Please use this [Fantastical Scheduling Link](https://fantastical.app/luke-richardson) to book a meeting or interview with me. 
+    
+    !!! info "Thank you. Your convenience is my priority :pray:{ .bounce}"
+        So feel free to use any other preferred method to reach out and conduct interviews or meetings.  
+
     !!! bug ":material-timer-outline:{ .heart } I cancelled my subscription. If you choose to [Zoom](https://us05web.zoom.us/j/3208768436?pwd=WURQdjZ2blR6cUFxTFZlK2J1YkQrdz09) it's 40mins on free tier."
 
-    <div class="calendly-inline-widget" data-url="https://calendly.com/meet-luke-richardson?hide_gdpr_banner=1"  style="min-width:300px;height:520px;"></div>   
-
-      
-
+ 
 </div>
 
 
