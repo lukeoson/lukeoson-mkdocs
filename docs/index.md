@@ -65,15 +65,15 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
     ---
 
-    *:material-bell-badge: It's, unapologetically, of dubious quality.*
+    *:material-bell-badge: Experience Distilled. Do What You Love.*
 
     ---
 
     Some highlights you may consider:
 
-    [:fontawesome-solid-mountain-city: AutoCon Zero 2023](blog/naf.md)
+    [:fontawesome-solid-earth-europe: NAF AutoCon One 2024](blog/posts/post05-event-autocon1.md) :heart:{ .bounce}
 
-    [:fontawesome-solid-earth-europe: Cisco Live EMEA 2023](blog/cisco-live-emea-23.md)
+    [:fontawesome-solid-earth-americas: NAF AutoCon Zero 2023](blog/posts/post04-event-autocon0.md)
 
     [:fontawesome-solid-earth-americas: Cisco Live Vegas 2022](blog/cisco-live-vegas-23.md)
 
