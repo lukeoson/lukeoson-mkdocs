@@ -71,9 +71,9 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
     Some highlights you may consider:
 
-    [:fontawesome-solid-earth-europe: NAF AutoCon One 2024](blog/posts/post05-event-autocon1.md) :heart:{ .bounce}
+    [:fontawesome-solid-earth-europe: NAF AutoCon One Denver 2024](blog/posts/post05-event-autocon1.md) :heart:{ .bounce}
 
-    [:fontawesome-solid-earth-americas: NAF AutoCon Zero 2023](blog/posts/post04-event-autocon0.md)
+    [:fontawesome-solid-earth-americas: NAF AutoCon Zero Amsterdam 2023](blog/posts/post04-event-autocon0.md)
 
     [:fontawesome-solid-earth-americas: Cisco Live Vegas 2022](blog/cisco-live-vegas-23.md)
 
