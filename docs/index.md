@@ -75,7 +75,7 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
     [:fontawesome-solid-earth-asia: My Life Story - Whoami](blog/posts/post04-whoami.md)
 
-    [:fontawesome-solid-earth-americas: The Greatest Shows on Earth](blog/post06-greatest-shows-on-earth.md)
+    [:fontawesome-solid-earth-americas: The Greatest Shows on Earth](media.md)
 
     Or, for something even more frivolous:
 
@@ -150,5 +150,3 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
     - [x] Default to kindness. It is the most powerful force in the universe. 
     
 ---
-
-* end of page. 

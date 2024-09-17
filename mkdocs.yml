@@ -14,6 +14,7 @@ nav:
     - My Bookshelf: books.md
     - My Favourite Quotes: quotes.md
     - My Favourite Words: words.md
+    - My Favourite Media: media.md
 
 # Resume
   - Hire Me: 
@@ -198,6 +199,7 @@ plugins:
   - git-committers:
       repository: lukeoson/lukeoson-mkdocs
       branch: main
+      token: !ENV ["GH_TOKEN"]
   - table-reader:
   - autolinks
   - meta:
