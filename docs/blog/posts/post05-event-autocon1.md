@@ -18,7 +18,7 @@ readtime: 15
 
 The [AutoCon](https://networkautomation.forum/autocon1) conferences have been remarkable gatherings of our network automation tribe. The [Network Automation Forum (NAF)](https://networkautomation.forum) has fostered an engaged, curious community that's pushing toward what's possible in automated network infrastructure. We’re all very thankful for the passion of [Chris](https://www.linkedin.com/in/cgrundemann/) & [Scott](https://www.linkedin.com/in/scottrobohn/) in their efforts to bring ‘*our people*’ together… and we hope they get very rich along the way! They deserve all the accolades, and more besides. *Take a Bow.* :boom:{ .bounce }  
 
-??? question "Help Me Understand the Money Flow - RFC"
+??? question "Side Note: Help Me Understand the Money Flow - RFC"
     They say you should follow the money... and I’m eager to better grasp the macro economics of our sector in transition. A theme I’ll be exploring in more depth later. As my career progresses, i'm looking for ways to add extreme business value structurally - beyond incremental business efficiency in project delivery and design. I want to lead. My initial presumption is we are seeing a slow burn realignment of allocated capital that will be of great benefit to the thought leaders in our space. If anyone can help me understand this better… please reach out. 
     
     I’m patient - but I too would like to be rich before I die:
@@ -35,6 +35,7 @@ These conferences are for engineers rather than companies so its appropriate to 
 
 Let's get into what I’ve gathered from these conferences, focusing on my favorite presentations from the most recent [AutoCon1 in Amsterdam](https://networkautomation.forum/autocon1) (*because the content was much better than [AutoCon0 in Denver](https://networkautomation.forum/autocon2)*), before placing all this in the context of where I see network automation heading and drawing a quasi analogy to the current intellectual zeitgeist of societal loops and [The Four Turnings](https://en.wikipedia.org/wiki/Strauss–Howe_generational_theory). It’s a stretch... but it kinda fits. 
 
+<!-- more -->
 
 ---
 
