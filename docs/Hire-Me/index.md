@@ -172,9 +172,9 @@ status: new
     ---
     __Lloret Control Systems__
 
-    - [x] Greenfield Architecture of Cisco, Meraki, Aruba, & Allied Telesis. 
+    - [x] Cisco & Aruba Greenfield Enterprise Systems Architecture. Smart Buildings & IoT. 
 
-        :material-arrow-right:_At Lloret, i'm regretfully unfulfilled with the industry segment. I'm looking for something more inspiring that embraces the paradigm shift toward Infrastructure as Code._  
+        :material-arrow-right:_I made the decision for move on from Lloret. I'm looking for something more inspiring that embraces the paradigm shift toward Automated Infrastructure as Code._  
     
         >:material-alpha-s-box: Network Design mapping Client Specifications to constraints.   
         >:material-alpha-m-box: Requirements delivered in strict adherence to defined budget.    

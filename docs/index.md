@@ -71,11 +71,11 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
     Some highlights you may consider:
 
-    [:fontawesome-solid-earth-europe: NAF AutoCon One Denver 2024](blog/posts/post05-event-autocon1.md) :heart:{ .bounce}
+    [:fontawesome-solid-earth-europe: NAF AutoCon Reflections](blog/posts/post05-event-autocon1.md) :heart:{ .bounce}
 
-    [:fontawesome-solid-earth-americas: NAF AutoCon Zero Amsterdam 2023](blog/posts/post04-event-autocon0.md)
+    [:fontawesome-solid-earth-americas: My Life Story - Whoami](blog/posts/post04-event-autocon0.md)
 
-    [:fontawesome-solid-earth-americas: Cisco Live Vegas 2022](blog/cisco-live-vegas-23.md)
+    [:fontawesome-solid-earth-americas: The Greatest Show on Earth](blog/cisco-live-vegas-23.md)
 
     Or, for something even more frivolous:
 
@@ -105,28 +105,9 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
 <div class="grid cards" markdown>
 
--   :material-lan:{ .lg .middle } [__Placeholder-Tech__](Placeholder-Content/index.md)
+-   :material-code-block-tags:{ .lg .middle } [__Network Automation Rudiments__](Placeholder-Content/index.md)
 
     ---
-
-    *:material-list-box-outline: The fundamentals of TCP/IP Networks.*
-
-    ---
-
-    Some initial content you may consider:
-
-    [:material-ip-outline: Introduction to CIDR & VLSM ...](Network-Rudiments/Subnetting/index.md)
-
-    [:material-dns-outline: Introduction to DNS ...](Network-Rudiments/DNS/index.md)
-
-    [:material-radius-outline: Introduction to NAC ...](Network-Rudiments/NAC/index.md)
-
-    ---
-
--   :material-code-block-tags:{ .lg .middle } [__Placeholder Climbing__](IaC/index.md)
-
-    ---
-
     *:material-list-box-outline: The path to Network as Code.*
 
     ---
@@ -138,6 +119,24 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
     [:simple-materialformkdocs: These Pages are built with Mkdocs ...](IaC/Mkdocs/index.md)
 
     [:material-database-check-outline: The Network Sources of Truth ...](IaC/SoT/index.md)
+
+    ---
+
+-   :material-lan:{ .lg .middle } [__Technical Management Adventures__](IaC/index.md)
+
+    ---
+
+    *:material-list-box-outline: Learning to lead - the hard way.*
+
+    ---
+
+    Some initial content you may consider:
+
+    [:material-ip-outline: Introduction to CIDR & VLSM ...](Network-Rudiments/Subnetting/index.md)
+
+    [:material-dns-outline: Introduction to DNS ...](Network-Rudiments/DNS/index.md)
+
+    [:material-radius-outline: Introduction to NAC ...](Network-Rudiments/NAC/index.md)
  
     --- 
 

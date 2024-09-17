@@ -235,18 +235,18 @@ hide:
 
 <div class="grid cards" markdown>
 
-- :material-book: **Network Programmability and Automation (2nd Edition):** *Skills for the Next-Generation Network Engineer*
+- :material-book: **Network Programmability and Automation (2nd Edition):** *Skills for the Next-Generation Network Engineer* :material-heart:{ .bounce }
 
     --- 
 
     [![Network Programmability and Automation](../assets/images/books/network-programability.png){ width="35px" align="right" }](https://www.amazon.com/Network-Programmability-Automation-Next-Generation-Engineer/dp/1098110838/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NRtSe45kPXlQJGEKxbO-yhbxRIVlAxk5YHo8etc0nYBFqT6jKfV9o8k0DBPFTbfAbZrO-LEz7PWZyy8BuRYlS-ZAT_wu6WpUDD2hxgbjqNPXX_6ajAuqdeFTMgYVfystI-8Z-UwN-07tkrxW3gG63DfVFwbSL9NZLCbJlnWQMQ5DimscUFmInfMYC_YpZDoSxHNBYy6nKlRgaTEpIFlPuA5jRARQneJp6LMzmBJ5HOU.6TrJ1yKZPaf4x8gOcPcTb0NKfzUS0hpKPAXkP94nSM4&dib_tag=se&keywords=network+programmability+and+automation&qid=1725990497&sr=8-1)
 
-    **Authors**: [Jason Edelman](www.jedelman.com), [Scott Lowe](https://www.linkedin.com/in/scottlowe/), [Matt Oswalt](https://www.linkedin.com/in/mattoswalt/)  
+    **Authors**: [Christian Adell](https://x.com/chadell0),[Jason Edelman](www.jedelman.com), [Scott Lowe](https://www.linkedin.com/in/scottlowe/), [Matt Oswalt](https://www.linkedin.com/in/mattoswalt/)  
     **Genre**: Technology, Networking
 
     ---
 
-    **Network Programmability and Automation (2nd Edition)** is a must-have for network engineers looking to evolve their skills for modern, automated networks. This book covers a broad range of network automation techniques, tools, and best practices, helping readers embrace the future of network engineering. From Python scripting and API-driven automation to tools like Ansible, this edition updates the foundational skills needed to automate network infrastructure at scale.
+    **Network Programmability and Automation (2nd Edition)** is a must-have for network engineers looking to evolve their skills for modern, automated networks. This book covers a broad range of network automation techniques, tools, and best practices, helping readers embrace the future of network engineering. From Python scripting and API-driven automation to tools like Ansible this edition updates the foundational skills needed to automate network infrastructure at scale.
 
     ---
 
