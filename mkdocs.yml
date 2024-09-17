@@ -195,6 +195,9 @@ markdown_extensions:
 
 # Plugins
 plugins:
+  - git-committers:
+      repository: lukeoson/lukeoson-mkdocs
+      branch: main
   - table-reader:
   - autolinks
   - meta:
