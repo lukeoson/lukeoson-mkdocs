@@ -16,7 +16,7 @@ tags:
 readtime: 15
 ---
 
-## The Evolution of Network Automation
+## Automation Magic Circles 
 
 The [AutoCon](https://networkautomation.forum) conferences are remarkable gatherings of our network automation tribe. The [Network Automation Forum (NAF)](https://networkautomation.forum) has fostered an engaged, curious community that's pushing toward what's possible in automated network infrastructure. I’m sure we’re all thankful for the passion of [Chris](https://www.linkedin.com/in/cgrundemann/) & [Scott](https://www.linkedin.com/in/scottrobohn/) in their effort to bring ‘*our people*’ together… and we hope they get very rich along the way! They deserve all the accolades and more besides. Take a Bow. 👊  
 
@@ -160,6 +160,8 @@ While there's a palpable tension and concern about the future, it's arguable tha
 
 For now, we’re navigating the complexities and contradictions of these transitions, but we haven’t yet faced the full impact of what this automation-driven evolution will mean for the profession.
 
+---
+
 ## Peter and the Pipedream  
 
 **Towards the Moment of the Conference: “I couldn't disagree with you more”**
@@ -173,13 +175,15 @@ I was fortunate to attend the Workshops in the days proceeding the main conferen
 Peters talk on the emergence of AIOPs referenced the desired architectural flow of **Observe** > **Engage** > **Act**. He explained the inherent need and urgency to lean into this ML & LLM assisted approach - as statistically evidenced by the lack of talent entering the networking profession. A timely reminder of that recurrent message that we need to *Make Network Engineering Cool again*. There are simply not enough of us. 
 
 ??? example "An controversial take - I might get cancelled. It's supposed to be good natured. Trust. :pray:" 
-    I have thoughts here - and a decidedly unpopular opinion I may develop another time… It’s gone down like a lead balloon when I have brought it up in water cooler conversations at the AutoCons so far. Which makes me nervous to talk openly about it, but the gist is, we are no where close to as smart as we like to think we are. This field is full of comparatively shit technologists by reference to most other technical domains. Ut oh - I said it. To be clear - I am in the bottom percentile, and, other than me, absolutely everyone that participates in NAF is to be excluded. This is the impressive tip of our community. But many in our profession would not be capable of transitioning to a legit development role. My argument being I am of the few self aware or stupid enough to say it out loud. Note the ironically funny feedback loop there. Turtles. :-) 
+    I have thoughts here - and a decidedly unpopular opinion I may develop another time… It’s gone down like a lead balloon when I have brought it up in water cooler conversations at the AutoCons so far. Which makes me nervous to talk openly about it, but the gist is, we are no where close to as smart as we like to think we are. This field is full of comparatively shit technologists by reference to most other technical domains. Ut oh - I said it. To be clear - I am in the bottom percentile, and, other than me, absolutely everyone that participates in NAF is to be excluded. This is the impressive tip of our community. But many in our profession would not be capable of transitioning to a legit development role. My argument being I am of the few self aware or stupid enough to say it out loud. Note the ironically funny feedback loop there. :turtle:{ .bounce } 
 
 Peters point was that it’s ridiculous to fear that AI will take our jobs. More likely, it will relieve some of the strain of an already lean and work burdened sector. We are all pretty bored of hearing this following the LLM early hype cycle so we can skip the detail.  
 
-When I saw the AutoCon1 speakers list Peters talk title stood out as the most intriguing. I assumed it would elucidate a narrative questioning if we are building high performance intelligent compute capable of solving real world problems akin to Bostrum’s 2014 SuperIntelligence predictions (Hall-9000) or if, in actuality, LLM models are just the first publicly notorious form of ML that can do a few fun and fluffy things and not much more (WALL-E). Alas, Peters talk did not pan out that way. My disappointment in the moment was ultimately salvaged by the debate that followed. Sweet!
+When I saw the AutoCon1 speakers list Peter's talk title stood out as the most intriguing. I assumed it would elucidate a narrative questioning if we are building high performance intelligent compute capable of solving real world problems akin to [Bostrom’s 2014 SuperIntelligence](../../books.md/#superintelligence) predictions (Hall-9000) or if, in actuality, LLM models are just the first publicly notorious form of ML that can do a few fun and fluffy things and not much more (WALL-E). Alas, Peters talk did not pan out that way. My disappointment in the moment was ultimately salvaged by the debate that followed. Sweet!
 
 But before we get to that, it’s worth quickly summarizing Peter’s take on Hollywood's historic commentary on AI themes.  
+
+My real time notes included:
 
 **Good vs Evil:**
 
@@ -189,9 +193,9 @@ Hall-9000 is something scary. A ‘cold blooded’ (isn’t language beautiful) 
 
 Peter declared that WALL-E & HALL-9000 started their life as good but malfunctioned into a stereotype. Before contextualising this to the here and now and our contemporary network automation agenda. So what now? Peter asked and answered - Intelligent Networks. AI will deliver the next paradigm. 
 
-Peter’s conclusion was that Hollywood AI stereotypes should be avoided. (Shock horror. Not exactly the revelation I was hoping for. More a statement of the blindingly obvious.) Instead we need AI OPs for mundane tasks, so we can tackle more complex tasks. A perfectly fine perspective although I’m intrigued to see how our definitions and conceptions of what complexity really is begin to break down in the coming years. Much is ponderously in flux right now. 
+Peter’s conclusion was that Hollywood AI stereotypes should be avoided. *(Shock horror. Not exactly the revelation I was hoping for. More a statement of the blindingly obvious.)* Instead we need AI OPs for mundane tasks, so we can tackle more complex tasks. A perfectly fine perspective although I’m intrigued to see how our definitions and conceptions of what complexity really is begin to break down in the coming years. Much is ponderously in flux right now. 
 
-SURF already have fully orchestrated provisioning. As displayed in their workshop of the Workflow Orchestrator they have built. You should check it out. 
+SURF already have fully orchestrated provisioning. As displayed in their workshop of the [Workflow Orchestrator](https://workfloworchestrator.org/about/) they have built. *You should check it out!*
 
 Peters description of what SURF are building for the next Network Iteration of their high performance network is:
 
@@ -204,35 +208,39 @@ Peters description of what SURF are building for the next Network Iteration of t
 
 Peters description of his aims designing and building SURFs next generation of networks was building toward his ultimate thesis: 
 
-It has to be open source and open standards. Therefore, Vendors need to provide us APIs that always look the same. Before declaring, with provocative emphasis, that Vendors need to support OpenConfig to enable multi vendor configuration. 
+**It has to be open source and open standards**. Therefore, Vendors need to provide us APIs that always look the same. Before declaring, with provocative emphasis, that Vendors need to support OpenConfig to enable multi vendor configuration. 
 
 In summing up, Peter said Automation enables Orchestration so we can unlock the potential of an Intelligent Network. It was a decent talk. Good points well made. He must have been feeling good about himself. Respect. Applause ensued. We had made it to the end of the conference and he must have had every expectation there would be a few soft ball questions and notional praise for all the great work he had done at SURF to build such a high performant network machine. 
 
 Then cometh Dinesh… **"I couldn’t disagree with you more.”** 
 
-Dinesh said, “I couldn’t disagree with you more.  It’s really important to understand the context in which we operate.” I’ll paraphrase the rest of his diatribe … OpenConfig is zero. We have devices running that are a decades old. If it aint broke dont fix mentalities mean these devices are not being replaced anytime soon. Dinesh insisted that the first thing we should stop as a community is continue our push to OpenConfig and other vendor agnostic plays. He was harping on about the standard API because we are not going to get it. The longer we pursue this myth the longer we will be here asking why have we not seen full adoption of automation yet. We had the same problem from SNMP - it’s not changed. 
+> “I couldn’t disagree with you more.  It’s really important to understand the context in which we operate.” I’ll paraphrase the rest of his diatribe … OpenConfig is zero. We have devices running that are a decades old. If it aint broke dont fix mentalities mean these devices are not being replaced anytime soon. Dinesh insisted that the first thing we should stop as a community is continue our push to OpenConfig and other vendor agnostic plays. He was harping on about the standard API because we are not going to get it. The longer we pursue this myth the longer we will be here asking why have we not seen full adoption of automation yet. We had the same problem from SNMP - it’s not changed. 
 
 Of all the great lines being thrown back and forth during this wonderful exchange of frank opinions the most hilarious was:
 
-Dinesh said: “We somehow think we will tell the vendors to get together and sing Kumbaya - ain’t happening!”
+Dinesh said: 
 
-To which Peter retorted: “Maybe I am naive and young - but I do have some hope.”
+> “We somehow think we will tell the vendors to get together and sing Kumbaya - ain’t happening!”
+
+To which Peter retorted: 
+
+> “Maybe I am naive and young - but I do have some hope.”
 
 Before Wim chimed in to provide a bridge between Dinesh & Peter by suggested, in ways evocative of his prior KubeNet remarks, that perhaps we as a community could get together and build an abstraction layer. 
 
 So what were we seeing here? People fighting for their products. Just like every Vendor does. 
 
-Dinesh has Susie Q that is built around SSH discovery and interacting with Vendor CLI in order to be operable in the here and now. 
+Dinesh has SuzieQ that is built around SSH discovery and interacting with Vendor CLI in order to be operable in the here and now. 
 
-Wim has KubeNet that will required the API abstraction layer to work. 
+Wim has KubeNet that will require the API abstraction layer to work. 
 
-And Peter is building something shiny and new with vast quantities of public money that affords him the opportunity to think from first principles and behave aspiration-ally. And so he bloody should. 
+Peter is building something shiny and new with vast quantities of public money that affords him the opportunity to think from first principles and behave aspiration-ally. *And so he bloody should! *
 
-People have different motivations and contexts. I began this post by referencing the allocation of capital in our industry… 
+People have different motivations and contexts. I began this post by referencing the allocation of capital in our industry...
 
 My thought here is they are obviously both correct. It’s a question of perspective. The apparent disjunction between Dinesh & Peter is explained not just by the grizzled and wise vs young and hopeful thing. It’s a function of the sectors in which they have build extraordinarily successful careers. 
 
-We need more Peters. I am proud of him for standing his ground to the extent he did. But, if it was me, i like to think I would have ripped Dinesh a new one - despite him being perfectly correct and sagely wise on the matter. If the University and Public sector is not pushing for Open Systems and vendor agnostic solutions then who the fuck is? In Peter we trust. The personification of a vitally important component of our wonderful technology ecosystem. After all, Elon built SpaceX off the back off NASA and the US government funding. I wonder how long before Claudia gets to add the Mars mission to her space & automation analogies.   
+*We need more Peters.* I'm proud of him for standing his ground to the extent he did. But, if it was me, i like to think I would have ripped Dinesh a new one - despite him being perfectly correct and sagely wise on the matter. **If the University and Public sector is not pushing for Open Systems and vendor agnostic solutions then who the fuck is?** In Peter we trust. The personification of a vitally important component of our wonderful technology ecosystem. After all, Elon built SpaceX off the back off NASA and Government funding. I wonder how long before Claudia gets to add the Mars mission to her space & automation analogies.   
 
 Whatever the truth and ultimate outcome… it was a great dialogue, as Scott made clear in his closing remark. A truly delightful exchange. Thanks much Claudia, Dinesh, Peter & Wim. I like to think we will reflect on this at AutoCon10. I wonder where we will be. 
 
