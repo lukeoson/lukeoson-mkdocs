@@ -68,7 +68,7 @@ My real time notes included:
 
 5. **Avoid the Go-Lang Bandwagon**: Dinesh advised against pushing specific languages like Go-Lang without considering the bigger picture of where the industry came from versus where it’s headed. He drew an empathetic cord that spoke to people like me that love our field of play but are not genetically built for it. We need tools that democratize the playing field and are accessible to amateurs as well as *AutoGods*. Praise be upon him.   
 
-This led to a deeper reflection on what the next generation of tools will be, coining the term **Tools 2.0**, a theme that continued in discussions throughout the conference. I presume his unsaid rift here is “Oh, [SuzieQ](https://github.com/netenglabs/suzieq), baby, (we should) love you”. And we really do, so Thank You!
+This led to a deeper reflection on what the next generation of tools will be, coining the term `Tools 2.0`, a theme that continued in discussions throughout the conference. I presume his unsaid rift here is “Oh, [SuzieQ](https://github.com/netenglabs/suzieq), baby, (we should) love you”. And we really do, so Thank You!
 
 ---
 
@@ -172,7 +172,7 @@ I was fortunate to attend the Workshops in the days proceeding the main conferen
 Peter's talk on the emergence of AIOPs referenced the desired architectural flow of **Observe** > **Engage** > **Act**. He explained the inherent need and urgency to lean into this ML & LLM assisted approach - as statistically evidenced by the lack of talent entering the networking profession. A timely reminder of that recurrent message that we need to *Make Network Engineering Cool again*. There are simply not enough of us. 
 
 ??? example "An controversial take - I might get cancelled. It's supposed to be good natured. Trust. :pray:" 
-    I have thoughts here - and a decidedly unpopular opinion I may develop another time… It’s gone down like a lead balloon when I have brought it up in water cooler conversations at the AutoCons so far. Which makes me nervous to talk openly about it, but the gist is, we are no where close to as smart as we like to think we are. This field is full of comparatively shit technologists by reference to most other technical domains. Ut oh - I said it. To be clear - I am in the bottom percentile, and, other than me, absolutely everyone that participates in NAF is to be excluded. This is the impressive tip of our community. But many in our profession would not be capable of transitioning to a legit development role. My argument being I am of the few self aware or stupid enough to say it out loud. Note the ironically funny feedback loop there. :turtle:{ .bounce } 
+    I have thoughts here - and a decidedly unpopular opinion I may develop another time… It’s gone down like a lead balloon when I've brought it up in water cooler conversations at the AutoCons so far. Which makes me nervous to talk openly about it, but the gist is: *We are no where close to as smart as we like to think we are!* This field is full of comparatively poor technologists by reference to most other adjacent technical domains. Ut oh - I said it. To be clear - I'm in the bottom percentile, and, other than me, absolutely everyone that participates in NAF is to be excluded. This is the impressive tip of our community. But many in our profession would not be capable of transitioning to a legit development role. My argument being I'm of the few self aware or stupid enough to say it out loud. Note the ironically funny feedback loop there. :turtle:{ .bounce } There is loads more nuance as i'm well aware there is a small segment of our profession that actually build the products or engineer very large and crazy complex networks. But the vast swathe of network engineers are working for small time companies or public bodies flipping ports and tickets for a living. I suspect as people drift toward seniority much of this is lost. I think what i'm saying here is please bear in mind you lot are the cerebral few. (Although i'd also note many of the best minds likely consider NAF a community of trivialities so i do need to refine my arguments here.)
 
 Peters point was that it’s ridiculous to fear that AI will take our jobs. More likely, it will relieve some of the strain of an already lean and work burdened sector. We are all pretty bored of hearing this following the LLM early hype cycle so we can skip the detail.  
 
@@ -218,7 +218,7 @@ In summing up, Peter said Automation enables Orchestration so we can unlock the 
 
 Then cometh Dinesh… **"I couldn’t disagree with you more.”** 
 
-> “I couldn’t disagree with you more.  It’s really important to understand the context in which we operate.” 
+> “I couldn’t disagree with you more.  It’s really important to understand the context in which we operate.” :boom:{ .bounce }
 
 I’ll paraphrase the rest of his awesome diatribe... 
 

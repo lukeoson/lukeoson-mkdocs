@@ -31,7 +31,7 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
     - Option 2: Network Architecture & Automated IaC
     - Option 3: Network Automation Evangelist
     - Option 4: Leadership & Team Management 
-    - Option 5: Live & Breathe the Startup Dream
+    - Option 5: Live & Breathe the Startup Dream    
 
 ---
 
@@ -73,9 +73,9 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
     [:fontawesome-solid-earth-europe: NAF AutoCon Reflections](blog/posts/post05-event-autocon1.md) :heart:{ .bounce}
 
-    [:fontawesome-solid-earth-americas: My Life Story - Whoami](blog/posts/post04-event-autocon0.md)
+    [:fontawesome-solid-earth-americas: My Life Story - Whoami](blog/posts/post04-whoami.md)
 
-    [:fontawesome-solid-earth-americas: The Greatest Show on Earth](blog/cisco-live-vegas-23.md)
+    [:fontawesome-solid-earth-americas: The Greatest Shows on Earth](blog/post06-greatest-shows-on-earth.md)
 
     Or, for something even more frivolous:
 
