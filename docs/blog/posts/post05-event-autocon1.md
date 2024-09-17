@@ -253,3 +253,5 @@ So what were we seeing here? People fighting for *their* Products. (*Noting that
 
 Whatever the truth and ultimate outcome… it was a great dialogue, as Scott made clear in his closing remark. A truly delightful exchange. Thanks much Claudia, Dinesh, Peter & Wim. I like to think we will reflect on this at AutoCon10. Or otherwise the robots at AutoCon1010. I wonder where we will be. 
 
+{{ git.short_commit}} ({{ git.date}}) by {{ git.author}}
+

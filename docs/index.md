@@ -73,7 +73,7 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
     [:fontawesome-solid-earth-europe: NAF AutoCon Reflections](blog/posts/post05-event-autocon1.md) :heart:{ .bounce}
 
-    [:fontawesome-solid-earth-americas: My Life Story - Whoami](blog/posts/post04-whoami.md)
+    [:fontawesome-solid-earth-asia: My Life Story - Whoami](blog/posts/post04-whoami.md)
 
     [:fontawesome-solid-earth-americas: The Greatest Shows on Earth](blog/post06-greatest-shows-on-earth.md)
 
@@ -132,11 +132,11 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
     Some initial content you may consider:
 
-    [:material-ip-outline: Introduction to CIDR & VLSM ...](Network-Rudiments/Subnetting/index.md)
+    [:material-radius-outline: Introduction to being Different ...](Network-Rudiments/Subnetting/index.md)
 
-    [:material-dns-outline: Introduction to DNS ...](Network-Rudiments/DNS/index.md)
+    [:material-dna: Introduction to being Authentic ...](Network-Rudiments/DNS/index.md)
 
-    [:material-radius-outline: Introduction to NAC ...](Network-Rudiments/NAC/index.md)
+    [:material-flash-triangle-outline: Introduction to being Wrong ...](Network-Rudiments/NAC/index.md)
  
     --- 
 

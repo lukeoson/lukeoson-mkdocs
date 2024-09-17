@@ -249,13 +249,13 @@ status: new
     .
     ├── Adventure
     │   ├── Mountains
-    │   └── Rock Climbing
+    │   └── Rock-Climbing
     ├── Politics
     │   ├── Influential-People
     │   └── Power-Structures 
     └── Technology
-        ├── Infrastructure as Code
-        └── Network Engineering
+        ├── Infrastructure-as-Code
+        └── Network-Engineering
     ```
 
 </div>
