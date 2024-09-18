@@ -249,9 +249,9 @@ So what were we seeing here? People fighting for *their* Products. (*Noting that
 !!! success "Dinesh & Peter are BOTH CORRECT"
     My thought here is they are obviously both correct. It’s a question of perspective. The apparent disjunction between Dinesh & Peter is explained not just by the grizzled and wise vs young and hopeful thing. It’s a function of the sectors in which they have built extraordinarily successful careers. Dinesh is in the brown trenches, and Peter is in the green clouds. All thats old is new again. And ultimately - follow the money.   
 
-*We need more Peters.* I'm proud of him for standing his ground to the extent he did. But, if it was me, i like to think I would have ripped Dinesh a new one - despite him being perfectly correct and sagely wise on the matter. **If the University and Public sector is not pushing for Open Systems and vendor agnostic solutions then who the fuck is?** In Peter we trust. The personification of a vitally important component of our wonderful technology ecosystem. After all, Elon built SpaceX off the back off NASA and Government funding. I wonder how long before Claudia gets to add the Mars mission to her space & automation analogies.   
+*We need more Peters.* I'm proud of him for standing his ground to the extent he did. But, if it was me, i like to think I would have ripped Dinesh a new one - despite him being perfectly correct and sagely wise on the matter. **If educational co-operative institutions and the public sector is not pushing for open systems and vendor agnostic solutions then who the fuck is?** In Peter we trust. The personification of a vitally important component of our wonderful technology ecosystem. After all, Elon built SpaceX off the back off NASA and Government funding. I wonder how long before Claudia gets to add the Mars mission to her space & automation analogies.   
 
 Whatever the truth and ultimate outcome… it was a great dialogue, as Scott made clear in his closing remark. A truly delightful exchange. Thanks much Claudia, Dinesh, Peter & Wim. I like to think we will reflect on this at AutoCon10. Or otherwise the robots at AutoCon1010. I wonder where we will be. 
 
-{{ git.short_commit}} ({{ git.date}}) by {{ git.author}}
+by {{ git.author}}
 
