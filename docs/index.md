@@ -18,7 +18,19 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
 ---
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+:material-video-outline: Thank you for visiting. If you have a spare 2 minutes... Please allow me to introduce myself.
+
+<div style="position:relative; width:100%; height:0; padding-bottom:56.25%;">
+  <iframe
+    src="https://www.youtube.com/embed/IpEZp6Zy8fw?loop=1&playlist=IpEZp6Zy8fw&autoplay=1&mute=1&cc_load_policy=1&cc_lang_pref=en"
+    style="position:absolute; top:0; left:0; width:100%; height:100%; border:none; overflow:hidden;"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin"
+    title="YouTube video player">
+  </iframe>
+</div>
 
 ---
 

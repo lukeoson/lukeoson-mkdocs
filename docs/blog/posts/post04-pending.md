@@ -4,14 +4,15 @@ authors:
   - lukeoson
 post_excerpt: Pending.
 description: >
-
+    pending
 title: Pending
 categories:
   - Pending
 tags: 
-  - Pending
+  - pending
 
-readtime: 15
+readtime: 5
 ---
 
-## Pending
+## Pending 
+
