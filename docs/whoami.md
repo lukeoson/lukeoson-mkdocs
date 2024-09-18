@@ -11,11 +11,51 @@ hide:
 !!! warning "This is an outline draft - pending completion."
     This is a heavily redacted version of my life story, focusing on key milestones and experiences.
 
-08:18hrs 16/11/1985: Born in Kettering Hospital, Northamptonshire, England.
+## Childhood
 
-1990 - 1996: Barton Seagrave Primary School. 
+<div class="grid cards" markdown>
 
-1997 - 2005: Bishop Stopford School.
+- :material-baby-face-outline: **Normal Childhood**: *Nothing Fancy.*
+
+    --- 
+    
+    **Born 8:18am on 16th November 1985**: *Kettering Hospital, Northamptonshire, England.*
+
+    ![birth](/assets/images/whoami/birth.jpeg){ width="120px" align="right" }
+
+    - x2 Brothers 6 & 8 years older. Both much smarter than me.
+    - Teacher for a Dad. Stand up chap. 
+    - Stay at home Mum. Who ultimately became a Nurse. :material-heart:{ .bounce }
+    - Kind and loving family. Basic and normal. 
+
+    ---
+
+    **Attended Barton Seagrave Primary School**: *In my local village. Pleasant memories.*
+
+    ![birth](/assets/images/whoami/school.jpeg){ width="120px" align="right" }
+
+    - Sam Palmer was my best friend.
+    - I was good at Football back then. Team Captain in year 6.
+    - Joe Devlin was the Council Estate cool kid. His Dad went to prison.
+    - Roller Hockey with Shane. He went mental in teenage years.  
+
+    ---
+
+    **Attended Bishop Stopford Secondary School**: *Christian "Bible Bashers". Great memories.*
+
+    ![birth](/assets/images/whoami/bishop.jpeg){ width="115px" align="right" }
+
+    - Thought i was cool. Boyce, Johnny, Rosie, Jake, Wazza, Zetta. 
+    - Feel in love with Sophie. Still am... :broken_heart:{ .bounce }
+    - A Levels in Politics, Economics, Business & ICT. 
+    - Cannabis & Ecstasy. Hard House illegal raves.  
+
+    ---
+
+</div>
+
+## Young Adult
+
 
 2005 - 2006: Solo adventure in Northern India, age 18. 
 
