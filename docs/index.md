@@ -73,7 +73,7 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
     [:fontawesome-solid-earth-europe: NAF AutoCon Reflections](blog/posts/post05-event-autocon1.md) :heart:{ .bounce}
 
-    [:fontawesome-solid-earth-asia: My Life Story - Whoami](blog/posts/post04-whoami.md)
+    [:fontawesome-solid-earth-asia: My Life Story - Whoami](whoami.md)
 
     [:fontawesome-solid-earth-americas: The Greatest Shows on Earth](media.md)
 

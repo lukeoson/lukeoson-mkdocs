@@ -10,7 +10,7 @@ hide:
 
 # My Favorite Media
 
-Here you'll find the media I consume routinely that informs my worldview. The things i consider *the greatest shows on earth*. Content that inspires, educates, and entertains me. In an information rich, complex, and polarized world, I try to consume a wide variety of perspectives and ideas. 
+Here you'll find the media I consume routinely that informs my worldview. The things I consider *the greatest shows on earth*. Content that inspires, educates, and entertains me. In an information rich, complex, and polarized world, I try to consume a wide variety of perspectives and ideas. 
 
 !!! tip 
     My aim in providing this curated content portfolio is to grant you some modicum of insight into the influences that shape my opinions. To be clear, I actively seek out diverse viewpoints that challenge my beliefs. This is a basic tenant of knowledge. Any attempt to box me up ideologically is futile. Please refrain from drawing any radical or definitive conclusions. But feel free to use this page as a frame of reference for understanding the type of person I am.
@@ -40,6 +40,8 @@ I'm more curious than clever. But remain committed to continuously iterating my 
     ---
 
     **Technology Reference Points**
+
+    I love these old school vibes. A treasure trove.
 
     - [TCP Guide](http://www.tcpipguide.com/) ... *A comprehensive guide to the TCP/IP protocol suite*
     - [A Security Site](https://asecuritysite.com) ... *A comprehensive guide to Security* with [Prof B Buchanan](https://www.linkedin.com/in/billatnapier/)
@@ -72,6 +74,8 @@ I'm more curious than clever. But remain committed to continuously iterating my 
 
     **Deeper takes on World Matters**
 
+    My go-to sources for deeper analysis and thought provoking ideas, themes, and concepts. 
+
     - [Making Sense](https://www.samharris.org/podcast) ... *Philosophical discussions* with [Sam Harris](https://www.samharris.org/)
     - [Modern Wisdom](https://www.modernwisdompodcast.com/) ... *Exploring the modern world* with [Chris Williamson](https://x.com/ChrisWillx)
     - [Mind Space](https://www.preposterousuniverse.com/podcast/) ... *Exploring the mind and consciousness* with [Sean Carroll](https://x.com/seanmcarroll)
@@ -81,6 +85,8 @@ I'm more curious than clever. But remain committed to continuously iterating my 
     ---
 
     **Technology**
+
+    My favorite sources for keeping up with matters pertinent to my professional career journey.
 
     - [Packet Pushers](https://packetpushers.net/) ... *Network Love* with [Ethan Banks](https://x.com/ecbanks) *We miss you Greg!* 🥺 | Fat Pipe. :material-heart:{ .bounce }
     - [Change Log](https://changelog.com/) ... *Open Source Software* with [Adam Stacoviak](https://x.com/adamstac) & [Jerod Santo](https://x.com/jerodsanto)
@@ -92,12 +98,16 @@ I'm more curious than clever. But remain committed to continuously iterating my 
 
     **Health & Fitness**
 
+    So i can live to see 3000 and climb V10 before i die.
+
     - [Huberman Lab](https://www.hubermanlab.com/) ... *Science-based tools for everyday life* with [Andrew Huberman](https://x.com/hubermanlab)
     - [Zoe Health](https://zoe.com/learn/category/podcasts) ... *Nutrition and health insights* with [Tim Spector](https://x.com/timspector)
 
     ---
 
     **Climbing & Adventure**
+
+    To be fair... I often skip them. I'd rather be climbing than listening.
 
     - [The Struggle](https://www.thestruggleclimbingshow.com) ... *Climbing and adventure stories* with [Ryan Devlin](https://x.com/ryandevlin)
     - [Climbing Gold](https://www.climbinggold.com) ... *Climbing stories and insights* with [Alex Honnold](https://x.com/AlexHonnold)
