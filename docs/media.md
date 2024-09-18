@@ -10,7 +10,7 @@ hide:
 
 # My Favorite Media
 
-Here you'll find the media I consume routinely that informs my worldview. The things is consider *the greatest shows on earth*. Content that inspires, educates, and entertains me. In an information rich, complex, and polarized world, I try to consume a wide variety of perspectives and ideas. 
+Here you'll find the media I consume routinely that informs my worldview. The things i consider *the greatest shows on earth*. Content that inspires, educates, and entertains me. In an information rich, complex, and polarized world, I try to consume a wide variety of perspectives and ideas. 
 
 !!! tip 
     My aim in providing this curated content portfolio is to grant you some modicum of insight into the influences that shape my opinions. To be clear, I actively seek out diverse viewpoints that challenge my beliefs. This is a basic tenant of knowledge. Any attempt to box me up ideologically is futile. Please refrain from drawing any radical or definitive conclusions. But feel free to use this page as a frame of reference for understanding the type of person I am.
