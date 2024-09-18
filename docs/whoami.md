@@ -32,7 +32,7 @@ hide:
 
     **Attended Barton Seagrave Primary School**: *In my local village. Pleasant memories.*
 
-    ![birth](/assets/images/whoami/school.jpeg){ width="120px" align="right" }
+    ![school](/assets/images/whoami/school.jpeg){ width="120px" align="right" }
 
     - Sam Palmer was my best friend.
     - I was good at Football back then. Team Captain in year 6.
@@ -43,7 +43,7 @@ hide:
 
     **Attended Bishop Stopford Secondary School**: *Christian "Bible Bashers". Great memories.*
 
-    ![birth](/assets/images/whoami/bishop.jpeg){ width="115px" align="right" }
+    ![bishop](/assets/images/whoami/bishop-school.jpeg){ width="115px" align="right" }
 
     - Thought i was cool. Boyce, Johnny, Rosie, Jake, Wazza, Zetta. 
     - Feel in love with Sophie. Still am... :broken_heart:{ .bounce }

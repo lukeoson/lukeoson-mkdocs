@@ -158,7 +158,7 @@ I'm more curious than clever. But remain committed to continuously iterating my 
 
 <div class="grid cards" markdown>
 
--  :material-lightbulb: **Technology Certifications**: *bits & bites*
+-  :material-lightbulb: **Technology Certifications**: *bits & bytes*
 
     --- 
 
