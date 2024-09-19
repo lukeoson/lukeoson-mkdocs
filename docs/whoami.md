@@ -64,7 +64,7 @@ hide:
     
     **A Trip to the Indian Himalayas**: *The Allure of High Mountains.*
 
-    ![india](/assets/images/whoami/kashmir.jpeg){ width="120px" align="right" }
+    ![india](/assets/images/whoami/india-ladakh.jpeg){ width="120px" align="right" }
 
     - A solo adventure in Northern India, age 18.
     - Delhi, Kashmir, Ladakh, Amritsar, and Ladakh again. 
@@ -75,7 +75,7 @@ hide:
 
     **Queen Mary University of London**: *Politics BA 2:1.*
 
-    ![queen-mary](/assets/images/whoami/glasto.jpeg){ width="120px" align="right" }
+    ![queen-mary](/assets/images/whoami/queen-mary.png){ width="120px" align="right" }
 
     - First year living in Mile End, Albert House Halls.
     - Second & third year living in Hackney. Gynn Road. Murder Mile.
@@ -110,15 +110,15 @@ hide:
     ![india](/assets/images/whoami/cabling.jpeg){ width="120px" align="right" }
 
     - Cabled Cat6a Nottingham University Bio Chemistry.
-    - Cabled Advanced Manufacturing, Coventry. 
+    - Cabled Advanced Manufacturing Facility, Coventry. 
     - Cabled Birmingham Library.
     - Cabled St Georges Park, Football Association.
 
     ---
 
-    **Site & Project Management**: *[Dimension Data](https://services.global.ntt/en-us/). Thanks for Paul Charles*
+    **Site & Project Management**: *[Dimension Data](https://services.global.ntt/en-us/). Thanks to Paul Charles.*
 
-    ![di-data](/assets/images/whoami/westfield-face.jpeg){ width="120px" align="right" }
+    ![di-data](/assets/images/whoami/westfield-dc.jpeg){ width="120px" align="right" }
 
     - Audits, Cabling, Rack & Stack: Airbus & Airbus Military, Bristol.
     - Rack & Stack & Config: Military Data Centre, RAF Brize Norton.
@@ -143,8 +143,8 @@ hide:
 
     - My best friend jumps in front of a train. *It's complicated*.  
     - An impossible situation. I should have stayed away. *It's complicated*.  
-    - I hurt people I love for which i am forever sorry. But... *It's complicated*.  
-    - I learn to valuable life lessons and loose my mind. 
+    - I hurt people I love for which i'm forever sorry. But... *It's complicated*.  
+    - I learn valuable life lessons and loose my mind. 
 
     ---
 
@@ -159,9 +159,9 @@ hide:
 
     ---
 
-    **Mountaineering / Trekking in Nepal*: *Everest Basecamp & Annapurna Trail.*
+    **Mountaineering / Trekking in Nepal**: *Everest Basecamp & Annapurna Trail.*
 
-    ![nepal](/assets/images/whoami/nepal-happy.jpeg){ width="115px" align="right" }
+    ![nepal](/assets/images/whoami/nepal-basecamp.jpeg){ width="115px" align="right" }
 
     - Heady days in Katmandu. Stick thin. 
     - Everest Basecamp. 2 days back from Basecamp. Extreme exhaustion.  
@@ -182,7 +182,7 @@ hide:
     
     **Data Centre Program Management & Network Engineer**: *[Excel IT - Redstone - Onnec](https://www.onnecgroup.com).*
 
-    ![excel-it](/assets/images/whoami/excel-era-profile.jpeg){ width="120px" align="right" }
+    ![excel-it](/assets/images/whoami/westfield-room.jpeg){ width="120px" align="right" }
 
     - Vodaphone Data Centre Cisco ACI Build & Base Config, Watford. 
     - NTT Data Centre Build, Hemal Hempstead.  
@@ -191,12 +191,12 @@ hide:
 
     ---
 
-    **Barrister Gig during Study**: *Hilarious months at a Coffee Shop. Wild World. Career take off*
+    **Barrister Gig during Study**: *Hilarious months at a Coffee Shop. Wild World.*
 
     ![pret](/assets/images/whoami/pret-era-profile.jpeg){ width="120px" align="right" }
 
     - Perfect flat whites. Outrageous characters. Surprisingly Fun!  
-    - Acquired CCNA & initial DevOps knowledge. Focused study.
+    - Acquired Certifications & initial DevOps knowledge. Focused study.
     - Flown out to San Francisco to interview with [Verkada](https://www.verkada.com). Blew it!
     - Applied for [WeWork](https://wework.com) during Hyper-growth. Smashed it! 
 
@@ -208,22 +208,22 @@ hide:
 
 <div class="grid cards" markdown>
 
-- :material-code-json: **Dreams come true & Exceptional Talent**: *Do what you love.*
+- :material-code-json: **Dreams come true & Exceptional Talent**: *Do what you love!*
 
     ---
 
-    **Network Engineer - Mission Control**: *[WeWwork](https://wework.com).*
+    **Network Engineer - Mission Control**: *[WeWork](https://wework.com).*
 
-    ![mission-control](/assets/images/whoami/we-slack-profile.jpeg){ width="120px" align="right" }
+    ![mission-control](/assets/images/whoami/we-london-noc.jpeg){ width="120px" align="right" }
 
     - John Porter hires me into the WeWork Mission Control Team. 
     - 48 billion dollar valuation. 1000's of sites. Hyper-growth. 
     - Flown out to San Francisco to visit Sales Force Tower HQ. 
-    - Matt Brown wonderful. Thank you. Miss you.   
+    - Matt Brown is wonderful. Thank you. Miss you.   
 
     ---
 
-    **Network Architect - Global**: *[WeWwork](https://wework.com).*
+    **Network Architect - Global**: *[WeWork](https://wework.com).*
 
     ![wework](/assets/images/whoami/we-covid.jpeg){ width="115px" align="right" }
 
@@ -240,11 +240,11 @@ hide:
 
 <div class="grid cards" markdown>
 
-- :material-infinity: **Life Travails**: *Redundancy & Rebirth - consciously. Stronger now*
+- :material-infinity: **Life Travails**: *Redundancy & Rebirth - consciously. Stronger now.*
 
     --- 
     
-    **WeWork Redundancy & James (Rosie) Dies**: *Rosie was most last remaining close friend.*
+    **WeWork Redundancy & James (Rosie) Dies**: *Rosie was my last remaining close friend.*
 
     ![rosie](/assets/images/whoami/rosie.jpeg){ width="120px" align="right" }
 
@@ -255,14 +255,14 @@ hide:
 
     ---
 
-    **Network Architect: *[Lloret Control Systems](https://lloret.co.uk).*
+    **Network Architect**: *[Lloret Control Systems](https://lloret.co.uk).*
 
-    ![lloret](/assets/images/whoami/spaceman.jpeg){ width="120px" align="right" }
+    ![lloret](/assets/images/whoami/lloret-meraki.jpeg){ width="120px" align="right" }
 
     - Hired as a Network Architect. I take a punt on a small company.
-    - It is ultimately not the right fit. I quit once i've done a year.  
+    - I knew immediately It's not the right fit. I quit once I've done a year.  
     - I learn a lot about myself. I learn a lot about business silliness. 
-    - I'm happy. I'm mentally strong. I will do what i love.  
+    - I'm happy. I'm mentally strong. I will do what I love.  
 
     ---
 
@@ -272,8 +272,8 @@ hide:
 
     - I read lots of books. I climb lots. 
     - I prepare to the next era of my professional life.  
-    - Consider a pivot to Technical Management. 
-    - I'm ready to add extreme value to a company. Can't wait. I'm refreshed.
+    - I Consider a pivot to Technical Management...? 
+    - I'm ready to add extreme value to a company. I'm refreshed.
 
     ---
 
@@ -283,15 +283,17 @@ hide:
 
 <div class="grid cards" markdown>
 
-- :material-rocket: **Future Aspirations**: *I have lots to accomplish. I'm ready now*
+- :material-rocket: **Future Aspirations**: *I have lots to accomplish. I'm ready now.*
 
     ---
 
-    **My Initiatives**: *The things i want to get done.*
+    **My Initiatives**: *The things I want to get done.*
+
+    ![climbing](/assets/images/whoami/spaceman.jpeg){ width="120px" align="right" }
 
     - Climb V10 & run a 40min 10k at 40 years old. Tick Tock. 
     - Leadership in Network Automation. 
-    - Present to a huge audience. 
+    - Present to a huge audience... to rapturous applause. 
     - Move to the USA or India. No rush.  
 
     ---
