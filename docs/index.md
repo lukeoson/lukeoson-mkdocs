@@ -126,11 +126,11 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
     Some initial content you may consider:
 
-    [:material-git: Introduction to Version Control ...](IaC/Git/index.md.md)
+    [:material-git: Introduction to Version Control ...](Net-Auto/intro-to-version-control.md)
 
-    [:simple-materialformkdocs: These Pages are built with Mkdocs ...](IaC/Mkdocs/index.md)
+    [:simple-materialformkdocs: These Pages are built with Mkdocs ...](Net-Auto/intro-to-docs.md)
 
-    [:material-database-check-outline: The Network Sources of Truth ...](IaC/SoT/index.md)
+    [:material-database-check-outline: The Network Sources of Truth ...](Net-Auto/intro-to-sot.md)
 
     ---
 

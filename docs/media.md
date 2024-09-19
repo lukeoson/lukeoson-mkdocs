@@ -114,6 +114,48 @@ I'm more curious than clever. But remain committed to continuously iterating my 
 
 </div>
 
+## Learning Platforms
+
+<div class="grid cards" markdown>
+
+-  :material-lightbulb: **Technology Certifications**: *bits & bytes*
+
+    --- 
+
+    **Professional Development**
+
+    Where I spend my time learning the tools to make a living doing what I love.
+
+    - [AWS Skills Builder Subscription](https://explore.skillbuilder.aws/learn) ... as component of [AWS Console](https://aws.amazon.com/) @ $30 per month. 
+    - [Hashicorp Certifications](https://developer.hashicorp.com/certifications) ... for [Terraform](https://www.hashicorp.com/products/terraform) & [Vault](https://www.hashicorp.com/products/vault)
+    - [Cisco U](https://u.cisco.com) ... some limited free content. 
+        - (Outrageously expensive without Corporate sponsorship & Cisco Credits) :nauseated_face:{ .bounce }
+
+    ---
+
+</div>
+
+## YouTube Channels
+
+<div class="grid cards" markdown>
+
+- :material-youtube: **Late night mindless watching**: *Downtime mostly*
+
+    --- 
+
+    **An eclectic mix of technology & general interest content**
+
+    YouTube has taught me so much. It makes it very hard to dislike Google, for all its flaws. 
+
+    - [Network Automation Forum](https://www.youtube.com/@NetworkAutomationForum) :material-heart:{ .bounce }
+    - [The Joe Rogan Experience](https://www.youtube.com/@joerogan) ... with [Joe Rogan](https://x.com/joerogan?lang=en)
+    - [Lex Fridman](https://www.youtube.com/@LexFridman) ... with [Lex Fridman](https://x.com/lexfridman)
+
+    ---
+
+
+</div>
+
 ## Newsletters & Blogs
 
 <div class="grid cards" markdown>
@@ -134,41 +176,5 @@ I'm more curious than clever. But remain committed to continuously iterating my 
 
 </div>
 
-## YouTube Channels
-
-<div class="grid cards" markdown>
-
-- :material-youtube: **Late night mindless watching**: *Downtime mostly*
-
-    --- 
-
-    **title**
-
-    insert prose providing gist.
-
-    - [name](link) ... with [from](link)
-    - [name](link) ... with [from](link)
-
-    ---
 
 
-</div>
-
-## Learning Platforms
-
-<div class="grid cards" markdown>
-
--  :material-lightbulb: **Technology Certifications**: *bits & bytes*
-
-    --- 
-
-    **title**
-
-    insert prose providing gist.
-
-    - [name](link) ... with [from](link)
-    - [name](link) ... with [from](link)
-
-    ---
-
-</div>
