@@ -8,14 +8,14 @@ hide:
 #level:
 ---
 
-!!! warning "This is an outline draft - pending completion."
-    This is a heavily redacted version of my life story, focusing on key milestones and experiences.
+!!! warning "Just the Gist."
+    This is a heavily redacted version of my life story, focusing on some pertinent milestones and experiences. Rest assured, i'm not (quite) as boring as it appears. I hope it affords you a useful quick reference to my life and the shaping of my character.
 
 ## Childhood
 
 <div class="grid cards" markdown>
 
-- :material-baby-face-outline: **Normal Childhood**: *Nothing Fancy.*
+- :material-baby-face-outline: **Normal Childhood**: *Unremarkable... Nothing Fancy.*
 
     --- 
     
@@ -24,31 +24,31 @@ hide:
     ![birth](/assets/images/whoami/birth.jpeg){ width="120px" align="right" }
 
     - x2 Brothers 6 & 8 years older. Both much smarter than me.
-    - Teacher for a Dad. Stand up chap. 
+    - Teacher for a Dad. Stand up chap. Respect! 
     - Stay at home Mum. Who ultimately became a Nurse. :material-heart:{ .bounce }
-    - Kind and loving family. Basic and normal. 
+    - Kind and loving family. Parents divorced when I was 11. That hurt. 
 
     ---
 
-    **Attended Barton Seagrave Primary School**: *In my local village. Pleasant memories.*
+    **Barton Seagrave Primary School**: *In my local village. Pleasant memories.*
 
-    ![school](/assets/images/whoami/school.jpeg){ width="120px" align="right" }
+    ![barton](/assets/images/whoami/barton.jpeg){ width="120px" align="right" }
 
-    - Sam Palmer was my best friend.
+    - Sam Palmer was my best friend. Moon-Boots & Farmers Fields.
     - I was good at Football back then. Team Captain in year 6.
     - Joe Devlin was the Council Estate cool kid. His Dad went to prison.
-    - Roller Hockey with Shane. He went mental in teenage years.  
+    - Roller Hockey with rough kid Shane. He went mental in our teens.   
 
     ---
 
-    **Attended Bishop Stopford Secondary School**: *Christian "Bible Bashers". Great memories.*
+    **Bishop Stopford Secondary School**: *Christian "Bible Bashers". Great memories.*
 
-    ![bishop](/assets/images/whoami/bishop-school.jpeg){ width="115px" align="right" }
+    ![bishop](/assets/images/whoami/bishop.jpeg){ width="120px" align="right" }
 
     - Thought i was cool. Boyce, Johnny, Rosie, Jake, Wazza, Zetta. 
     - Feel in love with Sophie. Still am... :broken_heart:{ .bounce }
     - A Levels in Politics, Economics, Business & ICT. 
-    - Cannabis & Ecstasy. Hard House illegal raves.  
+    - Dope & Pills. Hard House / Drum & Bass raves - Keep it Schtum!  
 
     ---
 
@@ -58,13 +58,13 @@ hide:
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-mountain-city: **Youthful Discovery**: *India.*
+- :fontawesome-solid-mountain-city: **Youthful Discovery**: *India - you are part of me, London for Uni, Climbing for life.*
 
     --- 
     
     **A Trip to the Indian Himalayas**: *The Allure of High Mountains.*
 
-    ![india](/assets/images/whoami/india.jpeg){ width="120px" align="right" }
+    ![india](/assets/images/whoami/kashmir.jpeg){ width="120px" align="right" }
 
     - A solo adventure in Northern India, age 18.
     - Delhi, Kashmir, Ladakh, Amritsar, and Ladakh again. 
@@ -75,23 +75,23 @@ hide:
 
     **Queen Mary University of London**: *Politics BA 2:1.*
 
-    ![university](/assets/images/whoami/university.png){ width="120px" align="right" }
+    ![queen-mary](/assets/images/whoami/glasto.jpeg){ width="120px" align="right" }
 
     - First year living in Mile End, Albert House Halls.
     - Second & third year living in Hackney. Gynn Road. Murder Mile.
-    - Stuart, Bobby & Matt. Toby Dodge. 
+    - Lived with Stuart, Bobby & Matt. Toby Dodge my inspirational tutor. 
     - Theories of the self, Middle East, Philosophy - Nietzsche. :material-heart:{ .bounce }  
 
     ---
 
     **Discovered Climbing**: *Life long passion for adventure climbing.*
 
-    ![climbing](/assets/images/whoami/climbing.jpeg){ width="115px" align="right" }
+    ![climbing](/assets/images/whoami/stanage.jpeg){ width="120px" align="right" }
 
     - North Wales Trad. The Hut. Cenotaph Corner. Dream of White Horses. 
     - Lake District. Ambleside. The Climbers Shop. 
     - Scottish Winter. New Years Eve. Ben Nevis. Perfect Days. 
-    - Jamie, Nicky, Pavin, Dan. Passion & Fellowship. 
+    - Jamie, Nicky, Pavin, Dan. Passion & Fellowship.
 
     ---
 
@@ -101,65 +101,72 @@ hide:
 
 <div class="grid cards" markdown>
 
-- ::material-cable-data:: **Structured Cabling to Project Management**: *Funding climbing trips.*
+- :material-cable-data: **Structured Cabling to Project Management**: *Funding climbing trips.*
 
     --- 
     
-    **Structured Cabling**: *[ITS Networks](https://itsnetworks.co.uk).*
+    **Structured Cabling**: School friend Tom Skipper's *[ITS Networks](https://itsnetworks.co.uk). TY!*
 
     ![india](/assets/images/whoami/cabling.jpeg){ width="120px" align="right" }
 
-    - Nottingham University Bio Chemistry.
-    - Advanced Manufacturing, Coventry. 
-    - Birmingham Library.
-    - St Georges Park, Football Association.
+    - Cabled Cat6a Nottingham University Bio Chemistry.
+    - Cabled Advanced Manufacturing, Coventry. 
+    - Cabled Birmingham Library.
+    - Cabled St Georges Park, Football Association.
 
     ---
 
-    **Site & Project Management**: *[Dimension Data](https://services.global.ntt/en-us/).*
+    **Site & Project Management**: *[Dimension Data](https://services.global.ntt/en-us/). Thanks for Paul Charles*
 
-    ![di-data](/assets/images/whoami/di-data.jpeg){ width="120px" align="right" }
+    ![di-data](/assets/images/whoami/westfield-face.jpeg){ width="120px" align="right" }
 
-    - Airbus & Airbus Military, Bristol.
-    - Military Data Centre, RAF Brize Norton.
-    - Rolls Royce CDS Data Systems, Birmingham. 
-    - W12 Westfield Shopping Centre, London.  
+    - Audits, Cabling, Rack & Stack: Airbus & Airbus Military, Bristol.
+    - Rack & Stack & Config: Military Data Centre, RAF Brize Norton.
+    - PM Network Build: Rolls Royce CDS Data Systems, Birmingham. 
+    - PM & Rack & Stack & Config: W12 Westfield Shopping Centre, London.  
+
+    ---
+
+</div>
+
+## Death & Majesty
+
+<div class="grid cards" markdown>
+
+- :material-apple-finder: **Lost & Found**: *Mental demise and maturity.*
 
     ---
 
     **Extreme Pain**: *Johnny commits suicide.*
 
-    ![johnny](/assets/images/whoami/johnny.jpeg){ width="115px" align="right" }
+    ![johnny](/assets/images/whoami/johnny.jpeg){ width="120px" align="right" }
 
-    - . 
-    - . 
-    - . 
-    - .
-    - . 
-
-    ---
-
-    **India Again*: *30 and Val.*
-
-    ![india](/assets/images/whoami/johnny.jpeg){ width="115px" align="right" }
-
-    - . 
-    - . 
-    - . 
-    - .
-    - . 
+    - My best friend jumps in front of a train. *It's complicated*.  
+    - An impossible situation. I should have stayed away. *It's complicated*.  
+    - I hurt people I love for which i am forever sorry. But... *It's complicated*.  
+    - I learn to valuable life lessons and loose my mind. 
 
     ---
 
-    **Nepal*: *everrest.*
+    **Solace in India Again**: *I turn 30, lost in Ladakh and found Val.*
 
-    ![india](/assets/images/whoami/johnny.jpeg){ width="115px" align="right" }
+    ![pangong lake](/assets/images/whoami/pangong.jpeg){ width="120px" align="right" }
 
-    - . 
-    - . 
-    - . 
-    - .
-    - . 
+    - A travel to India and meet Val & Alex along the way. 
+    - A wonderful day on Pangong Lake - Katsu & Val. 
+    - Business Class to Delhi - Vibes.
+    - Living it up in Bombay. Time of my life.  
+
+    ---
+
+    **Mountaineering / Trekking in Nepal*: *Everest Basecamp & Annapurna Trail.*
+
+    ![nepal](/assets/images/whoami/nepal-happy.jpeg){ width="115px" align="right" }
+
+    - Heady days in Katmandu. Stick thin. 
+    - Everest Basecamp. 2 days back from Basecamp. Extreme exhaustion.  
+    - Big feeding in Kathmandu & Pokhara. 
+    - Annapurna Trail. 
 
     ---
 
@@ -169,67 +176,61 @@ hide:
 
 <div class="grid cards" markdown>
 
-- ::material-cable-data:: **Professional Rise**: *Coming together.*
+- :material-network-pos: **Professional Rise**: *Life comes together, briefly.*
 
     --- 
     
     **Data Centre Program Management & Network Engineer**: *[Excel IT - Redstone - Onnec](https://www.onnecgroup.com).*
 
-    ![excel-it](/assets/images/whoami/excel-it.jpeg){ width="115px" align="right" }
+    ![excel-it](/assets/images/whoami/excel-era-profile.jpeg){ width="120px" align="right" }
 
     - Vodaphone Data Centre Cisco ACI Build & Base Config, Watford. 
-    - NTT Data Centre Build, Hemal Hempstead. 
-    - Insurance Data Centre Audits, Southbank - London. 
+    - NTT Data Centre Build, Hemal Hempstead.  
     - MK Shopping Centre Cisco Meraki, Milton Kyenes.
     - Bespoke High Net Worth Client Installations, Tony & Guy, Cotswolds. 
 
     ---
 
-    **Pret**: *Coffee Shop*
+    **Barrister Gig during Study**: *Hilarious months at a Coffee Shop. Wild World. Career take off*
 
-    ![pret](/assets/images/whoami/pret.jpeg){ width="115px" align="right" }
+    ![pret](/assets/images/whoami/pret-era-profile.jpeg){ width="120px" align="right" }
 
-    - . 
-    - . 
-    - . 
-    - .
-    - . 
+    - Perfect flat whites. Outrageous characters. Surprisingly Fun!  
+    - Acquired CCNA & initial DevOps knowledge. Focused study.
+    - Flown out to San Francisco to interview with [Verkada](https://www.verkada.com). Blew it!
+    - Applied for [WeWork](https://wework.com) during Hyper-growth. Smashed it! 
+
+    ---
+
+</div>
+
+## Professional Take Off
+
+<div class="grid cards" markdown>
+
+- :material-code-json: **Dreams come true & Exceptional Talent**: *Do what you love.*
 
     ---
 
     **Network Engineer - Mission Control**: *[WeWwork](https://wework.com).*
 
-    ![mission-control](/assets/images/whoami/mission-control.jpeg){ width="115px" align="right" }
+    ![mission-control](/assets/images/whoami/we-slack-profile.jpeg){ width="120px" align="right" }
 
-    - . 
-    - . 
-    - . 
-    - .
-    - .  
-
-    ---
-
-    **Network Engineer - Mission Control**: *[WeWwork](https://wework.com).*
-
-    ![mission-control](/assets/images/whoami/mission-control.jpeg){ width="115px" align="right" }
-
-    - . 
-    - . 
-    - . 
-    - .
-    - .  
+    - John Porter hires me into the WeWork Mission Control Team. 
+    - 48 billion dollar valuation. 1000's of sites. Hyper-growth. 
+    - Flown out to San Francisco to visit Sales Force Tower HQ. 
+    - Matt Brown wonderful. Thank you. Miss you.   
 
     ---
 
     **Network Architect - Global**: *[WeWwork](https://wework.com).*
 
-    ![wework](/assets/images/whoami/wework.jpeg){ width="115px" align="right" }
+    ![wework](/assets/images/whoami/we-covid.jpeg){ width="115px" align="right" }
 
-    - . 
-    - . 
-    - . 
-    - .
-    - . 
+    - Promoted to Network Architect. Chad, Neil, Brandon. Much Love.  
+    - Juniper Mist DevOps. Learning in Production. 
+    - Nautobot & Netbox & IPFabric. Network Automation.
+    - Trips to Cisco Live Vegas, Splunk Conf, Juniper AI & NYC HQ. :material-heart:{ .bounce } 
 
     ---
 
@@ -239,51 +240,60 @@ hide:
 
 <div class="grid cards" markdown>
 
-- ::material-cable-data:: **Life Travails**: *Redundancy & Rebirth - the hard way.*
+- :material-infinity: **Life Travails**: *Redundancy & Rebirth - consciously. Stronger now*
 
     --- 
     
-    **Pain**: *Rosie dies.*
+    **WeWork Redundancy & James (Rosie) Dies**: *Rosie was most last remaining close friend.*
 
-    ![rosie](/assets/images/whoami/rosiey.jpeg){ width="115px" align="right" }
+    ![rosie](/assets/images/whoami/rosie.jpeg){ width="120px" align="right" }
 
+    - Made redundant from WeWork. I survived 5 rounds so can't complain.
     - My last remaining close friend dies of heart failure. 
-    - . 
-    - . 
-    - .
-    - . 
+    - Mature enough to cope and celebrate the good times. All is well. 
+    - I read a lot of books. I climb a lot. I'm happy. I'm mentally strong. 
 
     ---
 
     **Network Architect: *[Lloret Control Systems](https://lloret.co.uk).*
 
-    ![lloret](/assets/images/whoami/lloret.jpeg){ width="115px" align="right" }
+    ![lloret](/assets/images/whoami/spaceman.jpeg){ width="120px" align="right" }
 
-    - . 
-    - . 
-    - . 
-    - .
-    - .  
+    - Hired as a Network Architect. I take a punt on a small company.
+    - It is ultimately not the right fit. I quit once i've done a year.  
+    - I learn a lot about myself. I learn a lot about business silliness. 
+    - I'm happy. I'm mentally strong. I will do what i love.  
 
     ---
 
     **Summer Break**: *Reflection & Climbing.*
 
-    ![climbing](/assets/images/whoami/climbing.jpeg){ width="115px" align="right" }
+    ![climbing](/assets/images/whoami/books.jpeg){ width="120px" align="right" }
 
-    - . 
-    - . 
-    - . 
-    - .
-    - . 
+    - I read lots of books. I climb lots. 
+    - I prepare to the next era of my professional life.  
+    - Consider a pivot to Technical Management. 
+    - I'm ready to add extreme value to a company. Can't wait. I'm refreshed.
 
     ---
 
 </div>
 
-## Future Aspirations 
+## Do What You Love
 
-Life goals. 
+<div class="grid cards" markdown>
 
+- :material-rocket: **Future Aspirations**: *I have lots to accomplish. I'm ready now*
 
+    ---
 
+    **My Initiatives**: *The things i want to get done.*
+
+    - Climb V10 & run a 40min 10k at 40 years old. Tick Tock. 
+    - Leadership in Network Automation. 
+    - Present to a huge audience. 
+    - Move to the USA or India. No rush.  
+
+    ---
+
+</div>
