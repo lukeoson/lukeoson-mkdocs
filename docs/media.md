@@ -1,7 +1,7 @@
 ---
 title: My Favorite Media
 #template: custom_home.html 
-icon: material/multimedia
+icon: material/play-speed
 hide:
   #- footer
   #- navigation
