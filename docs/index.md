@@ -18,7 +18,7 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
 ---
 
-:material-video-outline: Thank you for visiting. If you have a spare 2 minutes... Please allow me to introduce myself.
+:material-video-outline: Thank you for visiting. If you have a spare 5 minutes... Please allow me to introduce myself.
 
 <div style="position:relative; width:100%; height:0; padding-bottom:56.25%;">
   <iframe
