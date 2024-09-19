@@ -272,7 +272,7 @@ hide:
 
     - I read lots of books. I climb lots. 
     - I prepare to the next era of my professional life.  
-    - I Consider a pivot to Technical Management...? 
+    - I consider a pivot to Technical Management...? 
     - I'm ready to add extreme value to a company. I'm refreshed.
 
     ---
