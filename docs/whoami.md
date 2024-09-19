@@ -25,7 +25,7 @@ hide:
 
     - x2 Brothers 6 & 8 years older. Both much smarter than me.
     - Teacher for a Dad. Stand up chap. Respect! 
-    - Stay at home Mum. Who ultimately became a Nurse. :material-heart:{ .bounce }
+    - Stay at home Mum. Who ultimately became a Nurse. :heart:{ .bounce }
     - Kind and loving family. Parents divorced when I was 11. That hurt. 
 
     ---
@@ -45,7 +45,7 @@ hide:
 
     ![bishop](/assets/images/whoami/bishop.jpeg){ width="120px" align="right" }
 
-    - Thought i was cool. Boyce, Johnny, Rosie, Jake, Wazza, Zetta. 
+    - *Thought* I was cool. Boyce, Johnny, Rosie, Jake, Wazza, Zetta. 
     - Feel in love with Sophie. Still am... :broken_heart:{ .bounce }
     - A Levels in Politics, Economics, Business & ICT. 
     - Dope & Pills. Hard House / Drum & Bass raves - Keep it Schtum!  
