@@ -56,29 +56,234 @@ hide:
 
 ## Young Adult
 
+<div class="grid cards" markdown>
 
-2005 - 2006: Solo adventure in Northern India, age 18. 
+- :fontawesome-solid-mountain-city: **Youthful Discovery**: *India.*
 
-2005 - 2008: Queen Mary University of London. Politics BA 2:1 (Hons).
+    --- 
+    
+    **A Trip to the Indian Himalayas**: *The Allure of High Mountains.*
 
-2008 - 2015: Data Cabling to Project Management on Construction Sites.
+    ![india](/assets/images/whoami/india.jpeg){ width="120px" align="right" }
 
-2013: Best friend commits suicide. Its complicated. 
+    - A solo adventure in Northern India, age 18.
+    - Delhi, Kashmir, Ladakh, Amritsar, and Ladakh again. 
+    - Spiritual awakening and self-discovery.
+    - Big mountains, big feelings. Awe and wonder.
 
-2014: Solo adventure in India, age 30.
+    ---
 
-2015: Project Manager to Network Engineer at Dimension Data. Mentors emerge. 
+    **Queen Mary University of London**: *Politics BA 2:1.*
 
-2016: Solo trip to Nepal - Big Mountains and outrageous risk. 
+    ![university](/assets/images/whoami/university.png){ width="120px" align="right" }
 
-2016 - 2017: Project Manager of Data Centres Rack & Stack.
+    - First year living in Mile End, Albert House Halls.
+    - Second & third year living in Hackney. Gynn Road. Murder Mile.
+    - Stuart, Bobby & Matt. Toby Dodge. 
+    - Theories of the self, Middle East, Philosophy - Nietzsche. :material-heart:{ .bounce }  
 
-2018 - 2019: Land my dream job at WeWork as a Network Engineer. 
+    ---
 
-2019 - 2022: Network Architect in the WeWork Global Team. Everything starts to come together. 
+    **Discovered Climbing**: *Life long passion for adventure climbing.*
 
-2023 - 2024: Network Architect at Lloret Control Systems. Smart Building Greenfield. Unfulfilled. 
+    ![climbing](/assets/images/whoami/climbing.jpeg){ width="115px" align="right" }
 
-2024: I quit Lloret and take an extended Summer break. Reading lots. 
+    - North Wales Trad. The Hut. Cenotaph Corner. Dream of White Horses. 
+    - Lake District. Ambleside. The Climbers Shop. 
+    - Scottish Winter. New Years Eve. Ben Nevis. Perfect Days. 
+    - Jamie, Nicky, Pavin, Dan. Passion & Fellowship. 
 
-Now: As i write this im preparing my MkDocs in readiness for my first Job Applications. 
+    ---
+
+</div>
+
+## Early Career 
+
+<div class="grid cards" markdown>
+
+- ::material-cable-data:: **Structured Cabling to Project Management**: *Funding climbing trips.*
+
+    --- 
+    
+    **Structured Cabling**: *[ITS Networks](https://itsnetworks.co.uk).*
+
+    ![india](/assets/images/whoami/cabling.jpeg){ width="120px" align="right" }
+
+    - Nottingham University Bio Chemistry.
+    - Advanced Manufacturing, Coventry. 
+    - Birmingham Library.
+    - St Georges Park, Football Association.
+
+    ---
+
+    **Site & Project Management**: *[Dimension Data](https://services.global.ntt/en-us/).*
+
+    ![di-data](/assets/images/whoami/di-data.jpeg){ width="120px" align="right" }
+
+    - Airbus & Airbus Military, Bristol.
+    - Military Data Centre, RAF Brize Norton.
+    - Rolls Royce CDS Data Systems, Birmingham. 
+    - W12 Westfield Shopping Centre, London.  
+
+    ---
+
+    **Extreme Pain**: *Johnny commits suicide.*
+
+    ![johnny](/assets/images/whoami/johnny.jpeg){ width="115px" align="right" }
+
+    - . 
+    - . 
+    - . 
+    - .
+    - . 
+
+    ---
+
+    **India Again*: *30 and Val.*
+
+    ![india](/assets/images/whoami/johnny.jpeg){ width="115px" align="right" }
+
+    - . 
+    - . 
+    - . 
+    - .
+    - . 
+
+    ---
+
+    **Nepal*: *everrest.*
+
+    ![india](/assets/images/whoami/johnny.jpeg){ width="115px" align="right" }
+
+    - . 
+    - . 
+    - . 
+    - .
+    - . 
+
+    ---
+
+</div>
+
+## Adult Maturity
+
+<div class="grid cards" markdown>
+
+- ::material-cable-data:: **Professional Rise**: *Coming together.*
+
+    --- 
+    
+    **Data Centre Program Management & Network Engineer**: *[Excel IT - Redstone - Onnec](https://www.onnecgroup.com).*
+
+    ![excel-it](/assets/images/whoami/excel-it.jpeg){ width="115px" align="right" }
+
+    - Vodaphone Data Centre Cisco ACI Build & Base Config, Watford. 
+    - NTT Data Centre Build, Hemal Hempstead. 
+    - Insurance Data Centre Audits, Southbank - London. 
+    - MK Shopping Centre Cisco Meraki, Milton Kyenes.
+    - Bespoke High Net Worth Client Installations, Tony & Guy, Cotswolds. 
+
+    ---
+
+    **Pret**: *Coffee Shop*
+
+    ![pret](/assets/images/whoami/pret.jpeg){ width="115px" align="right" }
+
+    - . 
+    - . 
+    - . 
+    - .
+    - . 
+
+    ---
+
+    **Network Engineer - Mission Control**: *[WeWwork](https://wework.com).*
+
+    ![mission-control](/assets/images/whoami/mission-control.jpeg){ width="115px" align="right" }
+
+    - . 
+    - . 
+    - . 
+    - .
+    - .  
+
+    ---
+
+    **Network Engineer - Mission Control**: *[WeWwork](https://wework.com).*
+
+    ![mission-control](/assets/images/whoami/mission-control.jpeg){ width="115px" align="right" }
+
+    - . 
+    - . 
+    - . 
+    - .
+    - .  
+
+    ---
+
+    **Network Architect - Global**: *[WeWwork](https://wework.com).*
+
+    ![wework](/assets/images/whoami/wework.jpeg){ width="115px" align="right" }
+
+    - . 
+    - . 
+    - . 
+    - .
+    - . 
+
+    ---
+
+</div>
+
+## Professional Pain
+
+<div class="grid cards" markdown>
+
+- ::material-cable-data:: **Life Travails**: *Redundancy & Rebirth - the hard way.*
+
+    --- 
+    
+    **Pain**: *Rosie dies.*
+
+    ![rosie](/assets/images/whoami/rosiey.jpeg){ width="115px" align="right" }
+
+    - My last remaining close friend dies of heart failure. 
+    - . 
+    - . 
+    - .
+    - . 
+
+    ---
+
+    **Network Architect: *[Lloret Control Systems](https://lloret.co.uk).*
+
+    ![lloret](/assets/images/whoami/lloret.jpeg){ width="115px" align="right" }
+
+    - . 
+    - . 
+    - . 
+    - .
+    - .  
+
+    ---
+
+    **Summer Break**: *Reflection & Climbing.*
+
+    ![climbing](/assets/images/whoami/climbing.jpeg){ width="115px" align="right" }
+
+    - . 
+    - . 
+    - . 
+    - .
+    - . 
+
+    ---
+
+</div>
+
+## Future Aspirations 
+
+Life goals. 
+
+
+
