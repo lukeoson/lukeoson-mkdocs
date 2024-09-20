@@ -34,7 +34,7 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
 ---
 
-:material-checkbox-marked-outline: Here you will find my [Resume](Hire-Me/index.md), my new [Blog](blog/index.md), and some [Network](IaC/index.md) related content. 
+:material-checkbox-marked-outline: Here you will find my [Resume](Hire-Me/index.md), my new [Blog](blog/index.md), and some [Network](Net-Auto/index.md) related content. 
 
 !!! info ":material-music-note:{ .heart } I'm open to new and compelling opportunities in the Network Community. :material-music-note:{ .heart }"
     If you have a role I might be interested in, please [get in touch](mailto:hello@lukeoson.com). You have my thanks and appreciation.
@@ -117,7 +117,7 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
 <div class="grid cards" markdown>
 
--   :material-code-block-tags:{ .lg .middle } [__Network Automation Rudiments__](Placeholder-Content/index.md)
+-   :material-code-block-tags:{ .lg .middle } [__Network Automation Rudiments__](Net-Auto/index.md)
 
     ---
     *:material-list-box-outline: The path to Network as Code.*
@@ -134,7 +134,7 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
     ---
 
--   :material-lan:{ .lg .middle } [__Technical Management Adventures__](IaC/index.md)
+-   :material-lan:{ .lg .middle } [__Technical Management Adventures__](Net-Lead/index.md)
 
     ---
 
