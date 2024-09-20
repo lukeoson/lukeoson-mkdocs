@@ -26,7 +26,7 @@ status: new
 
     {{ profile_professional }}  
     {{ job_title }}  
-    {{ email }}  
+    {{ email}}  
     {{ linkedin }}  
     {{ mobile }}  
     {{ github }}  
@@ -82,13 +82,13 @@ status: new
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-user-graduate:{ .lg .middle } [__Luke's Education__](https://www.credly.com/users/luke-richardson.dca3c027) includes a BA in Politics prior to his various Tech Industry roles.  
+- :fontawesome-solid-user-graduate:{ .lg .middle } [__Luke's Education__](whoami.md#Young_Adult) includes a BA in Politics prior to his various Tech Industry roles.  
 
     ---
 
     | Where | When | What | Why |
     | :--- | :--- | :--- | :--- |
-    | [YouTube](https://www.youtube.com/channel/UCRIOI_3REG9zIDM0Fp9Xiyg) | 2008 - 2023 | > 10,000 hours | Life long learner
+    | [YouTube](https://www.youtube.com/@lukeoson) | 2008 - 2023 | > 10,000 hours | Life long learner
     | [University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | Politics BA - 2:1 | I should have known better 
     | [Bishop Stopford](https://www.bishopstopford.com/) | 1997 - 2005 | x4 A-levels Grade A | The year they let you retake exams!
 
@@ -164,7 +164,7 @@ status: new
 
 <div class="grid cards" markdown>
 
-- :material-star-shooting:{ .lg .middle } [__Luke's Career__](https://www.credly.com/users/lukeoson) story is of ascending rigour & complexity (1) [Smartly Summarised](https://en.wikipedia.org/wiki/SMART_criteria)
+- :material-star-shooting:{ .lg .middle } [__Luke's Career__](https://www.linkedin.com/in/luke-richardson/) story is of ascending rigour & complexity (1) [Smartly Summarised](https://en.wikipedia.org/wiki/SMART_criteria)
 { .annotate}
 
     1. ![Smart Goals Poster](smart-goals-poster.png)
@@ -174,11 +174,11 @@ status: new
 
     - [x] Cisco & Aruba Greenfield Enterprise Systems Architecture. Smart Buildings & IoT. 
 
-        :material-arrow-right:_I made the decision for move on from Lloret. I'm looking for something more inspiring that embraces the paradigm shift toward Automated Infrastructure as Code._  
+        :material-arrow-right: _**I made the decision** to move on from Lloret. I'm looking for something more inspiring that embraces the paradigm shift toward Automated Infrastructure as Code._  
     
         >:material-alpha-s-box: Network Design mapping Client Specifications to constraints.   
         >:material-alpha-m-box: Requirements delivered in strict adherence to defined budget.    
-        >:material-alpha-a-box: Managed multitudinous stakeholders expectations.   
+        >:material-alpha-a-box: Managed multitudinous stakeholders expectations. Technical Management.    
         >:material-alpha-r-box: Built a frame of reference for future project pipelines.      
         >:material-alpha-t-box: Delivered in strict adherence to defined timeline.  
 
@@ -231,7 +231,7 @@ status: new
 
 <div class="grid cards" markdown>
 
-- :material-dna:{ .lg .middle } [__Luke's Hobbies__](https://www.credly.com/users/luke-richardson.dca3c027) occupied much of his twenties as he pursued adventure sports. 
+- :material-dna:{ .lg .middle } [__Luke's Hobbies__](/blog) occupied much of his twenties as he pursued adventure sports. 
 
     :material-arrow-right:_Alas, time flies, he is now 38 years old and primarily focused on his career._
 
@@ -264,7 +264,10 @@ status: new
 
 <div class="grid cards" markdown>
 
-- :material-scale-balance:{ .lg .middle } [__Luke's 2022 WeWork Performance Review__]() 
+- :material-scale-balance:{ .lg .middle } (1) [__Luke's 2022 WeWork Performance Review__](/assets/images/screenshots/wework-performance-brandon.png)
+{ .annotate} 
+
+    1. ![wework-performance-brandon.png](/assets/images/screenshots/wework-performance-brandon.png)
 
     :material-arrow-right:_If you would like a reference, [Brandon Ross](https://www.linkedin.com/in/brandon-ross-a00154/) would be a useful starting point.:material-heart:{ .heart }_
 
@@ -301,4 +304,6 @@ status: new
 
 ---
 
-> Thanks for taking the time to read my resume. [Please get in touch](mailto:hello@lukeoson.com). 🎉
+> :material-heart: Thanks for taking the time to read my resume. [Please get in touch](mailto:hello@lukeoson.com). 🎉 
+
+> {{ fantastical }}
