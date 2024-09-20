@@ -159,6 +159,6 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 ??? note "While i have you, please do remember ...:material-cursor-default-click:{ .bounce }"
     - [x] Always do what you love. :heart:{ .heart }
     - [x] Always write appropriately descriptive Git Commit messages. The future will thank you. 
-    - [x] Default to kindness. It is the most powerful force in the universe. 
+    - [x] Default to kindness. It is the most powerful force in the universe. 👣 Be Good & be Gone.
     
 ---
