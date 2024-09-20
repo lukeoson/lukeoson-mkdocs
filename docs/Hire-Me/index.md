@@ -8,6 +8,17 @@ status: new
 #template: custom.html
 ---
 
+## Download
+
+<div class="grid cards" markdown>
+
+- :material-microsoft-word: [__Word Download__](../assets/brand-profile/resume/Luke Richardson Resume Sept 2024.docx)
+- :fontawesome-regular-file-pdf: [__PDF Download__](../assets/brand-profile/resume/Luke Richardson Resume Sept 2024.pdf)
+
+</div>
+
+---
+
 <div class="grid cards" markdown>
 
 -   :material-contacts-outline:{ .lg .middle } [__Luke Richardson__](https://www.linkedin.com/in/luke-richardson/) is currently employed as a Network Architect in London.  
