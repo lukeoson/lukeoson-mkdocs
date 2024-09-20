@@ -23,10 +23,8 @@ readtime: 5
 ??? tip "Listen to Luke read this Post"
     Click the play button below to listen to the audio version of this post.
 
-    *Whoops - Terrible Audio Quality! Update in Progress. Sorry.*
-
     <audio controls>
-      <source src="/assets/audio/Book Review - Life as No One Knows It.m4a" type="audio/mp4">
+      <source src="/assets/audio/Book-Review-Life-As-No-One-Knows-It.m4a" type="audio/mp4">
       Your browser sucks and does not support the audio element.
     </audio>
 
