@@ -8,7 +8,7 @@ hide:
 #level:
 ---
 
-# :material-party-popper: Luke Richardson is Available for Hire:exclamation:{ .bounce}
+# :material-party-popper: Luke Richardson ... is Available for Hire:exclamation:{ .bounce}
 
 I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Architect](https://en.wikipedia.org/wiki/Network_architecture#:~:text=Network%20architecture%20is%20the%20design,well%20as%20communication%20protocols%20used.) pursuing Technical Management opportunities in London. 
 
@@ -138,17 +138,17 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
     ---
 
-    *:material-list-box-outline: Learning to lead - the hard way.*
+    *:material-list-box-outline: Learning to Lead - The hard way.*
 
     ---
 
     Some initial content you may consider:
 
-    [:material-radius-outline: Introduction to being Different ...](Network-Rudiments/Subnetting/index.md)
+    [:material-radius-outline: Introduction to being Different ...](Net-Lead/being-different.md)
 
-    [:material-dna: Introduction to being Authentic ...](Network-Rudiments/DNS/index.md)
+    [:material-dna: Introduction to being Authentic ...](Net-Lead/being-authentic.md)
 
-    [:material-flash-triangle-outline: Introduction to being Wrong ...](Network-Rudiments/NAC/index.md)
+    [:material-flash-triangle-outline: Introduction to being Wrong ...](Net-Lead/being-wrong.md)
  
     --- 
 
@@ -156,7 +156,7 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
 ---
 
-??? note "While i have you, please do remember ..."
+??? note "While i have you, please do remember ...:material-cursor-default-click:{ .bounce }"
     - [x] Always do what you love. :heart:{ .heart }
     - [x] Always write appropriately descriptive Git Commit messages. The future will thank you. 
     - [x] Default to kindness. It is the most powerful force in the universe. 
