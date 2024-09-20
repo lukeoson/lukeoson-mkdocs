@@ -294,7 +294,16 @@ hide:
     - Climb V10 & run a 40min 10k at 40 years old. Tick Tock. 
     - Leadership in Network Automation. 
     - Present to a huge audience... to rapturous applause. 
-    - Move to the USA or India. No rush.  
+    - Move to the USA or India. No rush. 
+
+    !!! note "Always Do What You Love..."
+        🧑🏼‍💻 Network Automation for Work.
+        
+        🧬 Evolutionary Psychology for Life.
+
+        🧗‍♂️ Climbing & Mountains for Ever.
+
+        👣 Be Good & be Gone. 
 
     ---
 
