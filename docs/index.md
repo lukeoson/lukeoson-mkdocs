@@ -43,7 +43,9 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
     - Option 2: Network Architecture & Automated IaC
     - Option 3: Network Automation Evangelist
     - Option 4: Leadership & Team Management 
-    - Option 5: Live & Breathe the Startup Dream    
+    - Option 5: Live & Breathe the Startup Dream 
+
+    > {{ fantastical }} Meeting Link.   
 
 ---
 
