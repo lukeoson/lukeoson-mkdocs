@@ -14,6 +14,7 @@ tags:
   - Conference
 
 readtime: 15
+comments: true
 ---
 
 The [AutoCon](https://networkautomation.forum/autocon1) conferences have been remarkable gatherings of our network automation tribe. The [Network Automation Forum (NAF)](https://networkautomation.forum) has fostered an engaged, curious community that's pushing toward what's possible in automated network infrastructure. We’re all very thankful for the passion of [Chris](https://www.linkedin.com/in/cgrundemann/) & [Scott](https://www.linkedin.com/in/scottrobohn/) in their efforts to bring ‘*our people*’ together… and we hope they get very rich along the way! They deserve all the accolades, and more besides. *Take a Bow.* :boom:{ .bounce }  

@@ -84,7 +84,7 @@ nav:
 # Using the Material theme
 theme:
   favicon: assets/favicon/lukeoson-spaceman.png
-  custom_dir: docs/overrides
+  custom_dir: overrides
   name: !ENV [THEME_NAME, material]
   icon:
     annotation: material/chevron-right-circle
