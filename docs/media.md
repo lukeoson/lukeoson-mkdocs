@@ -98,7 +98,7 @@ I'm more curious than clever. But remain committed to continuously iterating my 
 
     **Health & Fitness**
 
-    So i can live to see 3000 and climb V10 before i die.
+    So i can live to see 2100 and climb V10 before I die.
 
     - [Huberman Lab](https://www.hubermanlab.com/) ... *Science-based tools for everyday life* with [Andrew Huberman](https://x.com/hubermanlab)
     - [Zoe Health](https://zoe.com/learn/category/podcasts) ... *Nutrition and health insights* with [Tim Spector](https://x.com/timspector)
@@ -153,6 +153,34 @@ I'm more curious than clever. But remain committed to continuously iterating my 
 
     ---
 
+
+</div>
+
+## Slack & Discord Communities
+
+<div class="grid cards" markdown>
+
+- :simple-slack: **Slack**: & :simple-discord: **Discord**: Awesome community content - hang with your people!
+
+    --- 
+
+    **Slack**
+
+    Hang out & get your queries answered with your tribe. Good vibes only. 
+
+    - [Network Automation Forum Slack Invite](https://networkautomationfrm.slack.com) ... Network Automation Pros & Jokers. Fun.
+    - [NetDev from Network Labs Slack Invite](https://netdev-community.slack.com) ... Everything Networks.
+    - [Network to Code Slack Invite](https://slack.networktocode.com) ... Everything Networks.
+    - [Packet Coders Slack Invite](packetcoders.slack.com) ... Network Automation Subscription Learning.
+    - [SuzieQ Slack Invite](netenglabs.slack.com) ... NetEngLabs for SuzieQ Observability.
+
+    **Discord**
+
+    - [Container Lab](https://discord.com/invite/vAyddtaEV9) ... for the ultimate container based Network Labs community.
+    - [Kubenet](https://discord.com/invite/fH35bmcTU9) ... for the Kubernetes Network Orchestration Platform from Wim & Nokia.
+    - [Opsmill](https://discord.com/invite/opsmill) ... for InfraHub - The Next Generation of Source of Truth..
+
+    ---
 
 </div>
 

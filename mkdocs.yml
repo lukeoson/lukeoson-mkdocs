@@ -3,7 +3,7 @@ site_name: !ENV [SITE_NAME, 'Luke Richardson']
 site_url: !ENV [SITE_URL, "https://lukeoson.com/"]
 repo_url: !ENV [REPO_URL, "https://github.com/lukeoson/lukeoson-mkdocs"]
 repo_name: !ENV [REPO_NAME, "lukeoson.com"]
-copyright: !ENV [COPYRIGHT, "Copyright 2023 Lukeoson"]
+copyright: !ENV [COPYRIGHT, "Copyright 2024  (c) but do what you love"]
 
 # Navigation 
 nav:
@@ -25,57 +25,6 @@ nav:
   - Blog:
     - Blog: blog/index.md
 
-
-
-
-# Infrastructure as Code
-#  - Infrastructure as Code: 
-#    - IaC/index.md
-#    - GIT:
-#      - IaC/Git/index.md
-#    - MKDOCS:
-#      - IaC/Mkdocs/index.md
-  
-# Foundational Concepts  
-# - Network Rudiments: 
-#   - Network-Rudiments/index.md
-#   - Subnetting:
-#     - Network-Rudiments/Subnetting/index.md
-#     - Hello: Network-Rudiments/Subnetting/whoami.md
-#     - Subnet Things: Network-Rudiments/Subnetting/subnetting.md
-#     - OSI Model: Network-Rudiments/Subnetting/osi.md
-#     - Packet Life: Network-Rudiments/Subnetting/packet-life.md
-#     - Numerics: Network-Rudiments/Subnetting/numerics.md
-#     - IPv4: Network-Rudiments/Subnetting/IPv4.md
-#     - Classy: Network-Rudiments/Subnetting/classy.md
-#     - CIDR: Network-Rudiments/Subnetting/cidr.md
-#     - Subnet 101: Network-Rudiments/Subnetting/subnetting-101.md
-#     - Example: Network-Rudiments/Subnetting/example.md
-#     - Lloret Nets: Network-Rudiments/Subnetting/lloret-nets.md
-#     - Wild: Network-Rudiments/Subnetting/wild.md
-#     - Super Lloret: Network-Rudiments/Subnetting/super-lloret.md
-#     - Power: Network-Rudiments/Subnetting/power2.md
-#     - Hex: Network-Rudiments/Subnetting/hex.md
-#     - IPv6: Network-Rudiments/Subnetting/IPv6.md
-#     - Reference Docs: Network-Rudiments/Subnetting/documents.md
-#     - Trace: Network-Rudiments/Subnetting/trace.md
-#     - Bad: Network-Rudiments/Subnetting/broadcast.md
-#   - DNS:
-#     - Network-Rudiments/DNS/index.md
-#     - Placeholder: Network-Rudiments/DNS/placeholder.md
-#   - NAC:
-#     - Network-Rudiments/NAC/index.md
-#     - Placeholder: Network-Rudiments/NAC/placeholder.md
-  
-# Vendor Specific 
-#  - Vendor Solutions:
-#    - Vendors/index.md
-#    - Allied Telesis: 
-#      - Vendors/Allied-Telesis/index.md
-#      - Documents: Vendors/Allied-Telesis/documents.md
-#      - Drawings: Vendors/Allied-Telesis/drawings.md
-#      - Training: Vendors/Allied-Telesis/training.md
-  
 # Contact
   - Contact: 
     - Contact: Contact/index.md
@@ -158,7 +107,7 @@ extra:
       link: https://www.linkedin.com/company/luke-richardson
       name: Lukeoson LinkedIn
     - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/channel/UCXlJsPms5KOc9VLmTjtbYWA
+      link: https://www.youtube.com/@lukeoson
   generator: false 
   homepage: !ENV [HOMEPAGE, https://lukeoson.com]
   # Jinja2
@@ -197,6 +146,7 @@ markdown_extensions:
 
 # Plugins
 plugins:
+  #- social
   - git-committers:
       repository: lukeoson/lukeoson-mkdocs
       branch: main
