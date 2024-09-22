@@ -166,10 +166,11 @@ I'm more curious than clever. But remain committed to continuously iterating my 
 
     **Technology**
 
-    Thought leaders in Network Automation / people I admire.
+    Thought leaders in Network Automation / People & Companies I admire.
 
     - [The Gratuitous Arp](https://gratuitous-arp.net) ... with [Claudia de Luna](https://www.linkedin.com/in/claudiadeluna/)
     - [AutoCon Coverage](https://handyinfo.networkautomation.forum/autocon_coverage/autocon1/) ... for Blogs of AutoCon events.
+    - [Netbox Labs](https://netboxlabs.com/blog/) ... [Mark Coleman's](https://www.linkedin.com/in/markrobertcoleman/) are typically good.
 
     ---
 
