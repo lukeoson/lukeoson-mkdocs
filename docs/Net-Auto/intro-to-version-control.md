@@ -147,17 +147,20 @@ Modify the Deployment Step:
 
 **Review the PR**
 
--	Automated Checks:
+***Automated Checks:***
+
   -	GitHub Actions will run the workflow when the PR is opened or updated.
   -	You can check the Checks tab in the PR to see the status of the workflow.
   -	Ensure that all checks pass before merging.
--	Code Review:
+
+***Code Review:***
+
   -	Review the changes yourself or request a review from a collaborator.
   -	Look for correctness, style, and any potential issues.
 
 **Merge the PR**
 
-**Ensure the PR is Up-to-Date**
+***Ensure the PR is Up-to-Date***
 
 - If there have been changes to main since you branched off, you might need to merge main into your feature branch or rebase.  
 
