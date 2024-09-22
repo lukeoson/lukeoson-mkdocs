@@ -135,10 +135,13 @@ As Ethan said in the [Packet Pushers interview](https://www.youtube.com/watch?v=
 
 !!! note "Awe & Wonder Blooms"
     I’m currently in the awe and wonder naive and blissfully ignorant stage. I’m quite sure multitudinous skeptics and negative commentary will emerge that will prune my absurd expectations. I expect [AutoCon2 in Denver](https://networkautomation.forum/autocon2) this November to open my eyes to this project more. But right now I’m just grateful for Wim and everything Nokia are doing to bridge the gap to our dreams.
-    
-    ![kubenet links](/assets/images/screenshots/kubenet-qr.png)
-    
+
     Thank you. :material-heart:{ .bounce } 
+    
+    ??? info "Kubenet QR Code Links"
+        ![kubenet links](/assets/images/screenshots/kubenet-qr.png)
+    
+    
 
 And now for my exquisitely profound *[(i’m British)](https://en.wikipedia.org/wiki/British_humour)* insight to bring this all together as we approach the *“moment of the conference”* and the <u>battle of accrued wisdom and naive hope</u>. AutoCon folklore starts here. 
 
