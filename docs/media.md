@@ -178,7 +178,7 @@ I'm more curious than clever. But remain committed to continuously iterating my 
 
     - [Container Lab](https://discord.com/invite/vAyddtaEV9) ... for the ultimate container based Network Labs community.
     - [Kubenet](https://discord.com/invite/fH35bmcTU9) ... for the Kubernetes Network Orchestration Platform from Wim & Nokia.
-    - [Opsmill](https://discord.com/invite/opsmill) ... for InfraHub - The Next Generation of Source of Truth..
+    - [OpsMill](https://discord.com/invite/opsmill) ... for InfraHub - The Next Generation of Source of Truth..
 
     ---
 
@@ -188,7 +188,7 @@ I'm more curious than clever. But remain committed to continuously iterating my 
 
 <div class="grid cards" markdown>
 
-- :material-rss: **pending**: *pending*
+- :material-rss: **An eclectic mix of work, play & curiosity**: *Lunchtime & transit stuff*
 
     --- 
 
@@ -196,8 +196,7 @@ I'm more curious than clever. But remain committed to continuously iterating my 
 
     insert prose providing gist.
 
-    - [name](link) ... with [from](link)
-    - [name](link) ... with [from](link)
+    - [The Gratuitous Arp](https://gratuitous-arp.net) ... with [Claudia de Luna](https://www.linkedin.com/in/claudiadeluna/)
 
     ---
 
