@@ -19,14 +19,18 @@ This page is under construction. Please check back later for updates.
 
 A workflow that uses feature branches and pull requests (PRs) is a sane way to manage a codebase, collaborate with others, and maintain a clean main branch. 
 
-1. Understanding the Workflow
+### Understanding the Workflow
 
 In this workflow:
 
-	•	Development happens in feature branches created from main.
-	•	Pull requests are opened to merge changes from branches into main.
+  •	Development happens in feature branches created from main.
+
+  •	Pull requests are opened to merge changes from branches into main.
+
 	•	Code review and testing occur before merging PRs.
+
 	•	GitHub Actions can be configured to run on PRs for continuous integration (CI).
+
 	•	Deployments happen when changes are merged into main.
 
 2. Setting Up Feature Branches
@@ -113,18 +117,20 @@ You don’t want to deploy the site when the PR is created or updated, only afte
 
 Modify the Deployment Step:
 
-```yaml
-- name: Build and Deploy MkDocs Site
-  if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-  env:
-    GH_TOKEN: ${{ secrets.GH_TOKEN }}
-  run: |
-    mkdocs gh-deploy --force --clean
-```
-	•	if: github.event_name == 'push' && github.ref == 'refs/heads/main' ensures that the deployment step only runs when there’s a push to the main branch.
-	•	This prevents deployments from occurring during PRs.
+  ```yaml
+  - name: Build and Deploy MkDocs Site
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+    run: |
+      mkdocs gh-deploy --force --clean
+  ```
 
-6. Reviewing and Merging Pull Requests
+•	if: github.event_name == 'push' && github.ref == 'refs/heads/main' ensures that the deployment step only runs when there’s a push to the main branch.
+
+•	This prevents deployments from occurring during PRs.
+
+### Reviewing and Merging Pull Requests
 
 Review the PR
 
