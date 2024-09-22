@@ -149,13 +149,12 @@ plugins:
   - meta:
       meta_file: .meta.yml
   - social:
-      #enabled: !ENV [CI, false]
-      cards_layout: default
-      #cards_layout_options:
-      #  #background_image: docs/layouts/DALL·E-active-tree.webp
-      #  #background_color: transparent
-      #  logo: docs/layouts/lukeoson-spaceman.png
-      #  title: Lukeoson
+      cards_layout_options:
+        cards_layout_dir: layouts
+        cards_layout: default
+        logo: layouts/lukeoson-spaceman.png
+        debug: true
+        description: "lukeoson.com"
   - git-committers:
       repository: lukeoson/lukeoson-mkdocs
       branch: main

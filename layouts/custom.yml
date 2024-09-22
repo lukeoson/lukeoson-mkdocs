@@ -1,0 +1,18 @@
+size: { width: 1200, height: 630 }
+layers:
+  - size: { width: 832, height: 310 }
+    offset: { x: 62, y: 160 }
+    typography:
+      content: "{{ page.title }}" 
+      align: start
+      color: white
+      line:
+        amount: 3
+        height: 1.25
+      font:
+        family: Roboto
+        style: Bold
+
+
+
+
