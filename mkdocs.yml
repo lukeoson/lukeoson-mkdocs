@@ -146,15 +146,22 @@ markdown_extensions:
 
 # Plugins
 plugins:
-  #- social
+  - meta:
+      meta_file: .meta.yml
+  - social:
+      #enabled: !ENV [CI, false]
+      cards_layout: default
+      #cards_layout_options:
+      #  #background_image: docs/layouts/DALL·E-active-tree.webp
+      #  #background_color: transparent
+      #  logo: docs/layouts/lukeoson-spaceman.png
+      #  title: Lukeoson
   - git-committers:
       repository: lukeoson/lukeoson-mkdocs
       branch: main
       token: !ENV ["GH_TOKEN"]
   - table-reader:
   - autolinks
-  - meta:
-      enabled: true
   - macros:
       include_yaml:
         - nav.yml

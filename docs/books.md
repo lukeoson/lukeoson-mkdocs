@@ -11,7 +11,7 @@ hide:
 !!! tip "Welcome to My Book Shelf"
     Here you'll find a collection of books that I've read and recommend. 
 
-    ![Book Shelf](../assets/images/books/book-shelf.jpeg)
+    ![Book Shelf](/assets/images/books/book-shelf.jpeg)
 
 !!! warning "Top Shelf Summarised below -> Bottom Shelf pending!"
 
@@ -23,7 +23,7 @@ hide:
 
     --- 
 
-    [![Team of Rivals](../assets/images/books/team-of-rivals.png){ width="35px" align="right" }](https://www.amazon.com/Team-Rivals-Political-Abraham-Lincoln/dp/0743270754)
+    [![Team of Rivals](/assets/images/books/team-of-rivals.png){ width="35px" align="right" }](https://www.amazon.com/Team-Rivals-Political-Abraham-Lincoln/dp/0743270754)
 
     **Author**: [Doris Kearns Goodwin](https://en.wikipedia.org/wiki/Doris_Kearns_Goodwin)  
     **Genre**: Biography, History
@@ -50,7 +50,7 @@ hide:
 
     --- 
 
-    [![Getting Better](../assets/images/books/getting-better.png){ width="35px" align="right" }](https://www.amazon.com/Getting-Better-Development-Succeeding-Failed/dp/046503103X)
+    [![Getting Better](/assets/images/books/getting-better.png){ width="35px" align="right" }](https://www.amazon.com/Getting-Better-Development-Succeeding-Failed/dp/046503103X)
 
     **Author**: [Charles Kenny](https://en.wikipedia.org/wiki/Charles_Kenny)  
     **Genre**: Self-Help, Psychology
@@ -77,7 +77,7 @@ hide:
 
     --- 
 
-    [![The Expanding Circle](../assets/images/books/expanding-circle.png){ width="35px" align="right" }](https://www.amazon.com/Expanding-Circle-Ethics-Evolution-Progress/dp/0691150699)
+    [![The Expanding Circle](/assets/images/books/expanding-circle.png){ width="35px" align="right" }](https://www.amazon.com/Expanding-Circle-Ethics-Evolution-Progress/dp/0691150699)
 
     **Author**: [Peter Singer](https://en.wikipedia.org/wiki/Peter_Singer)  
     **Genre**: Philosophy, Ethics
@@ -104,7 +104,7 @@ hide:
 
     --- 
 
-    [![Breaking Open the Head](../assets/images/books/breaking-open-the-head.png){ width="35px" align="right" }](https://www.amazon.com/Breaking-Open-Head-Contemporary-Shamanism/dp/0767907434)
+    [![Breaking Open the Head](/assets/images/books/breaking-open-the-head.png){ width="35px" align="right" }](https://www.amazon.com/Breaking-Open-Head-Contemporary-Shamanism/dp/0767907434)
 
     **Author**: [Daniel Pinchbeck](https://en.wikipedia.org/wiki/Daniel_Pinchbeck)  
     **Genre**: Spirituality, Anthropology
@@ -131,7 +131,7 @@ hide:
 
     --- 
 
-    [![Lifespan](../assets/images/books/lifespan.png){ width="35px" align="right" }](https://www.amazon.com/Lifespan-Why-Age-Dont-Have/dp/1501191977)
+    [![Lifespan](/assets/images/books/lifespan.png){ width="35px" align="right" }](https://www.amazon.com/Lifespan-Why-Age-Dont-Have/dp/1501191977)
 
     **Author**: [David A. Sinclair, PhD](https://en.wikipedia.org/wiki/David_A._Sinclair)  
     **Genre**: Science, Health, Longevity
@@ -158,7 +158,7 @@ hide:
 
     --- 
 
-    [![Atomic Habits](../assets/images/books/atomic-habits.png){ width="35px" align="right" }](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
+    [![Atomic Habits](/assets/images/books/atomic-habits.png){ width="35px" align="right" }](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
 
     **Author**: [James Clear](https://en.wikipedia.org/wiki/James_Clear)  
     **Genre**: Self-Help, Psychology
@@ -185,7 +185,7 @@ hide:
 
     --- 
 
-    [![Terraform Up & Running](../assets/images/books/terraform-up-and-running.png){ width="35px" align="right" }](https://www.amazon.com/Terraform-Running-Tools-Infrastructure-Production/dp/1098116747)
+    [![Terraform Up & Running](/assets/images/books/terraform-up-and-running.png){ width="35px" align="right" }](https://www.amazon.com/Terraform-Running-Tools-Infrastructure-Production/dp/1098116747)
 
     **Author**: [Yevgeniy Brikman](https://www.linkedin.com/in/brikis98)  
     **Genre**: Technology, DevOps
@@ -212,7 +212,7 @@ hide:
 
     --- 
 
-    [![Learning Go](../assets/images/books/learning-go.png){ width="35px" align="right" }](https://www.amazon.com/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216)
+    [![Learning Go](/assets/images/books/learning-go.png){ width="35px" align="right" }](https://www.amazon.com/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216)
 
     **Author**: [Jon Bodner](https://www.linkedin.com/in/jonbodner)  
     **Genre**: Technology, Programming
@@ -239,7 +239,7 @@ hide:
 
     --- 
 
-    [![Network Programmability and Automation](../assets/images/books/network-programability.png){ width="35px" align="right" }](https://www.amazon.com/Network-Programmability-Automation-Next-Generation-Engineer/dp/1098110838/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NRtSe45kPXlQJGEKxbO-yhbxRIVlAxk5YHo8etc0nYBFqT6jKfV9o8k0DBPFTbfAbZrO-LEz7PWZyy8BuRYlS-ZAT_wu6WpUDD2hxgbjqNPXX_6ajAuqdeFTMgYVfystI-8Z-UwN-07tkrxW3gG63DfVFwbSL9NZLCbJlnWQMQ5DimscUFmInfMYC_YpZDoSxHNBYy6nKlRgaTEpIFlPuA5jRARQneJp6LMzmBJ5HOU.6TrJ1yKZPaf4x8gOcPcTb0NKfzUS0hpKPAXkP94nSM4&dib_tag=se&keywords=network+programmability+and+automation&qid=1725990497&sr=8-1)
+    [![Network Programmability and Automation](/assets/images/books/network-programability.png){ width="35px" align="right" }](https://www.amazon.com/Network-Programmability-Automation-Next-Generation-Engineer/dp/1098110838/ref=sr_1_1?dib=eyJ2IjoiMSJ9.NRtSe45kPXlQJGEKxbO-yhbxRIVlAxk5YHo8etc0nYBFqT6jKfV9o8k0DBPFTbfAbZrO-LEz7PWZyy8BuRYlS-ZAT_wu6WpUDD2hxgbjqNPXX_6ajAuqdeFTMgYVfystI-8Z-UwN-07tkrxW3gG63DfVFwbSL9NZLCbJlnWQMQ5DimscUFmInfMYC_YpZDoSxHNBYy6nKlRgaTEpIFlPuA5jRARQneJp6LMzmBJ5HOU.6TrJ1yKZPaf4x8gOcPcTb0NKfzUS0hpKPAXkP94nSM4&dib_tag=se&keywords=network+programmability+and+automation&qid=1725990497&sr=8-1)
 
     **Authors**: [Christian Adell](https://x.com/chadell0),[Jason Edelman](www.jedelman.com), [Scott Lowe](https://www.linkedin.com/in/scottlowe/), [Matt Oswalt](https://www.linkedin.com/in/mattoswalt/)  
     **Genre**: Technology, Networking
@@ -266,7 +266,7 @@ hide:
 
     --- 
 
-    [![The Phoenix Project](../assets/images/books/phoenix-project.png){ width="35px" align="right" }](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
+    [![The Phoenix Project](/assets/images/books/phoenix-project.png){ width="35px" align="right" }](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
 
     **Authors**: [Gene Kim](https://en.wikipedia.org/wiki/Gene_Kim), Kevin Behr, George Spafford  
     **Genre**: Technology, DevOps, Business
@@ -293,7 +293,7 @@ hide:
 
     --- 
 
-    [![The Staff Engineer's Path](../assets/images/books/staff-engineers-path.png){ width="35px" align="right" }](https://www.amazon.com/Staff-Engineers-Path-contributors-navigating/dp/1098118723)
+    [![The Staff Engineer's Path](/assets/images/books/staff-engineers-path.png){ width="35px" align="right" }](https://www.amazon.com/Staff-Engineers-Path-contributors-navigating/dp/1098118723)
 
     **Author**: [Tanya Reilly](https://www.linkedin.com/in/tanya-reilly/)  
     **Genre**: Technology, Engineering Leadership
@@ -320,7 +320,7 @@ hide:
 
     --- 
 
-    [![Energy and Civilization](../assets/images/books/energy-and-civilization.png){ width="35px" align="right" }](https://www.amazon.com/Energy-Civilization-History-Vaclav-Smil/dp/0262536167)
+    [![Energy and Civilization](/assets/images/books/energy-and-civilization.png){ width="35px" align="right" }](https://www.amazon.com/Energy-Civilization-History-Vaclav-Smil/dp/0262536167)
 
     **Author**: [Vaclav Smil](https://en.wikipedia.org/wiki/Vaclav_Smil)  
     **Genre**: History, Science
@@ -347,7 +347,7 @@ hide:
 
     --- 
 
-    [![The Progress Paradox](../assets/images/books/progress-paradox.png){ width="35px" align="right" }](https://www.amazon.com/Progress-Paradox-Life-Gets-Better/dp/0812973038)
+    [![The Progress Paradox](/assets/images/books/progress-paradox.png){ width="35px" align="right" }](https://www.amazon.com/Progress-Paradox-Life-Gets-Better/dp/0812973038)
 
     **Author**: [Gregg Easterbrook](https://en.wikipedia.org/wiki/Gregg_Easterbrook)  
     **Genre**: Sociology, Psychology
@@ -374,7 +374,7 @@ hide:
 
     --- 
 
-    [![The Rational Optimist](../assets/images/books/rational-optimist.png){ width="35px" align="right" }](https://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-S/dp/0061452068)
+    [![The Rational Optimist](/assets/images/books/rational-optimist.png){ width="35px" align="right" }](https://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-S/dp/0061452068)
 
     **Author**: [Matt Ridley](https://en.wikipedia.org/wiki/Matt_Ridley)  
     **Genre**: Economics, History, Sociology
@@ -401,7 +401,7 @@ hide:
 
     --- 
 
-    [![The Cosmic Serpent](../assets/images/books/cosmic-serpent.png){ width="35px" align="right" }](https://www.amazon.com/Cosmic-Serpent-DNA-Origins-Knowledge/dp/0874779642)
+    [![The Cosmic Serpent](/assets/images/books/cosmic-serpent.png){ width="35px" align="right" }](https://www.amazon.com/Cosmic-Serpent-DNA-Origins-Knowledge/dp/0874779642)
 
     **Author**: [Jeremy Narby](https://en.wikipedia.org/wiki/Jeremy_Narby)  
     **Genre**: Anthropology, Biology, Spirituality
@@ -428,7 +428,7 @@ hide:
 
     --- 
 
-    [![The Greatest Show on Earth](../assets/images/books/greatest-show-on-earth.png){ width="35px" align="right" }](https://www.amazon.com/Greatest-Show-Earth-Evidence-Evolution/dp/1416594787)
+    [![The Greatest Show on Earth](/assets/images/books/greatest-show-on-earth.png){ width="35px" align="right" }](https://www.amazon.com/Greatest-Show-Earth-Evidence-Evolution/dp/1416594787)
 
     **Author**: [Richard Dawkins](https://en.wikipedia.org/wiki/Richard_Dawkins)  
     **Genre**: Science, Biology, Evolution
@@ -455,7 +455,7 @@ hide:
 
     --- 
 
-    [![Sapiens](../assets/images/books/sapiens.png){ width="35px" align="right" }](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)
+    [![Sapiens](/assets/images/books/sapiens.png){ width="35px" align="right" }](https://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095)
 
     **Author**: [Yuval Noah Harari](https://en.wikipedia.org/wiki/Yuval_Noah_Harari)  
     **Genre**: History, Anthropology, Sociology
@@ -482,7 +482,7 @@ hide:
 
     --- 
 
-    [![The Ten Types of Human](../assets/images/books/ten-types-of-human.png){ width="35px" align="right" }](https://www.amazon.com/Ten-Types-Human-Story-We/dp/1784704863)
+    [![The Ten Types of Human](/assets/images/books/ten-types-of-human.png){ width="35px" align="right" }](https://www.amazon.com/Ten-Types-Human-Story-We/dp/1784704863)
 
     **Author**: [Dexter Dias](https://en.wikipedia.org/wiki/Dexter_Dias)  
     **Genre**: Psychology, Sociology, Anthropology
@@ -509,7 +509,7 @@ hide:
 
     --- 
 
-    [![On Anarchism](../assets/images/books/on-anarchism.png){ width="35px" align="right" }](https://www.amazon.com/Anarchism-Noam-Chomsky/dp/1595589104)
+    [![On Anarchism](/assets/images/books/on-anarchism.png){ width="35px" align="right" }](https://www.amazon.com/Anarchism-Noam-Chomsky/dp/1595589104)
 
     **Author**: [Noam Chomsky](https://en.wikipedia.org/wiki/Noam_Chomsky)  
     **Genre**: Politics, Philosophy
@@ -536,7 +536,7 @@ hide:
 
     --- 
 
-    [![God Is Not Great](../assets/images/books/god-is-not-great.png){ width="35px" align="right" }](https://www.amazon.com/God-Not-Great-Religion-Everything/dp/0446697966)
+    [![God Is Not Great](/assets/images/books/god-is-not-great.png){ width="35px" align="right" }](https://www.amazon.com/God-Not-Great-Religion-Everything/dp/0446697966)
 
     **Author**: [Christopher Hitchens](https://en.wikipedia.org/wiki/Christopher_Hitchens) :material-grave-stone:{ .bounce} :material-heart:{ .bounce} 
 
@@ -564,7 +564,7 @@ hide:
 
     --- 
 
-    [![Money](../assets/images/books/money.png){ width="37px" align="right" }](https://www.amazon.com/Money-True-Story-Made-Up-Thing/dp/031641719X)
+    [![Money](/assets/images/books/money.png){ width="37px" align="right" }](https://www.amazon.com/Money-True-Story-Made-Up-Thing/dp/031641719X)
 
     **Author**: [Jacob Goldstein](https://en.wikipedia.org/wiki/Jacob_Goldstein)  
     **Genre**: Economics, History
@@ -591,7 +591,7 @@ hide:
 
     --- 
 
-    [![Mind Body Problems](../assets/images/books/mind-body-problems.png){ width="37px" align="right" }](https://www.amazon.com/Mind-Body-Problems-Science-Subjectivity-Really/dp/1731440480/ref=sr_1_4?crid=2VYKWFPE32FVG&dib=eyJ2IjoiMSJ9.M7A9pTNbHoqVOlh--9XtTZV8mcfCdSM2onkPFA7lZ4RZKXlTf9Bv4TvdSNWap20KvTEUOi-qGcRE5lVsJ-S6A9LwbHNKGC2doIuvjYebQBZnVTr915u0wPBi5OTg5vnCdMD2avhG1JxxDlaVFKkc6zh7hgb_mqGSDkpZLna1K7gEA0LqAtFlhKu2Ik5zLCXAcKRyHIkuEXZoCa0AOxAdazY2zzSsQlIWtdfdM05XVNg.SyAhxeulbRbamOmOJt9SeG-xPrIHA8fHcoEKbzygLBM&dib_tag=se&keywords=mind+body+problems&qid=1726002775&s=books&sprefix=mind+body+problems%2Cstripbooks-intl-ship%2C176&sr=1-4)
+    [![Mind Body Problems](/assets/images/books/mind-body-problems.png){ width="37px" align="right" }](https://www.amazon.com/Mind-Body-Problems-Science-Subjectivity-Really/dp/1731440480/ref=sr_1_4?crid=2VYKWFPE32FVG&dib=eyJ2IjoiMSJ9.M7A9pTNbHoqVOlh--9XtTZV8mcfCdSM2onkPFA7lZ4RZKXlTf9Bv4TvdSNWap20KvTEUOi-qGcRE5lVsJ-S6A9LwbHNKGC2doIuvjYebQBZnVTr915u0wPBi5OTg5vnCdMD2avhG1JxxDlaVFKkc6zh7hgb_mqGSDkpZLna1K7gEA0LqAtFlhKu2Ik5zLCXAcKRyHIkuEXZoCa0AOxAdazY2zzSsQlIWtdfdM05XVNg.SyAhxeulbRbamOmOJt9SeG-xPrIHA8fHcoEKbzygLBM&dib_tag=se&keywords=mind+body+problems&qid=1726002775&s=books&sprefix=mind+body+problems%2Cstripbooks-intl-ship%2C176&sr=1-4)
 
     **Author**: [John Horgan](https://en.wikipedia.org/wiki/John_Horgan_(science_journalist))  
     **Genre**: Psychology, Neuroscience, Philosophy
@@ -618,7 +618,7 @@ hide:
 
     --- 
 
-    [![Impromptu](../assets/images/books/impromptu.png){ width="37px" align="right" }](https://www.amazon.com/Impromptu-Amplifying-Our-Humanity-Through/dp/B0BYLSCPPV/ref=sr_1_1?crid=1O05FOLMU8EUU&dib=eyJ2IjoiMSJ9.-wVmPzOLWQi0EUDkH5j16MHlbNRdkIv8R07FBwbQQYXJxbiSFnVxDRIBuNHd7KaQd6GTZPxtX8-rW_3mBhtXcZjmyfSmh0W71QyevDIs8XIeD8IHU0VdZVJCXoiAGNhQ5wClZsBlq2z0dtUQMxnDcuTSiSBi4BG_KcvyNcJv8yNTncVEfplL09R7VmwJkeHymIoVKMi_3GkldyeeguHqcVZnVrF174CSDj79QjXaEn4.xn5ujcIoBZIsWzeZzkrAIsVt8-ViW_JhoBRAhRPCqRQ&dib_tag=se&keywords=impromptu&qid=1726003040&s=books&sprefix=impromtu%2Cstripbooks-intl-ship%2C196&sr=1-1)
+    [![Impromptu](/assets/images/books/impromptu.png){ width="37px" align="right" }](https://www.amazon.com/Impromptu-Amplifying-Our-Humanity-Through/dp/B0BYLSCPPV/ref=sr_1_1?crid=1O05FOLMU8EUU&dib=eyJ2IjoiMSJ9.-wVmPzOLWQi0EUDkH5j16MHlbNRdkIv8R07FBwbQQYXJxbiSFnVxDRIBuNHd7KaQd6GTZPxtX8-rW_3mBhtXcZjmyfSmh0W71QyevDIs8XIeD8IHU0VdZVJCXoiAGNhQ5wClZsBlq2z0dtUQMxnDcuTSiSBi4BG_KcvyNcJv8yNTncVEfplL09R7VmwJkeHymIoVKMi_3GkldyeeguHqcVZnVrF174CSDj79QjXaEn4.xn5ujcIoBZIsWzeZzkrAIsVt8-ViW_JhoBRAhRPCqRQ&dib_tag=se&keywords=impromptu&qid=1726003040&s=books&sprefix=impromtu%2Cstripbooks-intl-ship%2C196&sr=1-1)
 
     **Author**: [Reid Hoffman](https://en.wikipedia.org/wiki/Reid_Hoffman)  
     **Genre**: Technology, Artificial Intelligence
@@ -645,7 +645,7 @@ hide:
 
     --- 
 
-    [![Superintelligence](../assets/images/books/superintelligence.png){ width="37px" align="right" }](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834)
+    [![Superintelligence](/assets/images/books/superintelligence.png){ width="37px" align="right" }](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834)
 
     **Author**: [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom)  
     **Genre**: Artificial Intelligence, Philosophy, Future Studies
@@ -672,7 +672,7 @@ hide:
 
     --- 
 
-    [![Glucose Revolution](../assets/images/books/glucose-revolution.png){ width="37px" align="right" }](https://www.amazon.com/Glucose-Revolution-Life-Changing-Power-Balancing/dp/1982179414)
+    [![Glucose Revolution](/assets/images/books/glucose-revolution.png){ width="37px" align="right" }](https://www.amazon.com/Glucose-Revolution-Life-Changing-Power-Balancing/dp/1982179414)
 
     **Author**: [Jessie Inchauspé](https://en.wikipedia.org/wiki/Jessie_Inchausp%C3%A9)  
     **Genre**: Health, Nutrition
@@ -699,7 +699,7 @@ hide:
 
     --- 
 
-    [![The Talent Code](../assets/images/books/talent-code.png){ width="37px" align="right" }](https://www.amazon.com/Talent-Code-Greatness-Born-Grown/dp/055380684X)
+    [![The Talent Code](/assets/images/books/talent-code.png){ width="37px" align="right" }](https://www.amazon.com/Talent-Code-Greatness-Born-Grown/dp/055380684X)
 
     **Author**: [Daniel Coyle](https://en.wikipedia.org/wiki/Daniel_Coyle)  
     **Genre**: Psychology, Personal Development
@@ -726,7 +726,7 @@ hide:
 
     --- 
 
-    [![Cosmos](../assets/images/books/cosmos.png){ width="37px" align="right" }](https://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354)
+    [![Cosmos](/assets/images/books/cosmos.png){ width="37px" align="right" }](https://www.amazon.com/Cosmos-Carl-Sagan/dp/0345331354)
 
     **Author**: [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)  
     **Genre**: Science, Astronomy, Philosophy
@@ -753,7 +753,7 @@ hide:
 
     --- 
 
-    [![The Hunter-Gatherer's Guide to the 21st Century](../assets/images/books/hunter-gatherers-guide.png){ width="37px" align="right" }](https://www.amazon.com/Hunter-Gatherers-Guide-21st-Century-Evolution/dp/0593086880)
+    [![The Hunter-Gatherer's Guide to the 21st Century](/assets/images/books/hunter-gatherers-guide.png){ width="37px" align="right" }](https://www.amazon.com/Hunter-Gatherers-Guide-21st-Century-Evolution/dp/0593086880)
 
     **Authors**: [Heather Heying](https://en.wikipedia.org/wiki/Heather_Heying), [Bret Weinstein](https://en.wikipedia.org/wiki/Bret_Weinstein)  
     **Genre**: Science, Evolution, Social Commentary
@@ -780,7 +780,7 @@ hide:
 
     --- 
 
-    [![Build a Mathematical Mind](../assets/images/books/build-a-mathematical-mind.png){ width="37px" align="right" }](https://www.amazon.com/Build-Mathematical-Mind-Detective-Critical-ebook/dp/B0BTB8H4Z8/)
+    [![Build a Mathematical Mind](/assets/images/books/build-a-mathematical-mind.png){ width="37px" align="right" }](https://www.amazon.com/Build-Mathematical-Mind-Detective-Critical-ebook/dp/B0BTB8H4Z8/)
 
     **Author**: [Albert Rutherford](https://www.amazon.com/stores/Albert-Rutherford/author/B07HLN6LJC)  
     **Genre**: Education, Mathematics, Self-Help
@@ -807,7 +807,7 @@ hide:
 
     --- 
 
-    [![The Coming Wave](../assets/images/books/coming-wave.png){ width="37px" align="right" }](https://www.amazon.co.uk/Coming-Wave-instant-bestseller-ultimate/dp/1529923832/)
+    [![The Coming Wave](/assets/images/books/coming-wave.png){ width="37px" align="right" }](https://www.amazon.co.uk/Coming-Wave-instant-bestseller-ultimate/dp/1529923832/)
 
     **Author**: [Mustafa Suleyman](https://en.wikipedia.org/wiki/Mustafa_Suleyman)  
     **Genre**: Technology, Futurism
@@ -834,7 +834,7 @@ hide:
 
     --- 
 
-    [![Enlightenment Now](../assets/images/books/enlightenment-now.png){ width="37px" align="right" }](https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/0525427570)
+    [![Enlightenment Now](/assets/images/books/enlightenment-now.png){ width="37px" align="right" }](https://www.amazon.com/Enlightenment-Now-Science-Humanism-Progress/dp/0525427570)
 
     **Author**: [Steven Pinker](https://en.wikipedia.org/wiki/Steven_Pinker)  
     **Genre**: Science, Philosophy, History
@@ -861,7 +861,7 @@ hide:
 
     --- 
 
-    [![The Age of Surveillance Capitalism](../assets/images/books/age-of-surveillance-capitalism.png){ width="37px" align="right" }](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697)
+    [![The Age of Surveillance Capitalism](/assets/images/books/age-of-surveillance-capitalism.png){ width="37px" align="right" }](https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697)
 
     **Author**: [Shoshana Zuboff](https://en.wikipedia.org/wiki/Shoshana_Zuboff)  
     **Genre**: Technology, Politics, Economics
@@ -888,7 +888,7 @@ hide:
 
     --- 
 
-    [![In Search of Schrödinger's Cat](../assets/images/books/in-search-of-schrodingers-cat.png){ width="37px" align="right" }](https://www.amazon.com/Search-Schrodingers-Cat-Quantum-Physics/dp/0553342533)
+    [![In Search of Schrödinger's Cat](/assets/images/books/in-search-of-schrodingers-cat.png){ width="37px" align="right" }](https://www.amazon.com/Search-Schrodingers-Cat-Quantum-Physics/dp/0553342533)
 
     **Author**: [John Gribbin](https://en.wikipedia.org/wiki/John_Gribbin)  
     **Genre**: Science, Physics, Quantum Mechanics
@@ -915,7 +915,7 @@ hide:
 
     --- 
 
-    [![Essentialism](../assets/images/books/essentialism.png){ width="37px" align="right" }](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382)
+    [![Essentialism](/assets/images/books/essentialism.png){ width="37px" align="right" }](https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382)
 
     **Author**: [Greg McKeown](https://en.wikipedia.org/wiki/Greg_McKeown_(author))  
     **Genre**: Personal Development, Self-Help, Productivity
@@ -942,7 +942,7 @@ hide:
 
     --- 
 
-    [![The Chimp Paradox](../assets/images/books/chimp-paradox.png){ width="37px" align="right" }](https://www.amazon.com/Chimp-Paradox-Management-Program-Confidence/dp/039916359X)
+    [![The Chimp Paradox](/assets/images/books/chimp-paradox.png){ width="37px" align="right" }](https://www.amazon.com/Chimp-Paradox-Management-Program-Confidence/dp/039916359X)
 
     **Author**: [Steve Peters](https://en.wikipedia.org/wiki/Steve_Peters_(psychiatrist))  
     **Genre**: Psychology, Personal Development
@@ -969,7 +969,7 @@ hide:
 
     --- 
 
-    [![Life Time](../assets/images/books/life-time.png){ width="37px" align="right" }](https://www.amazon.co.uk/Life-Time-Science-Revolutionize-Health/dp/024152931X)
+    [![Life Time](/assets/images/books/life-time.png){ width="37px" align="right" }](https://www.amazon.co.uk/Life-Time-Science-Revolutionize-Health/dp/024152931X)
 
     **Author**: [Russell Foster](https://en.wikipedia.org/wiki/Russell_Foster_(neuroscientist))  
     **Genre**: Health, Science, Sleep
@@ -996,7 +996,7 @@ hide:
 
     --- 
 
-    [![Quiet](../assets/images/books/quiet.png){ width="37px" align="right" }](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153)
+    [![Quiet](/assets/images/books/quiet.png){ width="37px" align="right" }](https://www.amazon.com/Quiet-Power-Introverts-World-Talking/dp/0307352153)
 
     **Author**: [Susan Cain](https://en.wikipedia.org/wiki/Susan_Cain)  
     **Genre**: Psychology, Personal Development
@@ -1023,7 +1023,7 @@ hide:
 
     --- 
 
-    [![Other Minds](../assets/images/books/other-minds.png){ width="37px" align="right" }](https://www.amazon.com/Other-Minds-Octopus-Origins-Consciousness/dp/0374537194)
+    [![Other Minds](/assets/images/books/other-minds.png){ width="37px" align="right" }](https://www.amazon.com/Other-Minds-Octopus-Origins-Consciousness/dp/0374537194)
 
     **Author**: [Peter Godfrey-Smith](https://en.wikipedia.org/wiki/Peter_Godfrey-Smith)  
     **Genre**: Science, Philosophy, Biology
@@ -1050,7 +1050,7 @@ hide:
 
     --- 
 
-    [![Think Like an Engineer](../assets/images/books/think-like-an-engineer.png){ width="37px" align="right" }](https://www.amazon.co.uk/Think-Like-Engineer-Inside-Changing/dp/1780748647)
+    [![Think Like an Engineer](/assets/images/books/think-like-an-engineer.png){ width="37px" align="right" }](https://www.amazon.co.uk/Think-Like-Engineer-Inside-Changing/dp/1780748647)
 
     **Author**: [Guru Madhavan](https://en.wikipedia.org/wiki/Guru_Madhavan)  
     **Genre**: Engineering, Personal Development, Problem Solving
@@ -1077,7 +1077,7 @@ hide:
 
     --- 
 
-    [![Surrounded by Idiots](../assets/images/books/surrounded-by-idiots.png){ width="37px" align="right" }](https://www.amazon.com/Surrounded-Idiots-Behavior-Effectively-Communicate/dp/1250179947)
+    [![Surrounded by Idiots](/assets/images/books/surrounded-by-idiots.png){ width="37px" align="right" }](https://www.amazon.com/Surrounded-Idiots-Behavior-Effectively-Communicate/dp/1250179947)
 
     **Author**: [Thomas Erikson](https://en.wikipedia.org/wiki/Thomas_Erikson)  
     **Genre**: Psychology, Communication, Self-Help
@@ -1104,7 +1104,7 @@ hide:
 
     --- 
 
-    [![Deep Utopia](../assets/images/books/deep-utopia.png){ width="37px" align="right" }](https://www.amazon.co.uk/Deep-Utopia-Meaning-Solved-World/dp/1646871766/)
+    [![Deep Utopia](/assets/images/books/deep-utopia.png){ width="37px" align="right" }](https://www.amazon.co.uk/Deep-Utopia-Meaning-Solved-World/dp/1646871766/)
 
     **Author**: [Nick Bostrom](https://en.wikipedia.org/wiki/Nick_Bostrom)  
     **Genre**: Philosophy, Futurism, Ethics
@@ -1131,7 +1131,7 @@ hide:
 
     --- 
 
-    [![AWS Networking Fundamentals](../assets/images/books/aws-networking-fundamentals.png){ width="37px" align="right" }](https://www.amazon.co.uk/AWS-Networking-Fundamentals-Understand-Datacenter-ebook/dp/B09PKMWSQ7)
+    [![AWS Networking Fundamentals](/assets/images/books/aws-networking-fundamentals.png){ width="37px" align="right" }](https://www.amazon.co.uk/AWS-Networking-Fundamentals-Understand-Datacenter-ebook/dp/B09PKMWSQ7)
 
     **Author**: [Toni Pasanen](https://www.amazon.co.uk/Books-Toni-Pasanen/s?rh=n%3A266239%2Cp_27%3AToni+Pasanen)  
     **Genre**: Cloud Computing, Networking, Technology
@@ -1158,7 +1158,7 @@ hide:
 
     --- 
 
-    [![The End of the World Is Just the Beginning](../assets/images/books/end-of-the-world-is-just-the-beginning.png){ width="37px" align="right" }](https://www.amazon.com/End-World-Just-Beginning-Globalization/dp/006323047X)
+    [![The End of the World Is Just the Beginning](/assets/images/books/end-of-the-world-is-just-the-beginning.png){ width="37px" align="right" }](https://www.amazon.com/End-World-Just-Beginning-Globalization/dp/006323047X)
 
     **Author**: [Peter Zeihan](https://en.wikipedia.org/wiki/Peter_Zeihan)  
     **Genre**: Geopolitics, Economics, Future Studies
@@ -1185,7 +1185,7 @@ hide:
 
     --- 
 
-    [![The SaaS Sales Method](../assets/images/books/saas-sales-method.png){ width="37px" align="right" }](https://www.amazon.co.uk/SaaS-Sales-Method-Science-Blueprints-ebook/dp/B07HKL3L2R)
+    [![The SaaS Sales Method](/assets/images/books/saas-sales-method.png){ width="37px" align="right" }](https://www.amazon.co.uk/SaaS-Sales-Method-Science-Blueprints-ebook/dp/B07HKL3L2R)
 
     **Authors**: [Jacco van der Kooij](https://www.amazon.co.uk/SaaS-Sales-Method-Science-Blueprints-ebook/dp/B07HKL3L2R) and [Fernando Pizarro](https://www.amazon.co.uk/SaaS-Sales-Method-Science-Blueprints-ebook/dp/B07HKL3L2R)  
     **Genre**: Business, Sales, SaaS
@@ -1212,7 +1212,7 @@ hide:
 
     --- 
 
-    [![The Inner Game of Tennis](../assets/images/books/inner-game-of-tennis.png){ width="37px" align="right" }](https://www.amazon.com/Inner-Game-Tennis-Classic-Performance/dp/0679778314)
+    [![The Inner Game of Tennis](/assets/images/books/inner-game-of-tennis.png){ width="37px" align="right" }](https://www.amazon.com/Inner-Game-Tennis-Classic-Performance/dp/0679778314)
 
     **Author**: [W. Timothy Gallwey](https://en.wikipedia.org/wiki/W._Timothy_Gallwey)  
     **Genre**: Sports Psychology, Self-Improvement
@@ -1239,7 +1239,7 @@ hide:
 
     --- 
 
-    [![Waking Up](../assets/images/books/waking-up.png){ width="37px" align="right" }](https://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636024)
+    [![Waking Up](/assets/images/books/waking-up.png){ width="37px" align="right" }](https://www.amazon.com/Waking-Up-Spirituality-Without-Religion/dp/1451636024)
 
     **Author**: [Sam Harris](https://en.wikipedia.org/wiki/Sam_Harris)  
     **Genre**: Philosophy, Spirituality, Neuroscience
@@ -1266,7 +1266,7 @@ hide:
 
     --- 
 
-    [![Read Write Own](../assets/images/books/read-write-own.png){ width="37px" align="right" }](https://www.amazon.co.uk/Read-Write-Own-Building-Internet/dp/B0CMJ9H739)
+    [![Read Write Own](/assets/images/books/read-write-own.png){ width="37px" align="right" }](https://www.amazon.co.uk/Read-Write-Own-Building-Internet/dp/B0CMJ9H739)
 
     **Author**: [Chris Dixon](https://en.wikipedia.org/wiki/Chris_Dixon)  
     **Genre**: Technology, Blockchain, Decentralization

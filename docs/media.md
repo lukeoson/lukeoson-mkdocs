@@ -171,8 +171,8 @@ I'm more curious than clever. But remain committed to continuously iterating my 
     - [Network Automation Forum Slack Invite](https://networkautomationfrm.slack.com) ... Network Automation Pros & Jokers. Fun.
     - [NetDev from Network Labs Slack Invite](https://netdev-community.slack.com) ... Everything Networks.
     - [Network to Code Slack Invite](https://slack.networktocode.com) ... Everything Networks.
-    - [Packet Coders Slack Invite](packetcoders.slack.com) ... Network Automation Subscription Learning.
-    - [SuzieQ Slack Invite](netenglabs.slack.com) ... NetEngLabs for SuzieQ Observability.
+    - [Packet Coders Slack Invite](https://packetcoders.slack.com) ... Network Automation Subscription Learning.
+    - [SuzieQ Slack Invite](https://netenglabs.slack.com) ... NetEngLabs for SuzieQ Observability.
 
     **Discord**
 
