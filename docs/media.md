@@ -156,6 +156,25 @@ I'm more curious than clever. But remain committed to continuously iterating my 
 
 </div>
 
+## Newsletters & Blogs
+
+<div class="grid cards" markdown>
+
+- :material-rss: **An eclectic mix of work, play & curiosity**: *Lunchtime & transit stuff*
+
+    --- 
+
+    **title**
+
+    insert prose providing gist.
+
+    - [The Gratuitous Arp](https://gratuitous-arp.net) ... with [Claudia de Luna](https://www.linkedin.com/in/claudiadeluna/)
+    - [AutoCon Coverage](https://handyinfo.networkautomation.forum/autocon_coverage/autocon1/) ... for Blogs of AutoCon events.
+
+    ---
+
+</div>
+
 ## Slack & Discord Communities
 
 <div class="grid cards" markdown>
@@ -184,24 +203,7 @@ I'm more curious than clever. But remain committed to continuously iterating my 
 
 </div>
 
-## Newsletters & Blogs
 
-<div class="grid cards" markdown>
-
-- :material-rss: **An eclectic mix of work, play & curiosity**: *Lunchtime & transit stuff*
-
-    --- 
-
-    **title**
-
-    insert prose providing gist.
-
-    - [The Gratuitous Arp](https://gratuitous-arp.net) ... with [Claudia de Luna](https://www.linkedin.com/in/claudiadeluna/)
-
-    ---
-
-
-</div>
 
 
 
