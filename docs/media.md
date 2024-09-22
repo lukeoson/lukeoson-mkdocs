@@ -164,9 +164,9 @@ I'm more curious than clever. But remain committed to continuously iterating my 
 
     --- 
 
-    **title**
+    **Technology**
 
-    insert prose providing gist.
+    Thought leaders in Network Automation / people I admire.
 
     - [The Gratuitous Arp](https://gratuitous-arp.net) ... with [Claudia de Luna](https://www.linkedin.com/in/claudiadeluna/)
     - [AutoCon Coverage](https://handyinfo.networkautomation.forum/autocon_coverage/autocon1/) ... for Blogs of AutoCon events.
