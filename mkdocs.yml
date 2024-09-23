@@ -150,11 +150,15 @@ plugins:
       meta_file: .meta.yml
   - social:
       cards_layout_options:
+        color: "#3D414A"
         cards_layout_dir: layouts
-        cards_layout: default
+        cards_layout: default/invert
         logo: layouts/lukeoson-spaceman.png
+        background_color: transparent
+        background_image: layouts/lukeoson-clouds.jpeg
+
         debug: true
-        description: "lukeoson.com"
+        description: "lukeoson.com | hello@lukeoson.com | +447376209455 | London"
   - git-committers:
       repository: lukeoson/lukeoson-mkdocs
       branch: main
