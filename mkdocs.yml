@@ -40,7 +40,7 @@ theme:
     repo: fontawesome/brands/github
   name: material
   logo: assets/site-meta/lukeoson-labs-logo.svg
-  palette: 
+  palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
@@ -49,7 +49,8 @@ theme:
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: default
+      #scheme: lukeoson 
       toggle: 
         icon: material/toggle-switch
         name: Switch to dark mode
@@ -111,7 +112,7 @@ extra:
   generator: false 
   homepage: !ENV [HOMEPAGE, https://lukeoson.com]
   # Jinja2
-  project: Lukeoson Dabs
+  project: Lukeoson Labs
 
 # Markdown Extensions
 markdown_extensions:
@@ -156,7 +157,6 @@ plugins:
         logo: layouts/lukeoson-spaceman.png
         background_color: transparent
         background_image: layouts/lukeoson-clouds.jpeg
-
         debug: true
         description: "lukeoson.com | hello@lukeoson.com | +447376209455 | London"
   - git-committers:

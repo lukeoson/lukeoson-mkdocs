@@ -14,7 +14,14 @@
   animation: heart 1000ms infinite;
 }
 
-  
+[data-md-color-scheme="lukeoson"] {
+  --md-primary-fg-color:        #f08dcd;
+  --md-primary-fg-color--light: #f08dcd;
+  --md-primary-fg-color--dark:  #f08dcd;
+  --md-accent-fg-color:        #f08dcd;
+  --md-accent-fg-color--light: #f08dcd;
+  --md-accent-fg-color--dark:  #f08dcd;
+} 
 
 
 
