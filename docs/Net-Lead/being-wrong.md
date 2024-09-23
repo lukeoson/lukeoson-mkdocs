@@ -11,3 +11,10 @@ tags:
 ---
 
 ## Coming Soon
+
+!!! bug "This page is under construction." 
+    Please check back later for updates.
+
+    Today is {{ git.date }} and I can assure you i'll be pushing this page soon. 
+
+    It will cover: Lessons in power and leadership. The hard way. 
