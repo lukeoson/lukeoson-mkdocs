@@ -91,6 +91,9 @@ theme:
 
 
 extra:
+  analytics:
+    provider: google
+    property: G-C2H9SS54EZ
   status:
     new: Recently added
     deprecated: Deprecated
