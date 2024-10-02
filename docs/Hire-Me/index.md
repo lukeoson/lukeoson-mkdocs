@@ -12,8 +12,8 @@ status: new
 
 <div class="grid cards" markdown>
 
-- :material-microsoft-word: [__Word Download__](../assets/brand-profile/resume/Luke Richardson Resume Oct 2024.docx) :material-cursor-default-click:{ .bounce }
-- :fontawesome-regular-file-pdf: [__PDF Download__](../assets/brand-profile/resume/Luke Richardson Resume Oct 2024.pdf) :material-cursor-default-click:{ .bounce }
+- :material-microsoft-word: [__Word Download__](../assets/brand-profile/resume/Luke Richardson Resume Oct 2024 - Net.docx) :material-cursor-default-click:{ .bounce }
+- :fontawesome-regular-file-pdf: [__PDF Download__](../assets/brand-profile/resume/Luke Richardson Resume Oct 2024 - Net.pdf) :material-cursor-default-click:{ .bounce }
 
 </div>
 
