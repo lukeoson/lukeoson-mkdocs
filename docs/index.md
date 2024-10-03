@@ -67,9 +67,9 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 
     [:material-certificate-outline: Luke's Acclaim](https://www.credly.com/users/lukeoson)
 
-    [:material-microsoft-word: Resume Word Download](assets/brand-profile/resume/Luke Richardson Resume Sept 2024.docx)
+    [:material-microsoft-word: Resume Word Download](assets/brand-profile/resume/Luke Richardson Resume Oct 2024 - Net.docx)
 
-    [:material-file-pdf-box: Resume PDF Download](assets/brand-profile/resume/Luke Richardson Resume Sept 2024.pdf)
+    [:material-file-pdf-box: Resume PDF Download](assets/brand-profile/resume/Luke Richardson Resume Oct 2024 - Net.pdf)
 
     [:material-calendar: Book a Meeting or Interview](https://fantastical.app/luke-richardson)
 
