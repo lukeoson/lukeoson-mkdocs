@@ -45,11 +45,9 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A former [Network Arch
 !!! info ":material-music-note:{ .heart } I'm open to new and compelling opportunities in the Network Community. :material-music-note:{ .heart }"
     If you have a role I might be interested in, please [get in touch](mailto:hello@lukeoson.com). You have my thanks and appreciation.
 
-    - Option 1: **Technical Program / Project / Product Management**
-    - Option 2: Network Architecture & Automated IaC
-    - Option 3: Network Automation Evangelist
-    - Option 4: Leadership & Team Management 
-    - Option 5: Live & Breathe the Startup Dream 
+    - Option 1: Network Architecture & Automated IaC
+    - Option 2: Network Automation
+    - Option 3: Leadership & Team Management  
 
     > {{ fantastical }} Meeting Link.   
 
