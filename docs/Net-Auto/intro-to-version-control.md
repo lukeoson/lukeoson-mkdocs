@@ -16,6 +16,73 @@ tags:
     Please check back later for updates.
 
 
+## Git Basics
+
+Git is a distributed version control system that helps track changes in source code during software development. It's essential for collaborative work and managing complex projects.
+
+### Key Concepts
+
+1. **Repository**: A container for your project, including all files and their version history.
+2. **Commit**: A snapshot of your project at a specific point in time.
+3. **Branch**: An independent line of development, allowing you to work on features without affecting the main codebase.
+4. **Remote**: A version of your repository hosted on a server (GitHub, GitLab).
+
+### Essential Commands
+
+1. **Initialize a Repository**
+   ```
+   git init
+   ```
+
+2. **Clone a Repository**
+   ```
+   git clone <repository-url>
+   ```
+
+3. **Check Status**
+   ```
+   git status
+   ```
+
+4. **Stage Changes**
+   ```
+   git add <file>
+   ```
+   or stage all changes:
+   ```
+   git add .
+   ```
+
+5. **Commit Changes**
+   ```
+   git commit -m "Your commit message"
+   ```
+
+6. **Push Changes to Remote**
+   ```
+   git push origin <branch-name>
+   ```
+
+7. **Pull Changes from Remote**
+   ```
+   git pull origin <branch-name>
+   ```
+
+8. **Create and Switch to a New Branch**
+   ```
+   git checkout -b <new-branch-name>
+   ```
+
+9. **Switch Between Branches**
+   ```
+   git checkout <branch-name>
+   ```
+
+10. **View Commit History**
+    ```
+    git log
+    ```
+
 ## Pull Requests
 
 A workflow that uses feature branches and pull requests (PRs) is a sane way to manage a codebase, collaborate with others, and maintain a clean main branch. 
