@@ -68,7 +68,7 @@ jobs:
           mkdir -p docs/assets/brand-profile/resume/
           pandoc docs/Hire-Me/resume-master.md \
             --from markdown \
-            --template=templates/resume-pdf.tex \
+            --template=docs/templates/resume-pdf.tex \
             --pdf-engine=xelatex \
             -o docs/assets/brand-profile/resume/Luke-Richardson-Resume.pdf
 
