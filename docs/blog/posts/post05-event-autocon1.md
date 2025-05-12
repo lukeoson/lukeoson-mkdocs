@@ -139,7 +139,7 @@ As Ethan said in the [Packet Pushers interview](https://www.youtube.com/watch?v=
     Thank you. :material-heart:{ .bounce } 
     
     ??? info "Kubenet QR Code Links"
-        ![kubenet links](/assets/images/screenshots/kubenet-qr.png)
+        ![kubenet links](../../assets/images/screenshots/kubenet-qr.png)
     
     
 

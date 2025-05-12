@@ -7,7 +7,6 @@ copyright: !ENV [COPYRIGHT, "Copyright 2024  (c) but do what you love"]
 
 # Navigation 
 nav:
-
 # Homepage
   - Home:
     - Home: index.md
@@ -19,7 +18,7 @@ nav:
 
 # Resume
   - Hire Me: 
-    - Luke's Resume: Hire-Me/index.md
+    - Hire-Me/index.md
 
 # Blog
   - Blog:
