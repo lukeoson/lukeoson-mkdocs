@@ -1,0 +1,56 @@
+
+\documentclass[10pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{fontspec}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+% Set main font (use Helvetica Neue or fallback to Helvetica)
+\setmainfont{DejaVu Sans}
+
+% Section formatting
+\titleformat{\section}{\Large\bfseries}{}{0em}{}[\titlerule]
+\titleformat{\subsection}[runin]{\bfseries}{}{0em}{}[ -- ]
+
+% Remove spacing between items
+\setlist[itemize]{noitemsep, topsep=0pt}
+
+% Hyperlink styling
+\hypersetup{
+  colorlinks=true,
+  urlcolor=blue,
+  linkcolor=black
+}
+
+\begin{document}
+
+\noindent\textbf{Luke Richardson} \hfill \href{mailto:luke@lukeoson.com}{luke@lukeoson.com} \\
+Network Architect \hfill \href{https://linkedin.com/in/luke-richardson}{linkedin.com/in/luke-richardson} \\
+London, UK \hfill +44 7376 209455 \\
+
+\vspace{1em}
+
+\section*{Experience}
+
+\textbf{WeWork — Network Architect} \hfill \textit{2019–2022} \\
+London, UK \\
+\begin{itemize}
+  \item Led internal SD-WAN migration project...
+  \item Supported cloud-native networking with AWS and Terraform...
+\end{itemize}
+
+\textbf{Lloret — Network Architect} \hfill \textit{2023–2024} \\
+London, UK \\
+\begin{itemize}
+  \item Delivered ICT/ELV smart building network packages...
+\end{itemize}
+
+\section*{Skills}
+Cisco Meraki, Palo Alto, Terraform, AWS Networking, Python
+
+\section*{Education}
+BSc Politics, [University Name]
+
+\end{document}
