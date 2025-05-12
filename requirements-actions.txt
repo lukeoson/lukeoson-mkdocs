@@ -63,3 +63,4 @@ urllib3==1.26.6
 watchdog==3.0.0
 wcmatch==8.5
 webencodings==0.5.1
+mkdocs-include-markdown-plugin
