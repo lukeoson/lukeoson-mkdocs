@@ -42,7 +42,6 @@ hide:
         ![Last Commit](https://img.shields.io/github/last-commit/lukeoson/python-meraki)
         ![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/lukeoson/python-meraki)
         ![Issues](https://img.shields.io/github/issues/lukeoson/python-meraki)
-        ![Build Status](https://img.shields.io/github/actions/workflow/status/lukeoson/python-meraki/ci.yml?branch=main)
         ![Language](https://img.shields.io/github/languages/top/lukeoson/python-meraki)
 
     ---

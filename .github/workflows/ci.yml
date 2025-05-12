@@ -63,10 +63,14 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-plain-generic
 
-      - name: Convert resume to PDF
+      - name: Convert resume to PDF (Apple-style)
         run: |
           mkdir -p docs/assets/brand-profile/resume/
-          pandoc docs/Hire-Me/resume-master.md -o docs/assets/brand-profile/resume/Luke-Richardson-Resume.pdf
+          pandoc docs/Hire-Me/resume-master.md \
+            --from markdown \
+            --template=templates/resume-pdf.tex \
+            --pdf-engine=xelatex \
+            -o docs/assets/brand-profile/resume/Luke-Richardson-Resume.pdf
 
       - name: Convert resume to DOCX
         run: |
