@@ -9,7 +9,7 @@ hide:
 ---
 
 !!! warning "Just the Gist."
-    This is a heavily redacted version of my life story, focusing on some pertinent milestones and experiences. Rest assured, i'm not (quite) as boring as it appears. I hope it affords you a useful quick reference to my life and the shaping of my character.
+    This is a quick sweep of my life story, focusing on some pertinent milestones and experiences. I hope it affords you a useful quick reference to my life and the shaping of my character.
 
 ## Childhood
 
@@ -21,7 +21,7 @@ hide:
     
     **Born 8:18am on 16th November 1985**: *Kettering Hospital, Northamptonshire, England.*
 
-    ![birth](/assets/images/whoami/birth.jpeg){ width="120px" align="right" }
+    ![birth](assets/images/whoami/birth.jpeg){ width="120px" align="right" }
 
     - x2 Brothers 6 & 8 years older. Both much smarter than me.
     - Teacher for a Dad. Stand up chap. Respect! 
@@ -32,7 +32,7 @@ hide:
 
     **Barton Seagrave Primary School**: *In my local village. Pleasant memories.*
 
-    ![barton](/assets/images/whoami/barton.jpeg){ width="120px" align="right" }
+    ![barton](assets/images/whoami/barton.jpeg){ width="120px" align="right" }
 
     - Sam Palmer was my best friend. Moon-Boots & Farmers Fields.
     - I was good at Football back then. Team Captain in year 6.
@@ -43,7 +43,7 @@ hide:
 
     **Bishop Stopford Secondary School**: *Christian "Bible Bashers". Great memories.*
 
-    ![bishop](/assets/images/whoami/bishop.jpeg){ width="120px" align="right" }
+    ![bishop](assets/images/whoami/bishop.jpeg){ width="120px" align="right" }
 
     - *Thought* I was cool. Boyce, Johnny, Rosie, Jake, Wazza, Zetta. 
     - Feel in love with Sophie. Still am... :broken_heart:{ .bounce }
@@ -64,7 +64,7 @@ hide:
     
     **A Trip to the Indian Himalayas**: *The Allure of High Mountains.*
 
-    ![india](/assets/images/whoami/india-ladakh.jpeg){ width="120px" align="right" }
+    ![india](assets/images/whoami/india-ladakh.jpeg){ width="120px" align="right" }
 
     - A solo adventure in Northern India, age 18.
     - Delhi, Kashmir, Ladakh, Amritsar, and Ladakh again. 
@@ -75,7 +75,7 @@ hide:
 
     **Queen Mary University of London**: *Politics BA 2:1.*
 
-    ![queen-mary](/assets/images/whoami/queen-mary.png){ width="120px" align="right" }
+    ![queen-mary](assets/images/whoami/queen-mary.png){ width="120px" align="right" }
 
     - First year living in Mile End, Albert House Halls.
     - Second & third year living in Hackney. Gynn Road. Murder Mile.
@@ -86,7 +86,7 @@ hide:
 
     **Discovered Climbing**: *Life long passion for adventure climbing.*
 
-    ![climbing](/assets/images/whoami/stanage.jpeg){ width="120px" align="right" }
+    ![climbing](assets/images/whoami/stanage.jpeg){ width="120px" align="right" }
 
     - North Wales Trad. The Hut. Cenotaph Corner. Dream of White Horses. 
     - Lake District. Ambleside. The Climbers Shop. 
@@ -107,7 +107,7 @@ hide:
     
     **Structured Cabling**: School friend Tom Skipper's *[ITS Networks](https://itsnetworks.co.uk). TY!*
 
-    ![india](/assets/images/whoami/cabling.jpeg){ width="120px" align="right" }
+    ![india](assets/images/whoami/cabling.jpeg){ width="120px" align="right" }
 
     - Cabled Cat6a Nottingham University Bio Chemistry.
     - Cabled Advanced Manufacturing Facility, Coventry. 
@@ -118,7 +118,7 @@ hide:
 
     **Site & Project Management**: *[Dimension Data](https://services.global.ntt/en-us/). Thanks to Paul Charles.*
 
-    ![di-data](/assets/images/whoami/westfield-dc.jpeg){ width="120px" align="right" }
+    ![di-data](assets/images/whoami/westfield-dc.jpeg){ width="120px" align="right" }
 
     - Audits, Cabling, Rack & Stack: Airbus & Airbus Military, Bristol.
     - Rack & Stack & Config: Military Data Centre, RAF Brize Norton.
@@ -139,7 +139,7 @@ hide:
 
     **Extreme Pain**: *Johnny commits suicide.*
 
-    ![johnny](/assets/images/whoami/johnny.jpeg){ width="120px" align="right" }
+    ![johnny](assets/images/whoami/johnny.jpeg){ width="120px" align="right" }
 
     - My best friend jumps in front of a train. *It's complicated*.  
     - An impossible situation. I should have stayed away. *It's complicated*.  
@@ -150,7 +150,7 @@ hide:
 
     **Solace in India Again**: *I turn 30, lost in Ladakh and found Val.*
 
-    ![pangong lake](/assets/images/whoami/pangong.jpeg){ width="120px" align="right" }
+    ![pangong lake](assets/images/whoami/pangong.jpeg){ width="120px" align="right" }
 
     - A travel to India and meet Val & Alex along the way. 
     - A wonderful day on Pangong Lake - Katsu & Val. 
@@ -161,7 +161,7 @@ hide:
 
     **Mountaineering / Trekking in Nepal**: *Everest Basecamp & Annapurna Trail.*
 
-    ![nepal](/assets/images/whoami/nepal-basecamp.jpeg){ width="115px" align="right" }
+    ![nepal](assets/images/whoami/nepal-basecamp.jpeg){ width="115px" align="right" }
 
     - Heady days in Katmandu. Stick thin. 
     - Everest Basecamp. 2 days back from Basecamp. Extreme exhaustion.  
@@ -182,7 +182,7 @@ hide:
     
     **Data Centre Program Management & Network Engineer**: *[Excel IT - Redstone - Onnec](https://www.onnecgroup.com).*
 
-    ![excel-it](/assets/images/whoami/westfield-room.jpeg){ width="120px" align="right" }
+    ![excel-it](assets/images/whoami/westfield-room.jpeg){ width="120px" align="right" }
 
     - Vodaphone Data Centre Cisco ACI Build & Base Config, Watford. 
     - NTT Data Centre Build, Hemal Hempstead.  
@@ -193,7 +193,7 @@ hide:
 
     **Barrister Gig during Study**: *Hilarious months at a Coffee Shop. Wild World.*
 
-    ![pret](/assets/images/whoami/pret-era-profile.jpeg){ width="120px" align="right" }
+    ![pret](assets/images/whoami/pret-era-profile.jpeg){ width="120px" align="right" }
 
     - Perfect flat whites. Outrageous characters. Surprisingly Fun!  
     - Acquired Certifications & initial DevOps knowledge. Focused study.
@@ -214,7 +214,7 @@ hide:
 
     **Network Engineer - Mission Control**: *[WeWork](https://wework.com).*
 
-    ![mission-control](/assets/images/whoami/we-london-noc.jpeg){ width="120px" align="right" }
+    ![mission-control](assets/images/whoami/we-london-noc.jpeg){ width="120px" align="right" }
 
     - John Porter hires me into the WeWork Mission Control Team. 
     - 48 billion dollar valuation. 1000's of sites. Hyper-growth. 
@@ -225,7 +225,7 @@ hide:
 
     **Network Architect - Global**: *[WeWork](https://wework.com).*
 
-    ![wework](/assets/images/whoami/we-covid.jpeg){ width="115px" align="right" }
+    ![wework](assets/images/whoami/we-covid.jpeg){ width="115px" align="right" }
 
     - Promoted to Network Architect. Chad, Neil, Brandon. Much Love.  
     - Juniper Mist DevOps. Learning in Production. 
@@ -246,7 +246,7 @@ hide:
     
     **WeWork Redundancy & James (Rosie) Dies**: *Rosie was my last remaining close friend.*
 
-    ![rosie](/assets/images/whoami/rosie.jpeg){ width="120px" align="right" }
+    ![rosie](assets/images/whoami/rosie.jpeg){ width="120px" align="right" }
 
     - Made redundant from WeWork. I survived 5 rounds so can't complain.
     - My last remaining close friend dies of heart failure. 
@@ -257,7 +257,7 @@ hide:
 
     **Network Architect**: *[Lloret Control Systems](https://lloret.co.uk).*
 
-    ![lloret](/assets/images/whoami/lloret-meraki.jpeg){ width="120px" align="right" }
+    ![lloret](assets/images/whoami/lloret-meraki.jpeg){ width="120px" align="right" }
 
     - Hired as a Network Architect. I take a punt on a small company.
     - I knew immediately It's not the right fit. I quit once I've done a year.  
@@ -268,7 +268,7 @@ hide:
 
     **Summer Break**: *Reflection & Climbing.*
 
-    ![climbing](/assets/images/whoami/books.jpeg){ width="120px" align="right" }
+    ![climbing](assets/images/whoami/books.jpeg){ width="120px" align="right" }
 
     - I read lots of books. I climb lots. 
     - I prepare to the next era of my professional life.  
@@ -289,7 +289,7 @@ hide:
 
     **My Initiatives**: *The things I want to get done.*
 
-    ![climbing](/assets/images/whoami/spaceman.jpeg){ width="120px" align="right" }
+    ![climbing](assets/images/whoami/spaceman.jpeg){ width="120px" align="right" }
 
     - Climb V10 & run a 40min 10k at 40 years old. Tick Tock. 
     - Leadership in Network Automation. 

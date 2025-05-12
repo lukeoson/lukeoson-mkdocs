@@ -5,14 +5,14 @@ comments: true
 
 
 #Contact Section
-profile_spaceman: '![luke-face](/assets/favicon/lukeoson-spaceman.png){ width=195px align=right }' 
-profile_professional: '![luke-face](/assets/favicon/lukeoson-professional.png){ width=195px align=right }' 
+profile_spaceman: '![luke-face](../assets/favicon/lukeoson-spaceman.png){ width=195px align=right }' 
+profile_professional: '![luke-face](../assets/favicon/lukeoson-professional.png){ width=195px align=right }' 
 job_title: ':material-lan: Network Architect'
 email: ':material-email-outline: [Hello@Lukeoson.com](mailto:hello@lukeoson.com)'
 email-hireme: ':material-email-outline: [Hire-Me@Lukeoson.com](mailto:hire-me@lukeoson.com)'
 linkedin: ':material-linkedin: [Linkedin](https://www.linkedin.com/in/luke-richardson/)'   
 mobile: ':material-cellphone: [+447376209455](tel:+447376209455)'    
-github: ':material-github: [lukeoson](https://github.com/lukeoson)'   
+github: ':material-github: [lukeoson](https://www.github.com/lukeoson)'   
 credly: ':material-certificate-outline: [Acclaim](https://www.credly.com/users/lukeoson)'  
 fantastical: ":material-calendar: Please don't hesitate to book time with my [Fantasical](https://fantastical.app/luke-richardson)."
 
