@@ -68,13 +68,11 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 ---
 
 ### Interests
-🧑🏼‍💻 Network Automation for Work. 
-🧬 Evolutionary Psychology for Life.
-🧗‍♂️ Climbing & Mountains for Ever.
+Network Automation for Work. Evolutionary Psychology for Life. Climbing & Mountains for Ever.
 
 ---
 
-> 👣 Be Good & be Gone. ⏭️ [+447376209455](tel:+447376209455) | [luke@lukeoson.com](mailto:luke@lukeoson.com)
+> Be Good & be Gone.[+447376209455](tel:+447376209455) | [luke@lukeoson.com](mailto:luke@lukeoson.com)
 
 ---
 
