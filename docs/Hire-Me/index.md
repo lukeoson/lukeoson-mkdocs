@@ -15,8 +15,8 @@ hide:
 
 <div class="grid cards" markdown>
 
-- :material-microsoft-word: [__Word Download__](../assets/brand-profile/resume/Luke-Richardson-Resume.docx) :material-cursor-default-click:{ .bounce }
-- :fontawesome-regular-file-pdf: [__PDF Download__](../assets/brand-profile/resume/Luke-Richardson-Resume.pdf) :material-cursor-default-click:{ .bounce }
+- :material-microsoft-word: [__Word Download__](/assets/brand-profile/resume/Luke-Richardson-Resume.docx) :material-cursor-default-click:{ .bounce }
+- :fontawesome-regular-file-pdf: [__PDF Download__](/assets/brand-profile/resume/Luke-Richardson-Resume.pdf) :material-cursor-default-click:{ .bounce }
 
 </div>
 
@@ -53,7 +53,7 @@ hide:
 
 ---
 
---8<-- "Hire-Me/resume-master.md"
+--8<-- "docs/Hire-Me/resume-master.md"
 
 ---
 
