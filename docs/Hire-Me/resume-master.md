@@ -61,9 +61,7 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 
 ### Education
 
-| Where | When | What |
-| :--- | :--- | :--- | 
-| [University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | BA in Politics, 2:1 |
+[University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | BA in Politics, 2:1 
 
 ---
 
