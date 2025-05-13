@@ -53,8 +53,6 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 | [Redstone](https://www.onnecgroup.com/) | 2017–2018 | Network Engineer & TPM | Prove Myself |
 | [Dimension Data](https://www.dimensiondata.com/en-gb/) | 2012–2017 | PM to Network Engineer | Learn the Ropes |
 
-\newpage
-
 #### Camden — Lead Network Engineer  
 **London, UK** | **2024 – 2025**
 
@@ -70,6 +68,8 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 - Built GitOps-driven automation pipelines and source-of-truth systems to improve consistency and deployment accuracy.
 - Reduced project costs by approximately 15% through spec refinement and vendor strategy, while achieving WiredScore.
 - Partnered closely with clients and executives to present, refine, and secure multi-vendor network designs worth £100k+.
+
+\newpage
 
 #### WeWork — Network Architect  
 **London, UK** | **2018 – 2022**

@@ -42,7 +42,7 @@ jobs:
 
       - name: Strip LaTeX content for web rendering
         run: |
-          sed '/^---$/,/^---$/d' docs/Hire-Me/resume-master.md | \
+          awk 'BEGIN { skip=0 } /^---$/ { skip=!skip; next } skip==0 { print }' docs/Hire-Me/resume-master.md | \
           sed '/^\\newpage$/d' > docs/Hire-Me/resume-web.md
 
       - name: Upload Resume Artifacts
