@@ -49,14 +49,14 @@ jobs:
     needs: build-resume
 
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Download Resume Artifacts
         uses: actions/download-artifact@v4
         with:
           name: resume-files
           path: docs/assets/brand-profile/resume/
-
-      - name: Checkout Repository
-        uses: actions/checkout@v4
 
       - name: Commit resume files to repository
         run: |
