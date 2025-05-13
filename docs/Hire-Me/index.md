@@ -36,8 +36,13 @@ hide:
     - [x] Determined to deliver robust and scalable Infrastructure as Code.
     - [x] Adept at working with cross-functional teams to deliver complex projects.
     ---
-
-
+    - [x] :octicons-repo-16: [**python-meraki**](https://github.com/lukeoson/python-meraki)  
+        🛠️ Automates Cisco Meraki networks using the Python SDK.  
+        ![Stars](https://img.shields.io/github/stars/lukeoson/python-meraki?style=social)
+        ![Last Commit](https://img.shields.io/github/last-commit/lukeoson/python-meraki)
+        ![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/lukeoson/python-meraki)
+        ![Issues](https://img.shields.io/github/issues/lukeoson/python-meraki)
+        ![Language](https://img.shields.io/github/languages/top/lukeoson/python-meraki)
 
     ---
 
