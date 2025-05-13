@@ -15,9 +15,9 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 ### Skills
 - **Cloud & Automation:** AWS Networking, Terraform, Ansible, Python SDKs, GitHub Actions, NetBox, Nautobot  
 - **Networking & Infrastructure:** Cisco Meraki, Juniper Mist, Cisco ACI, Palo Alto Panorama  
-- **Tooling & Platforms:** Linux, Docker, Nornir, REST APIs, CI / CD, Grafana  
+- **Tooling & Platforms:** Linux, Docker, Nornir, REST APIs, CICD, Grafana  
 - **Practices:** GitOps, Observability, Infrastructure as Code (IaC), DevOps  
-- **Soft Skills:** Leadership, client-facing architectural leadership, cross-functional collaboration, commercial acumen
+- **Soft Skills:** Leadership, client-facing engagement, cross-functional collaboration, commercial acumen
 
 ---
 
@@ -41,20 +41,20 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 #### Lloret — Network Architect  
 **London, UK** | **2023 – 2024**
 
-- Led design and delivery of high-performance smart building networks, integrating Cisco, Allied Telesis, and IoT systems.
-- Produced technical RFIs, BoMs, and submission packages, aligning to client specs and winning major ICT contracts.
+- Led delivery of high-performance smart building networks, integrating Cisco, Allied Telesis, and IoT systems.
+- Produced RFIs, BoMs, and technical submissions, aligning to client specs and winning major ICT contracts.
 - Built GitOps-driven automation pipelines and source-of-truth systems to improve consistency and deployment accuracy.
-- Reduced project costs by approximately 15% through spec refinement and vendor strategy, while achieving WiredScore Gold/Platinum.
+- Reduced project costs by approximately 15% through spec refinement and vendor strategy, while achieving WiredScore.
 - Partnered closely with clients and executives to present, refine, and secure multi-vendor network designs worth £100k+.
 
 #### WeWork — Network Architect  
 **London, UK** | **2018 – 2022**
 
-- Migrated 100+ offices globally from legacy Cisco to Juniper Mist, reducing incident frequency and support overhead.  
+- Migrated globally from legacy Cisco to Juniper Mist, reducing incident frequency and support overhead.  
 - Built automation frameworks using Python and Nornir, aligning intended vs actual state and streamlining operations.  
-- Led IPFabric and Nautobot adoption from proof-of-concept to production, saving 200+ engineering hours annually through automated visibility and source of truth management.
+- Led IPFabric and Nautobot adoption from concept to production, saving 200+ engineering hours annually through automation.
 - Regional SME for network reliability engineering, automation tooling, and cross-functional DevOps collaboration.
-- Product owner & primary owner of departmental AWS Networking, Splunk Observability, and Okta SSO environments.  
+- Product owner of departmental AWS Networking, Splunk Observability, and Okta SSO environments.  
 - Thrived during global restructuring, taking on additional project ownership amid rapid organizational change.
 
 ---
@@ -70,7 +70,7 @@ Network Automation for Work. Evolutionary Psychology for Life. Climbing & Mounta
 
 ---
 
-> Be Good & be Gone.[+447376209455](tel:+447376209455) | [luke@lukeoson.com](mailto:luke@lukeoson.com)
+"Be Good & be Gone." [+447376209455](tel:+447376209455) | [luke@lukeoson.com](mailto:luke@lukeoson.com)
 
 ---
 
@@ -81,22 +81,9 @@ Network Automation for Work. Evolutionary Psychology for Life. Climbing & Mounta
 
 **AWS Services:** VPC, ENI, IGW, NAT GW, TGW, VGW, CGW, VPN, DX, Peering, GWLB, PrivateLink, EC2, SG, EIP, Route 53, ALB, NLB, IAM, KMS, S3, SQS, SNS, CloudWatch, CloudTrail, GuardDuty, Inspector, Secrets Manager (SM), EventBridge, Lambda, DynamoDB, RDS, EFS, EKS, ECS, CloudFront, Cloud WAN, WAF, Shield, CloudFormation
 
-**Tooling:** Terraform, Ansible, GitOps, CI / CD, GitHub Actions, Nornir, REST API, Python SDKs, Postman, NetBox, Nautobot, InfraHub, IPFabric, Splunk, Prometheus, Grafana
+**Tooling:** Terraform, Ansible, GitOps, CICD, GitHub Actions, Nornir, REST API, Python SDKs, Postman, NetBox, Nautobot, InfraHub, IPFabric, Splunk, Prometheus, Grafana
 
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 --- 
 
