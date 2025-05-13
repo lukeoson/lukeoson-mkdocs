@@ -2,7 +2,7 @@
 #title: "Luke Richardson Resume"
 #author: "Luke Richardson"
 #date: "May 2025"
-mainfont: "Ubuntu"
+mainfont: "TeX Gyre Heros"
 fontsize: 10pt
 geometry: margin=0.75in
 linestretch: 1.1
