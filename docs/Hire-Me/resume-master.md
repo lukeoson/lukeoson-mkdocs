@@ -1,7 +1,7 @@
 ---
-title: "Luke Richardson Resume"
-author: "Luke Richardson"
-date: "May 2025"
+#title: "Luke Richardson Resume"
+#author: "Luke Richardson"
+#date: "May 2025"
 mainfont: "DejaVu Sans"
 fontsize: 10pt
 geometry: margin=0.75in
@@ -47,7 +47,6 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 
 ### Experience
 
-| Where| When | What| Why
 | :-- | :-- | :-- | :-- |
 | [Camden](https://www.camden.gov.uk/) | 2024 - 2025 | Lead Network Engineer | Public Service
 | [Lloret](https://www.lloret.co.uk/) | 2023 - 2024 | Network Architect | Rediscover my Roots
