@@ -22,14 +22,14 @@ jobs:
       - name: Install pandoc and LaTeX dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-plain-generic
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-extra
 
       - name: Convert resume to PDF (Apple-style)
         run: |
           mkdir -p docs/assets/brand-profile/resume/
           pandoc docs/Hire-Me/resume-master.md \
             --from markdown \
-            --template=docs/templates/resume-pdf.tex \
+            --template=docs/templates/eisvogel.latex \
             --pdf-engine=xelatex \
             -o docs/assets/brand-profile/resume/Luke-Richardson-Resume.pdf
 

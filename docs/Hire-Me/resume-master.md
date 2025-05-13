@@ -1,3 +1,14 @@
+---
+title: "Luke Richardson Resume"
+author: "Luke Richardson"
+date: "13/05/2025"
+titlepage: false
+colorlinks: true
+linkcolor: blue
+mainfont: "DejaVu Sans"
+#mainfont: "Helvetica Neue"
+fontsize: 10pt
+---
 ## Luke Richardson
  
 [London W1](https://www.google.com/maps/search/?api=1&amp;query=W1T+1DX) | [luke@lukeoson.com](mailto:luke@lukeoson.com) | [+447376209455](tel:+447376209455) | [LinkedIn](https://linkedin.com/in/luke-richardson) | [GitHub](https://github.com/lukeoson) | [Website](https://lukeoson.com) | [Credly](https://www.credly.com/users/lukeoson)
