@@ -651,6 +651,11 @@ $if(tables)$
 \definecolor{table-row-color}{HTML}{F5F5F5}
 \definecolor{table-rule-color}{HTML}{999999}
 
+\usepackage{etoolbox}
+\AtBeginEnvironment{longtable}{\small}
+\renewcommand{\thetable}{} % disables table numbering
+\captionsetup[table]{labelformat=empty} % disables "Table" prefix
+
 %\arrayrulecolor{black!40}
 \arrayrulecolor{table-rule-color}     % color of \toprule, \midrule, \bottomrule
 \setlength\heavyrulewidth{0.3ex}      % thickness of \toprule, \bottomrule
