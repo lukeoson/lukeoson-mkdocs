@@ -102,9 +102,7 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 - Worked on data centre builds and structured cabling across various campus environments.
 - Built foundational technical expertise that supported transition into network engineering.
 
-### Education
-
-[University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | BA in Politics, 2:1 
+--8<-- "resume-snippet-education.md"
 
 --8<-- "resume-snippet-interests.md"
 

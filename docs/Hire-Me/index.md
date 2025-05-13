@@ -52,7 +52,14 @@ hide:
 
 ---
 
---8<-- "docs/Hire-Me/resume-web.md"
+--8<-- "resume-snippet-contact.md"
+--8<-- "resume-snippet-profile.md"
+--8<-- "resume-snippet-skills.md"
+--8<-- "resume-snippet-timeline.md"
+--8<-- "resume-snippet-roles.md"
+--8<-- "resume-snippet-education.md"
+--8<-- "resume-snippet-interests.md"
+--8<-- "resume-snippet-keywords.md"
 
 ---
 
