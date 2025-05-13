@@ -32,7 +32,7 @@ papersize: a4
 
 ### Profile
 
-Network Systems Engineer & Architect with a bias for automation, bridging cloud-native tooling with legacy complexity. Experienced across enterprise, data centre, industrial and smart building environments, with a focus on robust system design and automation-driven delivery.
+Network systems engineer & architect with a bias for automation. Experienced across enterprise, data centre, industrial and smart building environments, with a focus on robust system design and automation-driven delivery.
 
 Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Fortinet with tooling such as Terraform, Ansible, and Python SDKs. Strong grounding in network fundamentals combined with a deep commitment to advancing automation practices. Immersed in the network automation community and passionate about shaping next-generation architectures for hybrid environments.
 
@@ -57,7 +57,7 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 **London, UK** | **2024 – 2025**
 
 - Led network modernisation projects across critical public sector infrastructure.
-- Supported hybrid environments integrating Cisco Meraki, Cisco ACI, Palo Alto Panorama, and Azure cloud services.
+- Supported hybrid environments integrating Cisco Meraki, Cisco ACI, Palo Alto Panorama, and Azure.
 - Focused on improving operational efficiency through network automation and technical debt remediation.
 
 #### Lloret — Network Architect  
@@ -65,20 +65,20 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 
 - Led delivery of high-performance smart building networks, integrating Cisco, Allied Telesis, and IoT systems.
 - Produced RFIs, BoMs, and technical submissions, aligning to client specs and winning major ICT contracts.
-- Built GitOps-driven automation pipelines and source-of-truth systems to improve consistency and deployment accuracy.
-- Reduced project costs by approximately 15% through spec refinement and vendor strategy, while achieving WiredScore.
-- Partnered closely with clients and executives to present, refine, and secure multi-vendor network designs worth £100k+.
+- Built GitOps automation pipelines and source-of-truth systems to improve consistency and deployment accuracy.
+- Reduced project costs by approximately 15% through spec refinement and vendor strategy.
+- Partnered closely with clients and executives to present, refine, and secure multi-vendor network designs.
 
 \newpage
 
 #### WeWork — Network Architect  
 **London, UK** | **2018 – 2022**
 
-- Migrated globally from legacy Cisco to Juniper Mist, reducing incident frequency and support overhead.  
-- Built automation frameworks using Python and Nornir, aligning intended vs actual state and streamlining operations.  
-- Led IPFabric and Nautobot adoption from concept to production, saving 200+ engineering hours annually through automation.
+- Migrated globally from legacy Cisco to Juniper Mist, reducing incident frequency and support overhead.
+- Built automation frameworks using Python and Nornir, aligning intended vs actual state.
+- Led IPFabric and Nautobot adoption from concept to production, saving 200+ engineering hours annually.
 - Regional SME for network reliability engineering, automation tooling, and cross-functional DevOps collaboration.
-- Product owner of departmental AWS Networking, Splunk Observability, and Okta SSO environments.  
+- Product owner of departmental AWS Networking, Splunk Observability, and Okta SSO environments.
 - Thrived during global restructuring, taking on additional project ownership amid rapid organizational change.
 
 #### Redstone — Network Engineer & TPM  
@@ -109,7 +109,7 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 ### Interests
 Network Automation for Work. Evolutionary Psychology for Life. Climbing & Mountains for Ever.
 
-"Be Good & be Gone." [+447376209455](tel:+447376209455) | [luke@lukeoson.com](mailto:luke@lukeoson.com)
+[+447376209455](tel:+447376209455) | [luke@lukeoson.com](mailto:luke@lukeoson.com)
 
 ---
 
@@ -125,6 +125,11 @@ Network Automation for Work. Evolutionary Psychology for Life. Climbing & Mounta
 </details>
 
 --- 
+
+
+
+
+
 
 
 
