@@ -34,7 +34,7 @@ Network Systems Engineer & Architect with a bias for automation, bridging cloud-
 
 Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Fortinet with tooling such as Terraform, Ansible, and Python SDKs. Strong grounding in network fundamentals combined with a deep commitment to advancing automation practices. Immersed in the network automation community and passionate about shaping next-generation architectures for hybrid environments.
 
----
+-----
 
 ### Skills
 - **Cloud & Automation:** AWS Networking, Terraform, Ansible, Python SDKs, GitHub Actions, NetBox, Nautobot  
@@ -43,15 +43,19 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 - **Practices:** GitOps, Observability, Infrastructure as Code (IaC), DevOps  
 - **Soft Skills:** Leadership, client-facing engagement, cross-functional collaboration, commercial acumen
 
----
+-----
 
 ### Experience
 
+| Where| When | What| Why
+| :-- | :-- | :-- | :-- |
 | [Camden](https://www.camden.gov.uk/) | 2024 - 2025 | Lead Network Engineer | Public Service
 | [Lloret](https://www.lloret.co.uk/) | 2023 - 2024 | Network Architect | Rediscover my Roots
 | [WeWork](https://www.wework.com/) | 2019 - 2023 | Global Network Architect | Build Complex Systems
 | [Redstone](https://www.onnecgroup.com/) | 2017 - 2018 | Network Engineer & TPM | Prove Myself
 | [Dimension Data](https://www.dimensiondata.com/en-gb/) | 2012 - 2017 | PM to Network Engineer | Learn the Ropes
+
+------
 
 #### Camden — Lead Network Engineer  
 **London, UK** | **2024 – 2025**
