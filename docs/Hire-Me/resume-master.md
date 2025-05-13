@@ -1,14 +1,27 @@
 ---
 title: "Luke Richardson Resume"
 author: "Luke Richardson"
-date: "13/05/2025"
-titlepage: false
+date: "May 2025"
+mainfont: "DejaVu Sans"
+fontsize: 10pt
+geometry: margin=0.75in
+linestretch: 1.1
 colorlinks: true
 linkcolor: blue
-mainfont: "DejaVu Sans"
-#mainfont: "Helvetica Neue"
-fontsize: 10pt
+titlepage: false
+papersize: a4
+classoption: oneside
+lang: en-GB
+subject: "Resume / CV"
+keywords: [networking, automation, architect, terraform, cloud, devops]
+header-includes: |
+  \usepackage{parskip}
+  \usepackage{microtype}
+  \setlength{\parskip}{4pt}
+  \setlength{\parindent}{0pt}
+  \renewcommand{\familydefault}{\sfdefault}
 ---
+
 ## Luke Richardson
  
 [London W1](https://www.google.com/maps/search/?api=1&amp;query=W1T+1DX) | [luke@lukeoson.com](mailto:luke@lukeoson.com) | [+447376209455](tel:+447376209455) | [LinkedIn](https://linkedin.com/in/luke-richardson) | [GitHub](https://github.com/lukeoson) | [Website](https://lukeoson.com) | [Credly](https://www.credly.com/users/lukeoson)
