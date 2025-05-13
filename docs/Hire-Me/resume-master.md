@@ -47,7 +47,6 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 
 ### Experience
 
-| :-- | :-- | :-- | :-- 
 | [Camden](https://www.camden.gov.uk/) | 2024 - 2025 | Lead Network Engineer | Public Service
 | [Lloret](https://www.lloret.co.uk/) | 2023 - 2024 | Network Architect | Rediscover my Roots
 | [WeWork](https://www.wework.com/) | 2019 - 2023 | Global Network Architect | Build Complex Systems
