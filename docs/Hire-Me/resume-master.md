@@ -20,6 +20,8 @@ header-includes: |
   \setlength{\parskip}{4pt}
   \setlength{\parindent}{0pt}
   \renewcommand{\familydefault}{\sfdefault}
+tables: true
+papersize: a4
 ---
 
 ## Luke Richardson
@@ -55,7 +57,9 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 | [Redstone](https://www.onnecgroup.com/) | 2017 - 2018 | Network Engineer & TPM | Prove Myself
 | [Dimension Data](https://www.dimensiondata.com/en-gb/) | 2012 - 2017 | PM to Network Engineer | Learn the Ropes
 
-------
+---
+
+\newpage
 
 #### Camden — Lead Network Engineer  
 **London, UK** | **2024 – 2025**
