@@ -1,0 +1,2 @@
+pandoc docs/Hire-Me/resume-master.md -o out.pdf --pdf-engine=xelatex --template=docs/templates/eisvogel.latex
+
