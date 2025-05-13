@@ -52,14 +52,14 @@ hide:
 
 ---
 
---8<-- "resume-snippet-contact.md"
---8<-- "resume-snippet-profile.md"
---8<-- "resume-snippet-skills.md"
---8<-- "resume-snippet-timeline.md"
---8<-- "resume-snippet-roles.md"
---8<-- "resume-snippet-education.md"
---8<-- "resume-snippet-interests.md"
---8<-- "resume-snippet-keywords.md"
+--8<-- "docs/Hire-Me/resume-snippet-contact.md"
+--8<-- "docs/Hire-Me/resume-snippet-profile.md"
+--8<-- "docs/Hire-Me/resume-snippet-skills.md"
+--8<-- "docs/Hire-Me/resume-snippet-timeline.md"
+--8<-- "docs/Hire-Me/resume-snippet-roles.md"
+--8<-- "docs/Hire-Me/resume-snippet-education.md"
+--8<-- "docs/Hire-Me/resume-snippet-interests.md"
+--8<-- "docs/Hire-Me/resume-snippet-keywords.md"
 
 ---
 

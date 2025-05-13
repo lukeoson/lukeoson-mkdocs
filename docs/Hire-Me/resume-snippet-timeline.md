@@ -7,3 +7,4 @@
 | [WeWork](https://www.wework.com/) | 2019–2023 | Global Network Architect | Build Complex Systems |
 | [Redstone](https://www.onnecgroup.com/) | 2017–2018 | Network Engineer & TPM | Prove Myself |
 | [Dimension Data](https://www.dimensiondata.com/en-gb/) | 2012–2017 | PM to Network Engineer | Learn the Ropes |
+
