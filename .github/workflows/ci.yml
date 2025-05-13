@@ -25,6 +25,10 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y pandoc texlive-full
 
+      - name: Install pandoc-include
+        run: |
+          pip install pandoc-include
+
       - name: Convert resume to PDF (Apple-style)
         continue-on-error: true
         run: |
@@ -33,6 +37,7 @@ jobs:
             --from markdown \
             --template=docs/templates/eisvogel.latex \
             --pdf-engine=xelatex \
+            --filter pandoc-include \
             -o docs/assets/brand-profile/resume/Luke-Richardson-Resume.pdf
 
       - name: Convert resume to DOCX

@@ -102,15 +102,15 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 - Worked on data centre builds and structured cabling across various campus environments.
 - Built foundational technical expertise that supported transition into network engineering.
 
---8<-- "docs/Hire-Me/resume-snippet-education.md"
+@include "docs/Hire-Me/resume-snippet-education.md"
 
---8<-- "docs/Hire-Me/resume-snippet-interests.md"
+@include "docs/Hire-Me/resume-snippet-interests.md"
 
 [+447376209455](tel:+447376209455) | [luke@lukeoson.com](mailto:luke@lukeoson.com)
 
 ---
 
---8<-- "resume-snippet-keywords.md"
+@include "docs/Hire-Me/resume-snippet-keywords.md"
 
 --- 
 
