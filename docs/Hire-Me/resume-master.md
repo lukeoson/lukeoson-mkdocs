@@ -21,6 +21,7 @@ header-includes: |
   \setlength{\parindent}{0pt}
   \renewcommand{\familydefault}{\sfdefault}
 tables: true
+table-use-row-colors: true
 papersize: a4
 ---
 
@@ -49,8 +50,8 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 
 ### Experience
 
-| Where | When | What | Why |
-|-------|------|------|-----|
+| Where| When | What| Why
+| :-- | :-- | :-- | :-- |
 | [Camden](https://www.camden.gov.uk/) | 2024–2025 | Lead Network Engineer | Public Service |
 | [Lloret](https://www.lloret.co.uk/) | 2023–2024 | Network Architect | Rediscover my Roots |
 | [WeWork](https://www.wework.com/) | 2019–2023 | Global Network Architect | Build Complex Systems |
@@ -86,6 +87,27 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 - Regional SME for network reliability engineering, automation tooling, and cross-functional DevOps collaboration.
 - Product owner of departmental AWS Networking, Splunk Observability, and Okta SSO environments.  
 - Thrived during global restructuring, taking on additional project ownership amid rapid organizational change.
+
+#### Redstone — Network Engineer & TPM  
+**London, UK** | **2017 – 2018**
+
+- Delivered multiple data centre design and build projects for banking and insurance clients.
+- Oversaw full lifecycle delivery, from pre-sales alignment to stakeholder management and execution.
+- Audited existing data centre infrastructure to prepare for migration.
+
+#### Dimension Data — PM to Network Engineer  
+**UK-wide** | **2012 – 2017**
+
+- Led network refresh and large-scale infrastructure builds for Airbus, RAF, and Rolls Royce.
+- Coordinated fibre backbone and copper horizontal installations across multi-site campus networks.
+- Earned engineering roles by delivering complex builds and leading client interactions.
+
+#### ITS Networks — Structured Cabling Engineer  
+**UK-wide** | **2008 – 2012**
+
+- Installed and terminated vertical backbone and horizontal copper cabling for enterprise LAN deployments.
+- Worked on data centre builds and structured cabling across various campus environments.
+- Built foundational technical expertise that supported transition into network engineering.
 
 ---
 
