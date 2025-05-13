@@ -104,13 +104,13 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 
 @include "docs/Hire-Me/resume-snippet-education.md"
 
-@include "docs/Hire-Me/resume-snippet-interests.md"
+@include "resume-snippet-interests.md"
 
 [+447376209455](tel:+447376209455) | [luke@lukeoson.com](mailto:luke@lukeoson.com)
 
 ---
 
-@include "docs/Hire-Me/resume-snippet-keywords.md"
+@include "resume-snippet-keywords.md"
 
 --- 
 
