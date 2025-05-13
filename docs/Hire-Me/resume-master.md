@@ -30,15 +30,11 @@ papersize: a4
  
 [London W1](https://www.google.com/maps/search/?api=1&amp;query=W1T+1DX) | [luke@lukeoson.com](mailto:luke@lukeoson.com) | [+447376209455](tel:+447376209455) | [LinkedIn](https://linkedin.com/in/luke-richardson) | [GitHub](https://github.com/lukeoson) | [Website](https://lukeoson.com) | [Credly](https://www.credly.com/users/lukeoson)
 
----
-
 ### Profile
 
 Network Systems Engineer & Architect with a bias for automation, bridging cloud-native tooling with legacy complexity. Experienced across enterprise, data centre, industrial and smart building environments, with a focus on robust system design and automation-driven delivery.
 
 Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Fortinet with tooling such as Terraform, Ansible, and Python SDKs. Strong grounding in network fundamentals combined with a deep commitment to advancing automation practices. Immersed in the network automation community and passionate about shaping next-generation architectures for hybrid environments.
-
------
 
 ### Skills
 - **Cloud & Automation:** AWS Networking, Terraform, Ansible, Python SDKs, GitHub Actions, NetBox, Nautobot  
@@ -46,8 +42,6 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 - **Tooling & Platforms:** Linux, Docker, Nornir, REST APIs, CICD, Grafana  
 - **Practices:** GitOps, Observability, Infrastructure as Code (IaC), DevOps  
 - **Soft Skills:** Leadership, client-facing engagement, cross-functional collaboration, commercial acumen
-
------
 
 ### Experience
 
@@ -58,8 +52,6 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 | [WeWork](https://www.wework.com/) | 2019–2023 | Global Network Architect | Build Complex Systems |
 | [Redstone](https://www.onnecgroup.com/) | 2017–2018 | Network Engineer & TPM | Prove Myself |
 | [Dimension Data](https://www.dimensiondata.com/en-gb/) | 2012–2017 | PM to Network Engineer | Learn the Ropes |
-
----
 
 \newpage
 
@@ -110,18 +102,12 @@ Adept at building scalable infrastructure using AWS, Cisco, Juniper, Palo, Forti
 - Worked on data centre builds and structured cabling across various campus environments.
 - Built foundational technical expertise that supported transition into network engineering.
 
----
-
 ### Education
 
 [University of London](https://www.qmul.ac.uk/) | 2005 - 2008 | BA in Politics, 2:1 
 
----
-
 ### Interests
 Network Automation for Work. Evolutionary Psychology for Life. Climbing & Mountains for Ever.
-
----
 
 "Be Good & be Gone." [+447376209455](tel:+447376209455) | [luke@lukeoson.com](mailto:luke@lukeoson.com)
 
