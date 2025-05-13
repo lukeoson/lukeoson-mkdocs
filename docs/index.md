@@ -38,8 +38,9 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A [Network Architect](
   </iframe>
 </div>
 
----
 -->
+
+---
 
 :material-checkbox-marked-outline: Here you will find my [Resume](Hire-Me/index.md), my new [Blog](blog/index.md), and some [Network](Net-Auto/index.md) related content. 
 
