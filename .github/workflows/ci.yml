@@ -40,11 +40,6 @@ jobs:
           pandoc docs/Hire-Me/resume-master.md \
             -o docs/assets/brand-profile/resume/Luke-Richardson-Resume.docx
 
-      - name: Strip LaTeX content for web rendering
-        run: |
-          awk 'BEGIN { skip=0 } /^---$/ { skip=!skip; next } skip==0 { print }' docs/Hire-Me/resume-master.md | \
-          sed '/^\\newpage$/d' > docs/Hire-Me/resume-web.md
-
       - name: Upload Resume Artifacts
         uses: actions/upload-artifact@v4
         with:
