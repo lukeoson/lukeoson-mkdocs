@@ -22,7 +22,8 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A [Network Architect](
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9930.841589429248!2d-0.1326323!3d51.5185289!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b009c344f4f%3A0xc3a8829a41d799ea!2sLuke%20Richardson!5e0!3m2!1sen!2suk!4v1725916073228!5m2!1sen!2suk" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
-<!-->
+
+<!--
 :material-video-outline: Thank you for visiting. If you have a spare 5 minutes... Please allow me to introduce myself.
 
 <div style="position:relative; width:100%; height:0; padding-bottom:56.25%;">
@@ -38,7 +39,8 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A [Network Architect](
 </div>
 
 ---
-<!-->
+-->
+
 :material-checkbox-marked-outline: Here you will find my [Resume](Hire-Me/index.md), my new [Blog](blog/index.md), and some [Network](Net-Auto/index.md) related content. 
 
 !!! info ":material-music-note:{ .heart } I'm open to new and compelling opportunities in the Network Community. :material-music-note:{ .heart }"

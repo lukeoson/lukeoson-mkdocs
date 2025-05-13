@@ -53,14 +53,20 @@ hide:
 ---
 
 --8<-- "docs/Hire-Me/resume-snippet-contact.md"
+---
 --8<-- "docs/Hire-Me/resume-snippet-profile.md"
+---
 --8<-- "docs/Hire-Me/resume-snippet-skills.md"
+---
 --8<-- "docs/Hire-Me/resume-snippet-timeline.md"
+---
 --8<-- "docs/Hire-Me/resume-snippet-roles.md"
+---
 --8<-- "docs/Hire-Me/resume-snippet-education.md"
+---
 --8<-- "docs/Hire-Me/resume-snippet-interests.md"
+---
 --8<-- "docs/Hire-Me/resume-snippet-keywords.md"
-
 ---
 
 > :material-heart: Thanks for taking the time to read my resume. [Please get in touch](mailto:hello@lukeoson.com). 🎉 
