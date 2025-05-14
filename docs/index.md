@@ -4,8 +4,8 @@ title: Home
 icon: material/home-outline
 hide:
   #- footer
-  - navigation
-  -toc
+  #- navigation
+  #- toc
 #level:
 ---
 
