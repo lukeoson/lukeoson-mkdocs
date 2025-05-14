@@ -38,11 +38,11 @@ hide:
     ---
 
     - [x] :octicons-repo-16: [**lukeoson.github**](https://github.com/lukeoson/lukeoson.github.io)  
-      🛠️ Luke Richardson's GitHub Landing Page.  
+      :simple-githubcopilot: Luke Richardson's GitHub Landing Page.  
+      ![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/lukeoson/lukeoson.github.io?style=flat-square&labelColor=%23526cfe&color=%4caf50)
+      ![Issues](https://img.shields.io/github/issues/lukeoson/lukeoson.github.io?style=flat-square&labelColor=%23526cfe&color=%23dd2e57)
+      ![Language](https://img.shields.io/github/languages/top/lukeoson/lukeoson.github.io?style=flat-square&labelColor=%23526cfe&color=ffeb3b)
       ![Stars](https://img.shields.io/github/stars/lukeoson/lukeoson.github.io?style=social)
-      ![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/lukeoson/lukeoson.github.io)
-      ![Issues](https://img.shields.io/github/issues/lukeoson/lukeoson.github.io)
-      ![Language](https://img.shields.io/github/languages/top/lukeoson/lukeoson.github.io)
 
 </div> 
 
@@ -109,31 +109,30 @@ hide:
     ---
 
     - [x] :octicons-repo-16: [**python-meraki**](https://github.com/lukeoson/python-meraki)  
+      ![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/lukeoson/python-meraki?style=flat-square&labelColor=%23526cfe&color=%4caf50)
+      ![Issues](https://img.shields.io/github/issues/lukeoson/python-meraki?style=flat-square&labelColor=%23526cfe&color=%23dd2e57)
+      ![Language](https://img.shields.io/github/languages/top/lukeoson/python-meraki?style=flat-square&labelColor=%23526cfe&color=ffeb3b)
       ![Stars](https://img.shields.io/github/stars/lukeoson/python-meraki?style=social)
-      ![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/lukeoson/python-meraki)
-      ![Issues](https://img.shields.io/github/issues/lukeoson/python-meraki)
-      ![Language](https://img.shields.io/github/languages/top/lukeoson/python-meraki)
-
 
 -   :material-code-block-tags:{ .lg .middle } [__Terraform AWS Automation Project__](https://github.com/lukeoson/python-meraki)
 
     ---
 
     - [x] :octicons-repo-16: [**terraform-aws**](https://github.com/lukeoson/python-meraki)   
+      ![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/lukeoson/python-meraki?style=flat-square&labelColor=%23526cfe&color=%4caf50)
+      ![Issues](https://img.shields.io/github/issues/lukeoson/python-meraki?style=flat-square&labelColor=%23526cfe&color=%23dd2e57)
+      ![Language](https://img.shields.io/github/languages/top/lukeoson/python-meraki?style=flat-square&labelColor=%23526cfe&color=ffeb3b)
       ![Stars](https://img.shields.io/github/stars/lukeoson/python-meraki?style=social)
-      ![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/lukeoson/python-meraki)
-      ![Issues](https://img.shields.io/github/issues/lukeoson/python-meraki)
-      ![Language](https://img.shields.io/github/languages/top/lukeoson/python-meraki)
 
 -   :material-code-block-tags:{ .lg .middle } [__These Pages are Built with MkDocs__](https://github.com/lukeoson/lukeoson-mkdocs)
 
     ---
 
     - [x] :octicons-repo-16: [**lukeoson-mkdocs**](https://github.com/lukeoson/lukeoson-mkdocs)    
+        ![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/lukeoson/lukeoson-mkdocs?style=flat-square&labelColor=%23526cfe&color=%4caf50)
+        ![Issues](https://img.shields.io/github/issues/lukeoson/lukeoson-mkdocs?style=flat-square&labelColor=%23526cfe&color=%23dd2e57)
+        ![Language](https://img.shields.io/github/languages/top/lukeoson/lukeoson-mkdocs?style=flat-square&labelColor=%23526cfe&color=ffeb3b)
         ![Stars](https://img.shields.io/github/stars/lukeoson/lukeoson-mkdocs?style=social)
-        ![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/lukeoson/lukeoson-mkdocs)
-        ![Issues](https://img.shields.io/github/issues/lukeoson/lukeoson-mkdocs)
-        ![Language](https://img.shields.io/github/languages/top/lukeoson/lukeoson-mkdocs)
 
 </div>
 
