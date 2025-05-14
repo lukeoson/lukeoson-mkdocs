@@ -9,3 +9,9 @@ pandoc docs/Hire-Me/resume-master.md -o out.pdf --pdf-engine=xelatex --template=
         ![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/lukeoson/python-meraki)
         ![Issues](https://img.shields.io/github/issues/lukeoson/python-meraki)
         ![Language](https://img.shields.io/github/languages/top/lukeoson/python-meraki)
+
+
+
+    - Option 1: Network Architecture & Automated IaC
+    - Option 2: Network Automation
+    - Option 3: Leadership & Team Management

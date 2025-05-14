@@ -4,8 +4,8 @@ title: Home
 icon: material/home-outline
 hide:
   #- footer
-  #- navigation
-  #-toc
+  - navigation
+  -toc
 #level:
 ---
 
@@ -45,11 +45,7 @@ I'm [Luke](https://www.linkedin.com/in/luke-richardson/). A [Network Architect](
 :material-checkbox-marked-outline: Here you will find my [Resume](Hire-Me/index.md), my new [Blog](blog/index.md), and some [Network](Net-Auto/index.md) related content. 
 
 !!! info ":material-music-note:{ .heart } I'm open to new and compelling opportunities in the Network Community. :material-music-note:{ .heart }"
-    If you have a role I might be interested in, please [get in touch](mailto:hello@lukeoson.com). You have my thanks and appreciation.
-
-    - Option 1: Network Architecture & Automated IaC
-    - Option 2: Network Automation
-    - Option 3: Leadership & Team Management  
+    If you have a role I might be interested in, please [get in touch](mailto:hello@lukeoson.com). You have my thanks and appreciation.  
 
     > {{ fantastical }} Meeting Link.   
 
