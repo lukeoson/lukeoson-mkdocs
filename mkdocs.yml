@@ -158,7 +158,7 @@ plugins:
         cards_layout: default/invert
         logo: layouts/lukeoson-spaceman.png
         background_color: transparent
-        background_image: layouts/lukeoson-clouds.jpeg
+        background_image: layouts/lukeoson-background.png
         debug: true
         description: "lukeoson.com | hello@lukeoson.com | +447376209455 | London"
   - git-committers:
