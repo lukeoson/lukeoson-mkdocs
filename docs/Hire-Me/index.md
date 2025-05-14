@@ -104,7 +104,7 @@ hide:
 
 <div class="grid cards" markdown>
 
--   :material-code-block-tags:{ .lg .middle } [__Cisco Meraki Automation Project__](https://github.com/lukeoson/python-meraki)
+-   :material-code-block-tags:{ .lg .middle } [__Python Meraki Automation Project__](https://github.com/lukeoson/python-meraki)
 
     ---
 
@@ -114,15 +114,10 @@ hide:
       ![Language](https://img.shields.io/github/languages/top/lukeoson/python-meraki?style=flat-square&labelColor=%23526cfe&color=ffeb3b)
       ![Stars](https://img.shields.io/github/stars/lukeoson/python-meraki?style=social)
 
--   :material-code-block-tags:{ .lg .middle } [__Terraform AWS Automation Project__](https://github.com/lukeoson/python-meraki)
-
     ---
 
-    - [x] :octicons-repo-16: [**terraform-aws**](https://github.com/lukeoson/python-meraki)   
-      ![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/lukeoson/python-meraki?style=flat-square&labelColor=%23526cfe&color=%4caf50)
-      ![Issues](https://img.shields.io/github/issues/lukeoson/python-meraki?style=flat-square&labelColor=%23526cfe&color=%23dd2e57)
-      ![Language](https://img.shields.io/github/languages/top/lukeoson/python-meraki?style=flat-square&labelColor=%23526cfe&color=ffeb3b)
-      ![Stars](https://img.shields.io/github/stars/lukeoson/python-meraki?style=social)
+    - [x] Built to support my Meraki home lab.
+    - [x] Uses the Meraki Python SDK.
 
 -   :material-code-block-tags:{ .lg .middle } [__These Pages are Built with MkDocs__](https://github.com/lukeoson/lukeoson-mkdocs)
 
@@ -133,6 +128,27 @@ hide:
         ![Issues](https://img.shields.io/github/issues/lukeoson/lukeoson-mkdocs?style=flat-square&labelColor=%23526cfe&color=%23dd2e57)
         ![Language](https://img.shields.io/github/languages/top/lukeoson/lukeoson-mkdocs?style=flat-square&labelColor=%23526cfe&color=ffeb3b)
         ![Stars](https://img.shields.io/github/stars/lukeoson/lukeoson-mkdocs?style=social)
+
+    ---
+
+    - [x] Built with MkDocs Material Theme. 
+    - [x] Uses the Squidfunk Sponsor Tier.
+
+-   :material-code-block-tags:{ .lg .middle } [__Terraform AWS Automation Project__](https://github.com/lukeoson/python-meraki)
+
+    ---
+
+    - [x] :octicons-repo-16: [**terraform-modules**](https://github.com/lukeoson/terraform-modules)   
+      ![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/lukeoson/terraform-modules?style=flat-square&labelColor=%23526cfe&color=%4caf50)
+      ![Issues](https://img.shields.io/github/issues/lukeoson/terraform-modules?style=flat-square&labelColor=%23526cfe&color=%23dd2e57)
+      ![Language](https://img.shields.io/github/languages/top/lukeoson/terraform-modules?style=flat-square&labelColor=%23526cfe&color=ffeb3b)
+      ![Stars](https://img.shields.io/github/stars/lukeoson/terraform-modules?style=social)
+
+    - [x] :octicons-repo-16: [**terraform-live**](https://github.com/lukeoson/terraform-live)   
+      ![Pull Requests Closed](https://img.shields.io/github/issues-pr-closed/lukeoson/terraform-live?style=flat-square&labelColor=%23526cfe&color=%4caf50)
+      ![Issues](https://img.shields.io/github/issues/lukeoson/terraform-live?style=flat-square&labelColor=%23526cfe&color=%23dd2e57)
+      ![Language](https://img.shields.io/github/languages/top/lukeoson/terraform-live?style=flat-square&labelColor=%23526cfe&color=ffeb3b)
+      ![Stars](https://img.shields.io/github/stars/lukeoson/terraform-live?style=social)
 
 </div>
 
