@@ -15,3 +15,6 @@ pandoc docs/Hire-Me/resume-master.md -o out.pdf --pdf-engine=xelatex --template=
     - Option 1: Network Architecture & Automated IaC
     - Option 2: Network Automation
     - Option 3: Leadership & Team Management
+
+
+    ![Trophies](https://github-profile-trophy.vercel.app/?username=lukeoson&theme=flat&margin-w=5)
